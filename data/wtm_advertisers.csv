@@ -1,290 +1,675 @@
 id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,countries.alpha2,advertisers_platforms.advertiser_platform_ref,advertisers_platforms.advertiser_platform_name,platforms.name
-033159f0-3e07-499f-93c8-121169eed5a8,Partido Justicialista - Frente de Todos Coronel Pringles,2023-07-06T06:06:44.352Z,e4166eed-8d8b-4b25-9653-dc468185d54c,UP,Argentina,ar,1565394790369832,Partido Justicialista - Frente de Todos Coronel Pringles,Facebook
-19691ad6-4c27-4b5f-8416-5ebde1694327,Unión por la Patria Navarro,2023-08-05T05:07:07.965Z,2c0a4bdf-68f0-4185-b018-8fe4bab93f44,UP,Argentina,ar,110801602060212,Unión por la Patria Navarro,Facebook
+21f16ed9-c5c8-4402-9339-5a0c8f8406c1,Andrés Blanco,2023-02-07T15:06:01.855Z,b84afa7e-301e-4ad6-acfc-8b0af4ef5b1a,FIT,Argentina,ar,1196044817194724,Andrés Blanco,Facebook
+927ef1dd-39e6-4661-a2ee-9af812405d50,Soledad Díaz García,2023-02-07T15:06:01.756Z,cc39e8da-390b-426f-8880-f3a8620e81e2,FIT,Argentina,ar,1742025116063394,Soledad Díaz García,Facebook
+858b5446-cd44-4ede-aa28-310692460514,Partido Obrero San Juan - en el Frente de Izquierda,2023-04-08T10:52:23.695Z,b6232a85-4b58-4274-aa28-c1201c8b0c7d,FIT,Argentina,ar,453252135056007,Partido Obrero San Juan - en el Frente de Izquierda,Facebook
+89ed0c59-543c-47db-b21e-ac7157795fe1,Gaston Remy,2023-03-07T10:52:24.363Z,7c6d2538-2d7d-4dff-b1ed-abb54cc292be,FIT,Argentina,ar,1355449444536526,Gaston Remy,Facebook
+afe8c290-a32b-4ff1-99c5-6cc0c2ca1293,PTS Chubut- Frente de Izquierda Unidad,2023-02-17T10:52:16.591Z,0c333f83-b990-4964-b133-ff3c7527ff13,FIT,Argentina,ar,463474643817662,PTS Chubut- Frente de Izquierda Unidad,Facebook
 1d7f96bf-fead-470f-97f3-ccdbeda99bd8,Federico Otermín,2023-02-08T05:54:35.661Z,c997962d-13ec-4078-8737-11af20dbc3fc,UP,Argentina,ar,622853724492420,Federico Otermín,Facebook
-1ed2b8f8-0de0-4d72-b2d6-78d27fbd0a34,Unión por la Patria La Plata,2023-08-05T05:07:06.524Z,430e738b-c353-4162-931c-ad699c0a2bc1,UP,Argentina,ar,106702349126879,Unión por la Patria La Plata,Facebook
-2372932c-8de1-487a-b402-93e53d48bd97,Unión Por la Patria Tierra del Fuego,2023-10-18T05:06:25.206Z,8c9b0050-7aba-4b86-9414-e6cce069d04d,UP,Argentina,ar,2205425736182648,Unión Por la Patria Tierra del Fuego,Facebook
-265caa2d-ca7d-4174-bf2d-42e5a4575321,Unión por La Patria Bragado,2023-08-03T05:06:52.682Z,f6c98966-60eb-4470-a500-54e864f79b8b,UP,Argentina,ar,114122685043195,Unión por La Patria Bragado,Facebook
-29c2d60d-6dcf-45a9-b0a0-08cdb6af6305,Unión por la Patria San Fernando,2023-07-17T06:31:24.998Z,4a64a97a-1708-46bc-aaaf-01146fc8db73,UP,Argentina,ar,2321348041462779,Unión por la Patria San Fernando,Facebook
-2b572668-d39c-4f3f-ac02-f0a87995fe2c,,2023-08-08T05:06:27.240Z,13a4d6aa-1fab-40d2-86aa-9cf39a2642b8,UP,Argentina,ar,115467818266230,,Facebook
-2e784f3d-9414-417e-b058-8204b601f09d,Martín Insaurralde,2023-02-15T10:52:16.215Z,50993fbe-61c0-4fb2-a4e7-84f508787f1d,UP,Argentina,ar,174876119204869,Martín Insaurralde,Facebook
-308c6b3a-7e26-4bb5-8f31-01b68725b3f7,,2023-05-13T06:52:30.406Z,97901e51-1436-47bd-b7ef-4e05d166fd5b,UP,Argentina,ar,109104915512477,,Facebook
-31b30b9a-1ff5-4840-bf57-5ed21d49db25,,2023-08-06T05:06:57.173Z,15938cc5-5f5f-4eab-b983-c16231253f08,UP,Argentina,ar,107553832426946,,Facebook
-35231bb3-e8eb-4956-80ea-f37642335d8c,Unión Por La Patria Tres Arroyos - Oficial,2023-11-04T05:06:10.915Z,8485426c-ac26-4e9f-a529-bcb8b8693d1b,UP,Argentina,ar,101236273030794,Unión Por La Patria Tres Arroyos - Oficial,Facebook
-370664f9-3e99-4736-a3f6-ce09d62687ce,Unión por la Patria Gral Madariaga,2023-10-24T05:06:21.515Z,914e4bd3-f9ec-40e5-8d46-0c007c854dd7,UP,Argentina,ar,224528761654512,Unión por la Patria Gral Madariaga,Facebook
-3a5a3fcf-ad1c-46ca-9460-4769e10f0283,Unión por la Patria Jacobacci,2023-10-25T05:06:55.679Z,7efa10c8-5942-4035-a969-441911cec27d,UP,Argentina,ar,353280385377545,Unión por la Patria Jacobacci,Facebook
-3e4646cd-0b85-4e14-8d69-6099998d0072,Unión por las Redes,2023-07-31T11:02:09.783Z,536ed8a7-29cb-4fd1-b8ce-db482249220b,UP,Argentina,ar,113440031817559,Unión por las Redes,Facebook
-4102aeb5-8e55-4e0e-8c90-a6d7dd5e3b12,Unión por la Patria - Movimiento para la Victoria,2023-07-23T05:07:18.434Z,ffd55e98-1f23-4a0f-bfca-90d5335255da,UP,Argentina,ar,320797736269,Unión por la Patria - Movimiento para la Victoria,Facebook
-436c75a9-6c6b-45d2-a5c2-c8ae21995f2c,Unión por la Patria Berazategui,2023-07-31T11:12:16.412Z,fa666477-354b-4c66-94ca-f2f54269e54a,UP,Argentina,ar,143389762885535,Unión por la Patria Berazategui,Facebook
-439cec72-a052-4691-baad-62c257a30b6a,Unión por la Patria JG - Agua de Oro,2023-07-31T11:12:16.437Z,ccf8aead-8f72-493b-ae64-6b3847e0c6f6,UP,Argentina,ar,112502018588731,Unión por la Patria JG - Agua de Oro,Facebook
-451547ca-494a-45aa-a3b1-8f6cc019d9cb,Unión por la Patria Zárate-Lima,2023-07-31T11:12:15.219Z,a4b86669-4884-4cb1-b5f3-dfb680d6112f,UP,Argentina,ar,114537658365854,Unión por la Patria Zárate-Lima,Facebook
-48b30b47-8b00-4452-9ed7-cac20187472d,Todos Campana,2023-05-20T06:52:24.168Z,dd14487d-6020-4dc0-81fe-febaf68b52b3,UP,Argentina,ar,1656948991301244,Todos Campana,Facebook
-49139369-f9d2-4090-807f-7be646aee7d6,Todos Roque Pérez,2023-07-05T06:06:34.116Z,05a1d6b5-2507-43df-8a63-f3ad528aea44,UP,Argentina,ar,130897680800368,Todos Roque Pérez,Facebook
-49162a8d-d1dd-477f-a07e-5c9b814a96cb,Unión por la Patria Exaltación de la Cruz,2023-07-17T06:31:27.440Z,43586e45-1f38-4f70-a374-6e4713fc9eee,UP,Argentina,ar,377502529777842,Unión por la Patria Exaltación de la Cruz,Facebook
-4a85bf35-127a-41fd-a582-88ae8b4ff415,Unión por la Patria Lobería,2023-10-07T05:06:21.875Z,1f23bec6-c5bf-48a7-b2a8-6c1ba5493351,UP,Argentina,ar,380409345421447,Unión por la Patria Lobería,Facebook
-4a8b45d2-fd7c-4d52-a40f-e14cabbdb880,Unión por la Patria JG,2023-08-05T05:07:06.167Z,56b436c4-7c91-465b-aa50-fe5d2a3cca07,UP,Argentina,ar,113732213839062,Unión por la Patria JG,Facebook
-4ce09c4a-1230-47ea-bfee-59c41e3e7bab,Unión Por La Patria - Pinamar,2023-10-17T05:06:29.148Z,ef7e38f4-af94-46fb-986a-fb7737ba0dde,UP,Argentina,ar,106354911751390,Unión Por La Patria - Pinamar,Facebook
-4d3046f0-0a2e-4d0d-858e-82388518ecad,Celeste Ascúa,2023-05-08T06:52:05.837Z,e9d900b5-82a1-4a76-9831-a555f76b5cae,UP,Argentina,ar,121558597580863,Celeste Ascúa,Facebook
-51dfb496-511a-476a-8035-a1a21737b214,Unión por la Patria Sta María,2023-08-11T05:08:32.849Z,2f3acb35-2a0a-4bb3-8a5b-c1c54d3f83e3,UP,Argentina,ar,105427895985300,Unión por la Patria Sta María,Facebook
-51e77d97-7aef-49e3-ae7c-480e5611a48c,César Lezcano,2023-05-20T06:52:24.579Z,ccec92e8-d410-462e-aa64-99d20885e1e9,UP,Argentina,ar,918158378274332,César Lezcano,Facebook
-539f603e-daaa-4119-b0ce-76677cab56f3,Unión por la Patria Morón,2023-08-11T05:08:31.585Z,4b6448b5-d435-4f48-9b0e-6890ae7e35ae,UP,Argentina,ar,478718439129680,Unión por la Patria Morón,Facebook
-57c16b5a-9959-4621-a1aa-95f86f24fa89,Unión por la Patria Trenque Lauquen,2023-08-13T05:07:15.788Z,16f5687a-0923-4473-820e-35cf81645a3b,UP,Argentina,ar,321266771640180,Unión por la Patria Trenque Lauquen,Facebook
-5bcd5f62-5fcc-4ee0-a531-7e1b278ee4b0,Unión por la Patria,2023-10-19T05:06:25.380Z,428e993d-32bc-42ef-b425-fff5a29dab04,UP,Argentina,ar,1987003524912488,Unión por la Patria,Facebook
-5cb3481a-9e0d-4f1f-a87f-ab101acc42f6,Frente de todos neuquino,2023-03-27T10:52:28.490Z,8cd59b26-49e5-4605-bdbc-c7242dc4f2ea,UP,Argentina,ar,943247715686438,Frente de todos neuquino,Facebook
-5eb5317a-c6c4-4e2c-8854-ad3882ffd9d1,Unión por la Patria Balcarce,2023-08-01T05:07:06.206Z,3bac8f0a-d736-4982-87a2-eacc269ac124,UP,Argentina,ar,1713828825585616,Unión por la Patria Balcarce,Facebook
-6129c232-b4a4-47f8-9526-c1716f18493e,Federico Meca,2023-02-20T10:52:26.718Z,b0d79a5a-1d8a-4ad2-8af0-ae1994fab072,UP,Argentina,ar,808440849306072,Federico Meca,Facebook
-618238ef-47ff-4414-b436-b40a36c3c836,Todos Villarino,2023-08-08T05:06:26.838Z,118816d8-504e-4ad8-83c1-b3e7ef07263b,UP,Argentina,ar,603002336531778,Todos Villarino,Facebook
-6503a8da-de73-43b6-816e-01f1cd0879fb,Senadores Frente De Todos Salta,2023-04-12T10:51:54.547Z,6b0cb364-4b2e-4de1-abf6-b2f0cf3b5227,UP,Argentina,ar,111367011480466,Senadores Frente De Todos Salta,Facebook
-72ec7bb5-9ea5-4ff1-aa96-cec506ae9428,Concejales Frente De Todos MDP,2023-02-07T15:06:01.926Z,91632265-0934-4243-a91a-0a2a7cc20fa9,UP,Argentina,ar,110183273817607,Concejales Frente De Todos MDP,Facebook
-738f61d3-9f3a-4b42-aaa8-654525177b93,Unión por la Patria,2023-08-13T05:07:15.998Z,3a3640c9-ee54-43ba-b4ce-02d440826555,UP,Argentina,ar,1556352184484351,Unión por la Patria,Facebook
-7a7e5e7b-d541-4dce-b2b9-178064881000,Sol Fernández,2023-05-23T06:52:23.153Z,c63cb1e9-5f97-4076-ad49-100195dd8486,UP,Argentina,ar,1467041676908836,Sol Fernández,Facebook
-7ab5aaee-3d27-4edd-8093-747c9d58bd8d,Sergio Massa,2023-09-23T05:06:19.185Z,84cc4306-11ae-4f84-b41e-b2192fc98a23,UP,Argentina,ar,374082229927,Sergio Massa,Facebook
-7c1e5a25-7457-4adf-865c-a843ae3bc2b1,Unión por la Patria Lanús,2023-08-10T05:07:04.287Z,8fd1361e-d4e6-4227-befb-7afdc06bc5a7,UP,Argentina,ar,107448593924080,Unión por la Patria Lanús,Facebook
-82224993-6eed-41e1-a1a1-2a456edc99eb,Unión por la Patria - Chaco,2023-08-11T05:08:32.435Z,6bc0a8db-a5c0-45ab-b1a7-a1be24ff2a50,UP,Argentina,ar,114897618354974,Unión por la Patria - Chaco,Facebook
-82a6d405-1886-473b-918a-a27aafa0fd59,Frente de Todos La Cruz,2023-05-20T06:52:25.274Z,662a667f-4060-4db5-89fb-4207db433531,UP,Argentina,ar,283594182520057,Frente de Todos La Cruz,Facebook
+7edabd0d-6300-4637-94b8-cde95ece1578,Partido Obrero La Pampa,2023-04-04T10:52:24.589Z,cc51bb73-80c5-4dda-b4bb-519dca06bba3,FIT,Argentina,ar,837126866357906,Partido Obrero La Pampa,Facebook
+84abe25d-6bc6-4ae3-a894-1df4fc3de4cc,PTS  en el Frente de Izquierda-José C. Paz,2023-03-01T10:52:23.378Z,e41c6d08-ae64-40af-86e3-e504a1186b54,FIT,Argentina,ar,674901732643229,PTS  en el Frente de Izquierda-José C. Paz,Facebook
+fe4a394d-f04a-413a-9054-9d7cda221b64,Noelia Barbeito,2023-02-20T10:52:26.810Z,4a940bb9-5431-48d1-bcd6-45053a59fc9e,FIT,Argentina,ar,716395405117138,Noelia Barbeito,Facebook
 8b0a9524-7ffd-4aa7-941b-36e4a0097449,Marisa Fassi,2023-02-07T15:06:01.938Z,67b01a83-2f72-4c28-99e6-0f7b7b0f2508,UP,Argentina,ar,1616731398614099,Marisa Fassi,Facebook
-8b93589a-4190-46bf-b152-7c99a5cddfdd,Frente de Todos - Entre Ríos,2023-08-06T05:06:59.423Z,f4d0ee83-4019-4dad-8f70-3bdec77fe7fd,UP,Argentina,ar,2029254300465548,Frente de Todos - Entre Ríos,Facebook
-8bd53860-63a8-4c47-9bd2-bdeb5464631f,Martín Tincho Ascúa,2023-05-08T06:52:05.887Z,c583d057-06a1-4f15-8973-9d84d6d75ad8,UP,Argentina,ar,381280145568609,Martín Tincho Ascúa,Facebook
-a0c3417b-f124-40a2-951c-f8793d0f6248,Marlen Gauna,2023-05-27T06:52:09.714Z,60017f68-04cd-4ba0-90a7-a9e1c068ee94,UP,Argentina,ar,109115998154043,Marlen Gauna,Facebook
-a29948f3-b9a1-4dd2-9574-f0af4149a16f,Unión por la Patria / Río Negro,2023-08-03T05:06:51.922Z,222646fb-dafc-42d8-8337-f975ea0244ea,UP,Argentina,ar,102784632748876,Unión por la Patria / Río Negro,Facebook
+a0e50471-32a4-4bef-96e7-2615486f5204,Partido Obrero - Frente de Izquierda Río Negro,2023-04-04T10:52:23.756Z,893cd9cb-ae8b-4fa3-9b27-014d530a55df,FIT,Argentina,ar,751296878340462,Partido Obrero - Frente de Izquierda Río Negro,Facebook
+73c3e5ec-fe08-4c5f-b7c8-595ff3c5c716,Frente de Izquierda PTS Zona Oeste,2023-03-06T10:52:27.416Z,89ba18dd-c94f-48df-ad5c-87e09a5304fa,FIT,Argentina,ar,358854617653608,Frente de Izquierda PTS Zona Oeste,Facebook
+71822af3-9145-47cd-a12d-a8e315ded9a6,Lautaro Jimenez,2023-02-07T15:06:02.308Z,8a7d1266-142f-46b6-9533-84177ba944b2,FIT,Argentina,ar,836721716420200,Lautaro Jimenez,Facebook
+a3e7f8f3-0959-432a-83ac-3f8997e7a842,La Libertad Avanza Capilla del Monte,2023-02-17T10:52:16.396Z,733333a5-22a4-498b-98b7-3d9fb241ba16,LA,Argentina,ar,775357269485593,La Libertad Avanza Capilla del Monte,Facebook
 a2c00a21-96b5-4af8-aeb9-687ad5011e30,Frente de Todos Neuquino,2023-03-11T10:52:31.895Z,33be04c8-9d9a-4d04-bd54-b0834da1c9f8,UP,Argentina,ar,1426818260901447,Frente de Todos Neuquino,Facebook
-a31eb0da-f948-4cc5-bffa-450be8bb5a9f,Unión por la Patria Chascomús,2023-08-09T05:06:54.156Z,808a70f0-f6cc-4a45-8732-46ff27912e8d,UP,Argentina,ar,104213006070005,Unión por la Patria Chascomús,Facebook
-a39f2299-5eaa-4cc6-9ae5-cb57c210e036,Unión por la Patria Darregueira,2023-07-24T05:06:49.762Z,819f7cbb-da95-46d3-ba2e-9a463279df4e,UP,Argentina,ar,105970538063184,Unión por la Patria Darregueira,Facebook
-a8e07319-1c95-4638-a9ab-d8529b5edf5f,Frente de Todos General Alvear,2023-02-11T10:52:12.013Z,6f77fa9d-607b-4d58-8f1f-2a899902820c,UP,Argentina,ar,1348997745113243,Frente de Todos General Alvear,Facebook
-ae85ada8-33b7-442e-b781-aba296571da8,Unión por la Patria Hurlingham,2023-06-30T05:06:54.303Z,abbdeaec-f22a-4e34-a52f-4ca5cdbd7ec1,UP,Argentina,ar,103222639479535,Unión por la Patria Hurlingham,Facebook
-aefd4421-61c4-42ae-a1de-c06783f91a89,Alejo Sarna,2023-05-25T06:52:19.808Z,6cf23721-e4a0-4053-a51d-af846c1d9268,UP,Argentina,ar,317026248674145,Alejo Sarna,Facebook
-b2a501a8-eb52-48da-8e2f-6dc4c0f17801,Unión por la Patria Rauch,2023-07-31T10:53:53.378Z,7abb93e3-adf9-41ab-8359-b9eb6670b8e2,UP,Argentina,ar,2397497630575167,Unión por la Patria Rauch,Facebook
-b2f5460a-ad40-437f-9e60-fa5d5d9d7061,Union por la Patria Trenque Lauquen,2023-08-07T05:07:18.565Z,16b7110e-d259-430f-be38-a3bd72a17d86,UP,Argentina,ar,471719063033128,Union por la Patria Trenque Lauquen,Facebook
-b31d3367-9c35-4bf6-97c9-47238de46546,Derecho al Pasado,2023-07-31T11:02:10.262Z,27a0c1da-d18e-4f57-a96a-fc63b51a038c,UP,Argentina,ar,114046241738745,Derecho al Pasado,Facebook
-b7fb2deb-6858-41da-9ae2-cb62a120219b,NotiBaires,2023-02-07T15:06:02.568Z,c3b02101-9f66-4ca8-8ac6-e4f417c96542,UP,Argentina,ar,610065179346397,NotiBaires,Facebook
-b8eb92c7-d27b-4891-9e43-ac6acdfa8a7d,Unión por la Patria - Azul,2023-07-13T06:24:37.293Z,d4d97964-4957-48c7-87dc-6f2439ccf6ce,UP,Argentina,ar,2345317912397528,Unión por la Patria - Azul,Facebook
-bd5b31ee-add7-4f25-b7cd-14270903be64,Frente de Todos Corrientes,2023-05-20T06:52:24.247Z,777f2d4b-d13f-4675-aca6-f2acaafc2cc7,UP,Argentina,ar,380587129254638,Frente de Todos Corrientes,Facebook
-c3534ea3-a2b4-4bbf-968b-3a0c4fd263b4,Derecho al Futuro,2023-06-13T06:52:26.214Z,86ae3af9-3408-4788-8738-089fb1b6025e,UP,Argentina,ar,101481752980291,Derecho al Futuro,Facebook
-c52967e2-3d75-49e6-9351-a550747b20b3,Unión por la Patria San Cayetano,2023-08-11T05:08:31.987Z,7fdda7e7-e146-4ee5-9e89-903dca039918,UP,Argentina,ar,287089731852353,Unión por la Patria San Cayetano,Facebook
-c55fea2c-40a4-41a0-91bb-9814c1dc8bd7,Argentinos Online,2023-02-07T15:06:01.846Z,67ca9534-9a83-4454-bf49-023cd09e363e,UP,Argentina,ar,544640985878621,Argentinos Online,Facebook
-c860e90d-3aa2-4cde-87ab-0742365b44b0,Axel Kicillof,2023-07-21T05:07:17.855Z,dce9038e-9dbd-44cf-9156-cfd575141368,UP,Argentina,ar,116053261893854,Axel Kicillof,Facebook
-ce7b99f3-9468-4dbe-abca-12aeccafb8be,Unión por la Patria Quilmes,2023-06-19T18:24:16.914Z,c98a038b-e795-4808-9755-05b046c14077,UP,Argentina,ar,103054299496218,Unión por la Patria Quilmes,Facebook
-cf3b7e70-77fc-4497-b295-7574486eb024,Gato Fernández,2023-03-24T10:52:26.008Z,5f65b239-819d-4739-b36f-bba4930f1c1c,UP,Argentina,ar,104856199182046,Gato Fernández,Facebook
-d2f24ff6-c5ac-4759-a7e8-f323add19377,Unión por la Patria Olavarría,2023-07-24T05:06:49.763Z,493d815a-dbde-48e5-a294-1034d0514652,UP,Argentina,ar,527970623935447,Unión por la Patria Olavarría,Facebook
-d6067b5a-7a7c-449c-bfa7-7d9bdbcfd0f3,Union Por La Patria Chapu,2023-08-05T05:07:08.054Z,90b222d5-3b6d-40fa-9613-86d2f5d8b959,UP,Argentina,ar,100976133064304,Union Por La Patria Chapu,Facebook
-d6c02006-cdac-46a9-9198-69ae9eca9958,Unión por la Patria,2023-07-19T06:06:37.966Z,a3f11e4a-dde2-4169-b715-643f1495cc9a,UP,Argentina,ar,364916637463104,Unión por la Patria,Facebook
-d9abfa02-da95-461f-9ced-9a00f7275bfc,Unión por la Patria Coronel Pringles,2023-06-26T05:07:33.771Z,8c88a869-e054-4eb7-b83c-a735a324c651,UP,Argentina,ar,1773588766230474,Unión por la Patria Coronel Pringles,Facebook
-da38014c-659c-4a51-b5bb-91a56e1368f0,Sergio Casas,2023-08-05T05:07:07.823Z,09dc20f9-851f-48d7-b147-4f429caef7a9,UP,Argentina,ar,330566160483024,Sergio Casas,Facebook
-dcab2292-93c2-430f-8358-7f3503943122,Unión por la Patria Villa Gesell,2023-07-04T06:15:37.299Z,184cd614-3f88-497e-80ea-5220ac1756b9,UP,Argentina,ar,328473294743737,Unión por la Patria Villa Gesell,Facebook
-ddb49d68-10aa-4174-b59a-a80c42da96b1,Unión Por la Patria Tierra del Fuego,2023-07-19T06:06:39.875Z,654c1670-2837-4a65-bf2c-657fab2a38e3,UP,Argentina,ar,116262491494249,Unión Por la Patria Tierra del Fuego,Facebook
-df3c6f43-99b6-4590-8235-6990ccac534e,Martín Rodríguez,2023-03-16T10:52:31.329Z,3ce59605-9e24-4933-9ab0-72e8547e4906,UP,Argentina,ar,1861504010737414,Martín Rodríguez,Facebook
-e155fb8d-4cd8-43f4-b623-7d2046d76d23,,2023-05-17T06:51:48.321Z,cbff584c-d242-48cc-ba2b-1cf67a30e56b,UP,Argentina,ar,120898767662942,,Facebook
-e42ba054-a9f7-429e-9cbb-2969f989dc04,Unión por la Patria Cnel. Dorrego,2023-07-26T05:08:08.930Z,db9c45f2-b7c3-4efe-9cc1-3f717af4d153,UP,Argentina,ar,106541782476432,Unión por la Patria Cnel. Dorrego,Facebook
-e839de15-be72-4c36-9109-f39c826a9982,Unión por la Patria Marcos Paz,2023-07-17T06:31:27.735Z,f81147d7-a3b2-411c-8d9f-c11410c20787,UP,Argentina,ar,331718930289611,Unión por la Patria Marcos Paz,Facebook
-e9884e35-a1c7-4236-8900-ba0e100c1e86,Unión por la Patria Dpto Santa María,2023-08-12T05:07:06.907Z,993b5545-c2d5-4cc4-993a-1d91bf9eded4,UP,Argentina,ar,130088413407536,Unión por la Patria Dpto Santa María,Facebook
-ea8ce96a-dbd5-4555-863d-6fb3f356dae2,Bloque  PJ -Frente de Todos Tornquist,2023-07-04T06:15:37.953Z,2d30675c-bc49-4af5-bdd5-03caaca07265,UP,Argentina,ar,101708869075555,Bloque  PJ -Frente de Todos Tornquist,Facebook
-f3fcbe0d-f70c-4042-a9cb-7fbecf22b000,Frente De Todos Pilar,2023-05-31T06:52:20.087Z,4265ce0a-8551-4c0b-a9bb-1b55835c35a6,UP,Argentina,ar,316833772588597,Frente De Todos Pilar,Facebook
-f650c084-2783-470b-9655-97fabe99ca66,Frente de Todos Dina Huapi,2023-05-12T06:52:18.459Z,f0058d4b-a212-411e-a259-678ca1418a4c,UP,Argentina,ar,104469187618214,Frente de Todos Dina Huapi,Facebook
-f74d6596-2d50-4371-b782-fb8ea887df87,Frente de Todos Monte Caseros,2023-05-27T06:52:09.128Z,35a1862b-ec23-40f9-bc82-452f355c7a97,UP,Argentina,ar,106902677317655,Frente de Todos Monte Caseros,Facebook
-f8268853-d0a1-49c0-aec3-4521c6f03072,Unión por la Patria Patagones,2023-07-03T06:15:09.117Z,57687f44-f3e3-44d8-85fb-001abf6aa5a4,UP,Argentina,ar,1876988282626478,Unión por la Patria Patagones,Facebook
-f82a7629-52f5-4f6e-a485-c975617c5798,Unión por la Patria Guaminí,2023-08-15T05:06:40.836Z,afb41384-4c59-4f30-b30d-752dfb124e36,UP,Argentina,ar,287643811702652,Unión por la Patria Guaminí,Facebook
-0323555c-13a9-4421-87df-1b262e2e4307,Juntos por el Cambio Tafi Viejo,2023-05-12T06:52:18.178Z,d40be7c2-3894-469b-9369-f4b61a997007,JxC,Argentina,ar,1566348423603596,Juntos por el Cambio Tafi Viejo,Facebook
-146559ad-98e2-410f-acfd-011ccf4c3a6c,Cecilia Di Matteo,2023-07-10T06:50:31.807Z,f0f5f09b-e268-47e8-8c16-6fc5f2d338d8,JxC,Argentina,ar,115954314878004,Cecilia Di Matteo,Facebook
-1cca0654-0ccf-4de7-b205-47c37ed75483,Federico Angelini,2023-02-08T05:54:38.809Z,43bcd570-e87b-42c5-8172-636f101d0e55,JxC,Argentina,ar,259111760849274,Federico Angelini,Facebook
-1e0126c4-649e-412e-87bc-4d59b6f342ff,Juntos por el Cambio Pueblo Esther,2023-07-17T06:31:27.173Z,3f841860-0dc3-4528-889d-2c507da9c5c2,JxC,Argentina,ar,312462396142981,Juntos por el Cambio Pueblo Esther,Facebook
-1e3da7cd-9dee-4ca5-8911-f31d00f549a7,Andrés De Leo,2023-07-18T06:06:29.353Z,6ca1eb07-1c06-493e-8164-c1c986caaf29,JxC,Argentina,ar,217591921944923,Andrés De Leo,Facebook
-1f3fe812-946f-4d63-babd-ab9d7b60804b,Santiago Garcia Pinto Juntos por el Cambio,2023-04-25T06:52:01.743Z,47e9f0d1-f55c-41f9-bd9a-2f936623be99,JxC,Argentina,ar,601058213317020,Santiago Garcia Pinto Juntos por el Cambio,Facebook
-250ba134-24f8-40c4-8330-bcf29e14238e,Chubut por el Cambio,2023-02-07T15:06:01.392Z,eaf9b893-24f6-405c-b2d9-b24f95753ac4,JxC,Argentina,ar,102436695787908,Chubut por el Cambio,Facebook
-2906d684-1e2d-4051-ab32-c84437557683,Juntos por el Cambio - Catriló,2023-04-26T06:52:28.542Z,d335e41b-381a-4b80-a524-14790e4bc34f,JxC,Argentina,ar,320692405216198,Juntos por el Cambio - Catriló,Facebook
-290f0321-dc94-4863-bf9e-7c594e62b0cb,Juntos Avancemos Chabás,2023-06-30T05:06:55.527Z,da516774-b62c-4328-9014-57e46532a2e5,JxC,Argentina,ar,108059551562015,Juntos Avancemos Chabás,Facebook
-330b1465-3ac3-4979-a0f1-bd481f6a6667,Juntos por la Ciudad,2023-02-13T10:52:35.651Z,e52ccd8c-f213-424f-8197-e19cc5c3991c,JxC,Argentina,ar,540567215989768,Juntos por la Ciudad,Facebook
-37e602d7-f343-487f-aacd-4857cc3c5a69,Juntos por el Cambio San Isidro,2023-07-09T06:07:35.404Z,bc32e975-2f50-4f7f-8081-8700c666e888,JxC,Argentina,ar,101665532218788,Juntos por el Cambio San Isidro,Facebook
-3a2d164d-6471-432c-8a99-172d60db5077,Juntos Hurlingham,2023-02-27T10:52:27.740Z,dd418a09-df88-44a0-af72-ba3252b9ae3e,JxC,Argentina,ar,855722177907090,Juntos Hurlingham,Facebook
-3f8641d8-72b7-44b8-bb80-80e107518c7e,Juntos por el Cambio Más - Campo Quijano,2023-05-07T06:52:02.555Z,9ac2f0ff-5c83-4154-95f5-5f22091dc881,JxC,Argentina,ar,107516471627323,Juntos por el Cambio Más - Campo Quijano,Facebook
-400bfc64-5c64-4d2f-978e-2506a89357d3,Juntos por el Cambio San Lorenzo Salta,2023-04-17T08:18:56.794Z,edbbf640-ce7a-481d-bfd1-3842ec050e07,JxC,Argentina,ar,103665608847016,Juntos por el Cambio San Lorenzo Salta,Facebook
-464165b6-b3b8-494d-9be1-805ef8a38cbc,Juntos Tigre,2023-03-03T10:52:25.900Z,cd5560f1-7215-40f1-a816-aa6a8f02dda6,JxC,Argentina,ar,284302505110931,Juntos Tigre,Facebook
-47236a24-cc78-450e-893a-113360bb522c,Valeria Mendoza,2023-04-16T15:04:33.325Z,67ff523e-e379-4833-bed8-7e0b33fff14b,JxC,Argentina,ar,102506505054348,Valeria Mendoza,Facebook
-49f11552-ff87-4ac4-8da6-ed848e892afc,Juntos por el Cambio Arroyo Algodón,2023-03-05T10:52:35.506Z,08ab9102-b657-4819-9768-d3672bd172ca,JxC,Argentina,ar,105134442507191,Juntos por el Cambio Arroyo Algodón,Facebook
-53629fbf-4cfd-4aed-8b55-675302cb0c4a,Leandro Gomez Slavik,2023-04-16T15:04:33.358Z,324bfe7e-ef16-4647-91f5-fc17ec8b44c8,JxC,Argentina,ar,101689428979786,Leandro Gomez Slavik,Facebook
-556daeda-18d1-45c1-abf8-a6553dff8c36,Juntos por el Cambio Santa Fe,2023-07-07T13:15:37.629Z,2e5d16cf-5c14-4e47-9cc0-9adb058d06f9,JxC,Argentina,ar,112062620412027,Juntos por el Cambio Santa Fe,Facebook
-58002f2e-1635-439f-916a-c1b69229cbc1,Juntos por el Cambio - Coronel Dorrego,2023-10-04T05:06:16.795Z,03fb1334-4fed-4a62-80b4-18e2275bc8a1,JxC,Argentina,ar,102324113726549,Juntos por el Cambio - Coronel Dorrego,Facebook
-59f4e863-a878-4627-a2cb-7cb2074e1519,Patricia Bullrich,2023-02-10T10:52:32.372Z,3209d9d5-d89f-4bd8-bd9a-684431498931,JxC,Argentina,ar,90148244993,Patricia Bullrich,Facebook
 6059ed6c-3319-45c8-9162-c5929d3fa0d7,Juntos por el cambio,2023-03-04T10:52:32.874Z,7f1cb824-2cd3-472a-aa45-8fdc7e335653,JxC,Argentina,ar,100272109675836,Juntos por el cambio,Facebook
-63351b42-9beb-4f94-a953-8097fbb88de3,Juntos por el Cambio. Arroyo Seco,2023-06-23T05:16:03.273Z,60bb52e6-3eef-4205-a030-ee9eced6a03a,JxC,Argentina,ar,111856034600416,Juntos por el Cambio. Arroyo Seco,Facebook
-69d014a1-cbf4-415b-8209-da58110ed774,Belen Monte de Oca,2023-04-16T15:04:33.219Z,1279670f-a8cd-4aca-9bd5-458db8e2f145,JxC,Argentina,ar,770165703374419,Belen Monte de Oca,Facebook
-7292341b-e14c-4473-a50a-32e46029a014,Lisandro Ruiz Cardona,2023-04-16T15:04:32.780Z,2ddbaf5a-8431-4b09-a6db-df3fe48400ef,JxC,Argentina,ar,126769097861433,Lisandro Ruiz Cardona,Facebook
-7f15a2cb-3b87-4bc7-8fb9-ff848caae9fa,Jorge Macri,2023-02-21T10:52:22.432Z,d6732df6-0e71-4989-b4bd-2c7dcc719660,JxC,Argentina,ar,57718951374,Jorge Macri,Facebook
-807c6d17-181f-4c1c-bc7d-837b14c6d688,Juntos por el Cambio - Saavedra,2023-09-30T05:06:23.981Z,db71e989-dfbc-4f93-a937-732d3d8294c8,JxC,Argentina,ar,293342374445887,Juntos por el Cambio - Saavedra,Facebook
-8d5b57d2-1005-4f79-b24a-d5f75fd7e330,Renata Ghilotti,2023-06-19T18:24:15.774Z,a1bf3ed2-aba5-4776-8870-76a8d6106b82,JxC,Argentina,ar,1509101616087339,Renata Ghilotti,Facebook
-900f88d7-c295-4151-a6b9-01c5582aa042,Juntos por el Cambio Santa Fe,2023-08-05T05:07:06.323Z,85f3e11d-10df-4f30-9446-2a8435424c5f,JxC,Argentina,ar,136037426467428,Juntos por el Cambio Santa Fe,Facebook
-93e52276-0c34-46e5-9456-1df87e59881b,Juntos por el Cambio Lobería,2023-07-19T06:06:41.820Z,954fa7a9-74ba-440f-9f0b-569512174b9d,JxC,Argentina,ar,278627799273048,Juntos por el Cambio Lobería,Facebook
-9436b172-0e43-435d-8cf5-6de439ccd8ac,Defensores Juntos por el Cambio,2023-07-24T05:06:49.400Z,2765d164-b022-4ded-bf95-7fb48bea43c4,JxC,Argentina,ar,106049337434747,Defensores Juntos por el Cambio,Facebook
-949de235-933f-4593-bab4-3c6e8a71115e,Juntos por el Cambio - Tierra del Fuego,2023-02-08T05:54:36.730Z,6ecc502e-67aa-4be6-8c17-b70ded193f41,JxC,Argentina,ar,262773764334966,Juntos por el Cambio - Tierra del Fuego,Facebook
-9ee07019-a078-4a7a-ace0-4c20100f82c3,Juntos por el Cambio La Plata,2023-08-05T05:07:06.366Z,823dc3f0-94d2-41fe-a116-1ce8a5b58a48,JxC,Argentina,ar,1044482402348752,Juntos por el Cambio La Plata,Facebook
-a7211807-1822-43ff-ab43-5908fce1ca52,Mario Raúl Negri,2023-02-07T15:06:01.988Z,8b63b1f6-7991-41cf-b7ba-0d169a889191,JxC,Argentina,ar,227469003952751,Mario Raúl Negri,Facebook
-aed22be9-0bd1-48de-bffb-665948502ce0,Charly Cardozo,2023-06-16T09:32:29.268Z,f047069f-bf0f-4f16-acd2-6dfb37e0dfce,JxC,Argentina,ar,1593982957494264,Charly Cardozo,Facebook
-b80564f2-abb5-4fa7-80d4-42c0e961428c,Juntos por el Cambio San Francisco,2023-06-19T18:24:16.775Z,041796ff-15eb-4302-b3a2-bd7e7a06d13f,JxC,Argentina,ar,538102329855028,Juntos por el Cambio San Francisco,Facebook
-bbc5e7ab-49dc-4325-a39a-76a933622f57,Tomás Bertotto,2023-04-10T10:51:50.496Z,58f36010-9985-4d4a-aa36-f2dc9ef6f1a1,JxC,Argentina,ar,232102743650781,Tomás Bertotto,Facebook
-c3ee51fb-93dd-4aab-8c37-72ec715d6597,Juntos por el Cambio Pérez,2023-07-07T13:15:38.342Z,203de508-9b7e-4cb9-9140-abb7f5556c3e,JxC,Argentina,ar,104864538573329,Juntos por el Cambio Pérez,Facebook
-ca028701-1a26-4bdd-8155-e221ebd1124b,Guemes Juntos por el Cambio,2023-04-23T06:51:53.868Z,a43cb17f-9dce-4e00-8263-57959db1d4b4,JxC,Argentina,ar,114234778298466,Guemes Juntos por el Cambio,Facebook
-d699205a-3d11-4682-b76d-f04ab68c23fb,,2023-04-22T06:02:40.923Z,fa3e66db-59e0-40f7-8a4a-a0710a5a4ee2,JxC,Argentina,ar,104193005897251,,Facebook
-d75fa9aa-2591-446f-80e7-1a0533f5a53c,Nelson Buchs,2023-04-10T10:51:50.450Z,2272ee82-cb0c-4865-9318-ce9339debceb,JxC,Argentina,ar,104238775974969,Nelson Buchs,Facebook
-db832ecb-ee34-4cc6-9a87-9085453718bf,Gino Chiapello,2023-09-22T05:06:17.182Z,55acd6c1-16c8-463c-8d83-964b9ad0990f,JxC,Argentina,ar,108878162471803,Gino Chiapello,Facebook
-dbeb4dd1-ad69-451d-9112-415454a9c33c,Juntos por el Cambio Sunchales,2023-07-13T06:24:36.774Z,04466df5-fef9-485a-b008-a63b3ebf6090,JxC,Argentina,ar,233136033864722,Juntos por el Cambio Sunchales,Facebook
-e4e92174-3b54-4ec5-973d-21b65a68685c,Juntos x TDF,2023-03-03T10:52:26.442Z,36156eb7-30ab-4f1c-be3e-d262c478d414,JxC,Argentina,ar,102912456022922,Juntos x TDF,Facebook
-ea6d4007-70da-43dc-8852-175cdd2ab6b4,Maxi Pullaro,2023-02-07T15:06:02.152Z,27e7646d-5f54-4f6d-87f7-e1a47f72c2b3,JxC,Argentina,ar,465558466800210,Maxi Pullaro,Facebook
-eed706b6-699a-4cd3-ba28-119c551d9873,Gerardo Morales,2023-03-08T14:41:08.750Z,9494fe1d-6370-4454-93ae-07942069b256,JxC,Argentina,ar,61279025897,Gerardo Morales,Facebook
-ef16dab7-f645-41c7-9b44-faeaff33e9db,Cristian Barella,2023-04-16T15:04:33.317Z,e0e40751-f93b-49c5-9731-607c04fb5482,JxC,Argentina,ar,102022255034447,Cristian Barella,Facebook
-f2ddcaad-3c52-458d-9983-447624aa2482,Anita Giacciani,2023-04-16T15:04:33.320Z,1d30e593-4252-4932-a976-bc6577202de7,JxC,Argentina,ar,154665671814109,Anita Giacciani,Facebook
-f3329c1f-3c59-4625-9d47-2a4614f06690,Juntos por el Cambio - Toay,2023-03-08T16:51:14.749Z,2a802d5e-095d-415b-9392-1532d0879fc2,JxC,Argentina,ar,100406702411838,Juntos por el Cambio - Toay,Facebook
-0b104428-b952-4e52-a34c-2af971b440f0,Frente de Izquierda Punilla,2023-04-30T06:51:54.864Z,7d88e747-b56d-4b53-9fae-a24bf94c0c2c,FIT,Argentina,ar,1618268168432551,Frente de Izquierda Punilla,Facebook
+a92690b2-2cc2-4ba9-8eb9-6dcd137cab82,PTS - Frente de Izquierda - Bariloche,2023-03-26T10:52:07.922Z,4135582f-1024-41de-9093-2c3d699f90e8,FIT,Argentina,ar,328379894262424,PTS - Frente de Izquierda - Bariloche,Facebook
+42f19175-8a71-4b86-8684-0acc2ed556e7,Irene Gamboa,2023-03-08T15:39:53.485Z,a8587960-69f4-400e-9bcb-d285c58ca897,FIT,Argentina,ar,176980972975177,Irene Gamboa,Facebook
 0cb5400a-7798-47fb-bde6-33ee4c33aa70,Izquierda Socialista,2023-02-14T10:52:26.969Z,f9bfaddb-1615-4459-b7db-b1cc9edf257c,FIT,Argentina,ar,438942059479338,Izquierda Socialista,Facebook
-0d3f0ab2-bd08-4263-a552-1ac9a3b091c5,Izquierda Socialista Rosario FIT-U,2023-07-03T06:15:08.681Z,2d5f5349-602c-4d2c-9fa3-e8b60091fbb6,FIT,Argentina,ar,710550705733601,Izquierda Socialista Rosario FIT-U,Facebook
+824a258e-221c-4e74-aaf3-cec41e5e80af,La Libertad Avanza La Pampa,2023-03-29T10:52:21.938Z,e3d91b28-515e-4296-bcfd-19984bb8c8b4,LA,Argentina,ar,111051871572130,La Libertad Avanza La Pampa,Facebook
+5cb3481a-9e0d-4f1f-a87f-ab101acc42f6,Frente de todos neuquino,2023-03-27T10:52:28.490Z,8cd59b26-49e5-4605-bdbc-c7242dc4f2ea,UP,Argentina,ar,943247715686438,Frente de todos neuquino,Facebook
+e73388cb-35af-4128-9857-0af87ec62a9d,Partido Obrero,2023-03-18T10:52:15.451Z,66479d5b-cec3-4242-8a5a-fbe53d260777,FIT,Argentina,ar,181254295274398,Partido Obrero,Facebook
 0fd288dc-ce7b-46cd-802d-e5399fe35943,Alejandrina Barry,2023-03-06T10:52:27.556Z,403a94d7-27c6-4f03-8824-00f254ff4ab0,FIT,Argentina,ar,105384144387929,Alejandrina Barry,Facebook
-15fe655d-045a-4a3b-bb79-694169b4f759,Gabriel Solano,2023-05-16T06:52:24.445Z,eb2d3499-4c7e-43aa-90e4-323594178be9,FIT,Argentina,ar,231169830377923,Gabriel Solano,Facebook
-165590df-92b2-4276-bded-64c93ca76c4a,Javier Monzon,2023-06-26T05:07:32.800Z,396b4463-b9de-42ae-b5fb-adfcd63a9dba,FIT,Argentina,ar,301092113635082,Javier Monzon,Facebook
+4827dcce-50c5-45e7-b72f-dba28956436f,Gabriel Musa,2023-02-20T10:52:26.835Z,648da50a-4994-41b4-9a55-539ca3935bae,FIT,Argentina,ar,1874261046125922,Gabriel Musa,Facebook
+72ec7bb5-9ea5-4ff1-aa96-cec506ae9428,Concejales Frente De Todos MDP,2023-02-07T15:06:01.926Z,91632265-0934-4243-a91a-0a2a7cc20fa9,UP,Argentina,ar,110183273817607,Concejales Frente De Todos MDP,Facebook
+ea6d4007-70da-43dc-8852-175cdd2ab6b4,Maxi Pullaro,2023-02-07T15:06:02.152Z,27e7646d-5f54-4f6d-87f7-e1a47f72c2b3,JxC,Argentina,ar,465558466800210,Maxi Pullaro,Facebook
+64450980-c029-47dd-a019-6f1a21ad01f8,Alejandro Vilca,2023-02-07T15:06:01.813Z,414bfc74-8d9b-4104-aa7c-30232525b25f,FIT,Argentina,ar,1642712085944827,Alejandro Vilca,Facebook
+218a0037-d39b-4bdd-ab4f-0569668130d0,Nicolás del Caño,2023-02-07T15:06:01.567Z,680f7843-3b8d-41be-8b1d-4d68be50e356,FIT,Argentina,ar,452525851510103,Nicolás del Caño,Facebook
+a31e6c46-7ff4-4098-9cd4-6a3c45e9dd16,Laura Vilches,2023-03-24T10:52:26.378Z,9996728c-ba5b-4eb4-b2f1-81c559c2bb02,FIT,Argentina,ar,1567551246808899,Laura Vilches,Facebook
+bb36a1a7-924f-4820-b34e-a874506b3e03,Patricio del Corro,2023-03-11T10:52:31.264Z,27e444f3-af21-4d50-b297-2104ee5f8b71,FIT,Argentina,ar,851050008340973,Patricio del Corro,Facebook
+e623b858-05c6-47f6-b24f-fb0eecfe5bdf,Octavio Crivaro,2023-02-07T15:06:02.009Z,6eaf48c3-84b0-4e53-b4bc-ce29ab7fbb1f,FIT,Argentina,ar,304859109656812,Octavio Crivaro,Facebook
+a8e07319-1c95-4638-a9ab-d8529b5edf5f,Frente de Todos General Alvear,2023-02-11T10:52:12.013Z,6f77fa9d-607b-4d58-8f1f-2a899902820c,UP,Argentina,ar,1348997745113243,Frente de Todos General Alvear,Facebook
+bcc93829-719e-487b-9d42-e5d1636fa9b7,Myriam Bregman,2023-02-22T10:52:37.211Z,facea290-1a84-4068-aa8b-a5f626961eb7,FIT,Argentina,ar,185922194792026,Myriam Bregman,Facebook
+4b940246-d7c3-4703-8754-adc2b3e46016,Alejandra Arreguez,2023-02-07T15:06:01.937Z,be670dbd-036d-4c2f-a2c5-0196c6cfbe4b,FIT,Argentina,ar,713889935401156,Alejandra Arreguez,Facebook
+8caf7272-9f8a-46c9-bffc-5f2203eb02ec,La Libertad Avanza - PBA,2023-02-07T15:06:02.295Z,b57ec85d-4c19-4740-8582-3e6a7ccaeb19,LA,Argentina,ar,100349546238384,La Libertad Avanza - PBA,Facebook
+df3c6f43-99b6-4590-8235-6990ccac534e,Martín Rodríguez,2023-03-16T10:52:31.329Z,3ce59605-9e24-4933-9ab0-72e8547e4906,UP,Argentina,ar,1861504010737414,Martín Rodríguez,Facebook
+2e784f3d-9414-417e-b058-8204b601f09d,Martín Insaurralde,2023-02-15T10:52:16.215Z,50993fbe-61c0-4fb2-a4e7-84f508787f1d,UP,Argentina,ar,174876119204869,Martín Insaurralde,Facebook
+949de235-933f-4593-bab4-3c6e8a71115e,Juntos por el Cambio - Tierra del Fuego,2023-02-08T05:54:36.730Z,6ecc502e-67aa-4be6-8c17-b70ded193f41,JxC,Argentina,ar,262773764334966,Juntos por el Cambio - Tierra del Fuego,Facebook
+6129c232-b4a4-47f8-9526-c1716f18493e,Federico Meca,2023-02-20T10:52:26.718Z,b0d79a5a-1d8a-4ad2-8af0-ae1994fab072,UP,Argentina,ar,808440849306072,Federico Meca,Facebook
+49f11552-ff87-4ac4-8da6-ed848e892afc,Juntos por el Cambio Arroyo Algodón,2023-03-05T10:52:35.506Z,08ab9102-b657-4819-9768-d3672bd172ca,JxC,Argentina,ar,105134442507191,Juntos por el Cambio Arroyo Algodón,Facebook
+1cca0654-0ccf-4de7-b205-47c37ed75483,Federico Angelini,2023-02-08T05:54:38.809Z,43bcd570-e87b-42c5-8172-636f101d0e55,JxC,Argentina,ar,259111760849274,Federico Angelini,Facebook
+f3329c1f-3c59-4625-9d47-2a4614f06690,Juntos por el Cambio - Toay,2023-03-08T16:51:14.749Z,2a802d5e-095d-415b-9392-1532d0879fc2,JxC,Argentina,ar,100406702411838,Juntos por el Cambio - Toay,Facebook
+bbc5e7ab-49dc-4325-a39a-76a933622f57,Tomás Bertotto,2023-04-10T10:51:50.496Z,58f36010-9985-4d4a-aa36-f2dc9ef6f1a1,JxC,Argentina,ar,232102743650781,Tomás Bertotto,Facebook
+d75fa9aa-2591-446f-80e7-1a0533f5a53c,Nelson Buchs,2023-04-10T10:51:50.450Z,2272ee82-cb0c-4865-9318-ce9339debceb,JxC,Argentina,ar,104238775974969,Nelson Buchs,Facebook
+5894d30f-64fc-4936-90f4-9f008b32e15e,Hacemos por Córdoba,2023-02-07T15:06:01.400Z,2df1002a-089e-45e9-af58-f9b0f653d90d,HNP,Argentina,ar,2339859699626643,Hacemos por Córdoba,Facebook
+ebe4912e-a688-42a0-9c20-e174281a3c35,Hacemos por Córdoba -  Rio Segundo,2023-04-16T15:04:32.859Z,9db05524-0e05-4afd-8dba-e673d7a5cdb1,HNP,Argentina,ar,370362983318107,Hacemos por Córdoba -  Rio Segundo,Facebook
+01165a4f-1c16-45f0-9a87-2c350b490720,Hacemos Por Córdoba Oncativo,2023-06-16T09:32:29.544Z,30411346-8989-42bd-80db-00ae2fea81f4,HNP,Argentina,ar,104324915156941,Hacemos Por Córdoba Oncativo,Facebook
+4c06d0d0-8dc3-4bd9-8441-152ffe0d0947,Hacemos por Córdoba - Alta Gracia,2023-08-29T05:06:05.427Z,201f9470-7a64-44d3-b86e-5134e7267a0b,HNP,Argentina,ar,100736392343626,Hacemos por Córdoba - Alta Gracia,Facebook
+dd53b08f-0b9c-4adb-9b3c-88c55b8e71b5,Hacemos por Córdoba Pilar,2023-02-08T05:54:37.275Z,cb516c3c-2fd4-466d-b64d-eaa7d065a4b2,HNP,Argentina,ar,102584952016197,Hacemos por Córdoba Pilar,Facebook
+555cc586-79a7-4b5c-9241-5bbbb289540b,Hacemos por Misiones,2023-08-04T05:06:59.111Z,b48fd30f-7cdc-47d8-be60-b0713b293d5a,HNP,Argentina,ar,102335449607924,Hacemos por Misiones,Facebook
+a184162f-d1df-428c-b05e-8f3e9405d8ca,Gustavo Leone,2023-10-16T05:06:27.124Z,82ffbb0d-25ad-4cfd-946c-03d2c95a4aa8,HNP,Argentina,ar,771789629527490,Gustavo Leone,Facebook
+146559ad-98e2-410f-acfd-011ccf4c3a6c,Cecilia Di Matteo,2023-07-10T06:50:31.807Z,f0f5f09b-e268-47e8-8c16-6fc5f2d338d8,JxC,Argentina,ar,115954314878004,Cecilia Di Matteo,Facebook
+807c6d17-181f-4c1c-bc7d-837b14c6d688,Juntos por el Cambio - Saavedra,2023-09-30T05:06:23.981Z,db71e989-dfbc-4f93-a937-732d3d8294c8,JxC,Argentina,ar,293342374445887,Juntos por el Cambio - Saavedra,Facebook
+709b5694-cdda-41b3-b6a7-1b2669023575,Hacemos por Toledo,2023-06-15T06:52:19.754Z,217fb499-f06c-4846-99c0-2f01753287eb,HNP,Argentina,ar,100842739713475,Hacemos por Toledo,Facebook
+dbeb4dd1-ad69-451d-9112-415454a9c33c,Juntos por el Cambio Sunchales,2023-07-13T06:24:36.774Z,04466df5-fef9-485a-b008-a63b3ebf6090,JxC,Argentina,ar,233136033864722,Juntos por el Cambio Sunchales,Facebook
+900f88d7-c295-4151-a6b9-01c5582aa042,Juntos por el Cambio Santa Fe,2023-08-05T05:07:06.323Z,85f3e11d-10df-4f30-9446-2a8435424c5f,JxC,Argentina,ar,136037426467428,Juntos por el Cambio Santa Fe,Facebook
+f15e8f43-5caf-4c3b-a092-4bee1a6d75ab,Hacemos por La Para,2023-05-13T06:52:29.504Z,eb9be1d6-4e74-4566-b133-709b5589f40e,HNP,Argentina,ar,113529161736658,Hacemos por La Para,Facebook
+1e0126c4-649e-412e-87bc-4d59b6f342ff,Juntos por el Cambio Pueblo Esther,2023-07-17T06:31:27.173Z,3f841860-0dc3-4528-889d-2c507da9c5c2,JxC,Argentina,ar,312462396142981,Juntos por el Cambio Pueblo Esther,Facebook
+58002f2e-1635-439f-916a-c1b69229cbc1,Juntos por el Cambio - Coronel Dorrego,2023-10-04T05:06:16.795Z,03fb1334-4fed-4a62-80b4-18e2275bc8a1,JxC,Argentina,ar,102324113726549,Juntos por el Cambio - Coronel Dorrego,Facebook
+1f8c5d71-e125-40b4-bd48-2f0c51998fa8,,2023-09-06T05:06:09.983Z,550b70d8-f90e-4a91-bc3b-f3cbb3ff61af,HNP,Argentina,ar,119344291259729,,Facebook
+1e3da7cd-9dee-4ca5-8911-f31d00f549a7,Andrés De Leo,2023-07-18T06:06:29.353Z,6ca1eb07-1c06-493e-8164-c1c986caaf29,JxC,Argentina,ar,217591921944923,Andrés De Leo,Facebook
+9ee07019-a078-4a7a-ace0-4c20100f82c3,Juntos por el Cambio La Plata,2023-08-05T05:07:06.366Z,823dc3f0-94d2-41fe-a116-1ce8a5b58a48,JxC,Argentina,ar,1044482402348752,Juntos por el Cambio La Plata,Facebook
+c55fea2c-40a4-41a0-91bb-9814c1dc8bd7,Argentinos Online,2023-02-07T15:06:01.846Z,67ca9534-9a83-4454-bf49-023cd09e363e,UP,Argentina,ar,544640985878621,Argentinos Online,Facebook
+93e52276-0c34-46e5-9456-1df87e59881b,Juntos por el Cambio Lobería,2023-07-19T06:06:41.820Z,954fa7a9-74ba-440f-9f0b-569512174b9d,JxC,Argentina,ar,278627799273048,Juntos por el Cambio Lobería,Facebook
+db832ecb-ee34-4cc6-9a87-9085453718bf,Gino Chiapello,2023-09-22T05:06:17.182Z,55acd6c1-16c8-463c-8d83-964b9ad0990f,JxC,Argentina,ar,108878162471803,Gino Chiapello,Facebook
+0b3025a4-0171-4e6b-a5a0-b14c51ed2324,La unica oposición,2023-07-31T12:50:25.455Z,729ba68b-8c2d-4a95-829c-abd0b09619b0,LA,Argentina,ar,111546275335134,La unica oposición,Facebook
+9436b172-0e43-435d-8cf5-6de439ccd8ac,Defensores Juntos por el Cambio,2023-07-24T05:06:49.400Z,2765d164-b022-4ded-bf95-7fb48bea43c4,JxC,Argentina,ar,106049337434747,Defensores Juntos por el Cambio,Facebook
+a9f39656-eebb-43ed-ac49-d2b231fc8b62,Argentinos por un cambio,2023-11-03T05:06:26.976Z,7b6f5efe-a24e-40c2-b91f-ee227c602d3a,LA,Argentina,ar,157837240745269,Argentinos por un cambio,Facebook
+7292341b-e14c-4473-a50a-32e46029a014,Lisandro Ruiz Cardona,2023-04-16T15:04:32.780Z,2ddbaf5a-8431-4b09-a6db-df3fe48400ef,JxC,Argentina,ar,126769097861433,Lisandro Ruiz Cardona,Facebook
+69d014a1-cbf4-415b-8209-da58110ed774,Belen Monte de Oca,2023-04-16T15:04:33.219Z,1279670f-a8cd-4aca-9bd5-458db8e2f145,JxC,Argentina,ar,770165703374419,Belen Monte de Oca,Facebook
+47236a24-cc78-450e-893a-113360bb522c,Valeria Mendoza,2023-04-16T15:04:33.325Z,67ff523e-e379-4833-bed8-7e0b33fff14b,JxC,Argentina,ar,102506505054348,Valeria Mendoza,Facebook
+3f8641d8-72b7-44b8-bb80-80e107518c7e,Juntos por el Cambio Más - Campo Quijano,2023-05-07T06:52:02.555Z,9ac2f0ff-5c83-4154-95f5-5f22091dc881,JxC,Argentina,ar,107516471627323,Juntos por el Cambio Más - Campo Quijano,Facebook
+e155fb8d-4cd8-43f4-b623-7d2046d76d23,,2023-05-17T06:51:48.321Z,cbff584c-d242-48cc-ba2b-1cf67a30e56b,UP,Argentina,ar,120898767662942,,Facebook
+b31d3367-9c35-4bf6-97c9-47238de46546,Derecho al Pasado,2023-07-31T11:02:10.262Z,27a0c1da-d18e-4f57-a96a-fc63b51a038c,UP,Argentina,ar,114046241738745,Derecho al Pasado,Facebook
+f2ddcaad-3c52-458d-9983-447624aa2482,Anita Giacciani,2023-04-16T15:04:33.320Z,1d30e593-4252-4932-a976-bc6577202de7,JxC,Argentina,ar,154665671814109,Anita Giacciani,Facebook
+b80564f2-abb5-4fa7-80d4-42c0e961428c,Juntos por el Cambio San Francisco,2023-06-19T18:24:16.775Z,041796ff-15eb-4302-b3a2-bd7e7a06d13f,JxC,Argentina,ar,538102329855028,Juntos por el Cambio San Francisco,Facebook
+c3534ea3-a2b4-4bbf-968b-3a0c4fd263b4,Derecho al Futuro,2023-06-13T06:52:26.214Z,86ae3af9-3408-4788-8738-089fb1b6025e,UP,Argentina,ar,101481752980291,Derecho al Futuro,Facebook
+b102ae81-5962-461a-ad87-1afd7d17b69a,Juventud del PTS - Frente de Izquierda en Naturales UNLP,2023-11-02T05:07:18.098Z,48dce38f-ff6c-4ac1-af72-ccdb7b5da5d6,FIT,Argentina,ar,1800853076858541,Juventud del PTS - Frente de Izquierda en Naturales UNLP,Facebook
+ef16dab7-f645-41c7-9b44-faeaff33e9db,Cristian Barella,2023-04-16T15:04:33.317Z,e0e40751-f93b-49c5-9731-607c04fb5482,JxC,Argentina,ar,102022255034447,Cristian Barella,Facebook
+0323555c-13a9-4421-87df-1b262e2e4307,Juntos por el Cambio Tafi Viejo,2023-05-12T06:52:18.178Z,d40be7c2-3894-469b-9369-f4b61a997007,JxC,Argentina,ar,1566348423603596,Juntos por el Cambio Tafi Viejo,Facebook
+3e4646cd-0b85-4e14-8d69-6099998d0072,Unión por las Redes,2023-07-31T11:02:09.783Z,536ed8a7-29cb-4fd1-b8ce-db482249220b,UP,Argentina,ar,113440031817559,Unión por las Redes,Facebook
+0b104428-b952-4e52-a34c-2af971b440f0,Frente de Izquierda Punilla,2023-04-30T06:51:54.864Z,7d88e747-b56d-4b53-9fae-a24bf94c0c2c,FIT,Argentina,ar,1618268168432551,Frente de Izquierda Punilla,Facebook
+7ab5aaee-3d27-4edd-8093-747c9d58bd8d,Sergio Massa,2023-09-23T05:06:19.185Z,84cc4306-11ae-4f84-b41e-b2192fc98a23,UP,Argentina,ar,374082229927,Sergio Massa,Facebook
+4ce09c4a-1230-47ea-bfee-59c41e3e7bab,Unión Por La Patria - Pinamar,2023-10-17T05:06:29.148Z,ef7e38f4-af94-46fb-986a-fb7737ba0dde,UP,Argentina,ar,106354911751390,Unión Por La Patria - Pinamar,Facebook
+53629fbf-4cfd-4aed-8b55-675302cb0c4a,Leandro Gomez Slavik,2023-04-16T15:04:33.358Z,324bfe7e-ef16-4647-91f5-fc17ec8b44c8,JxC,Argentina,ar,101689428979786,Leandro Gomez Slavik,Facebook
+aed22be9-0bd1-48de-bffb-665948502ce0,Charly Cardozo,2023-06-16T09:32:29.268Z,f047069f-bf0f-4f16-acd2-6dfb37e0dfce,JxC,Argentina,ar,1593982957494264,Charly Cardozo,Facebook
+31b30b9a-1ff5-4840-bf57-5ed21d49db25,,2023-08-06T05:06:57.173Z,15938cc5-5f5f-4eab-b983-c16231253f08,UP,Argentina,ar,107553832426946,,Facebook
+d090e368-b9e6-4447-806a-006f437c8b07,Frente De Izquierda PTS San Fernando,2023-07-25T05:07:06.274Z,7fa5bd88-f3cb-4f6d-96c2-bf910581a463,FIT,Argentina,ar,1635697259977638,Frente De Izquierda PTS San Fernando,Facebook
+4a85bf35-127a-41fd-a582-88ae8b4ff415,Unión por la Patria Lobería,2023-10-07T05:06:21.875Z,1f23bec6-c5bf-48a7-b2a8-6c1ba5493351,UP,Argentina,ar,380409345421447,Unión por la Patria Lobería,Facebook
+2372932c-8de1-487a-b402-93e53d48bd97,Unión Por la Patria Tierra del Fuego,2023-10-18T05:06:25.206Z,8c9b0050-7aba-4b86-9414-e6cce069d04d,UP,Argentina,ar,2205425736182648,Unión Por la Patria Tierra del Fuego,Facebook
+35231bb3-e8eb-4956-80ea-f37642335d8c,Unión Por La Patria Tres Arroyos - Oficial,2023-11-04T05:06:10.915Z,8485426c-ac26-4e9f-a529-bcb8b8693d1b,UP,Argentina,ar,101236273030794,Unión Por La Patria Tres Arroyos - Oficial,Facebook
+400bfc64-5c64-4d2f-978e-2506a89357d3,Juntos por el Cambio San Lorenzo Salta,2023-04-17T08:18:56.794Z,edbbf640-ce7a-481d-bfd1-3842ec050e07,JxC,Argentina,ar,103665608847016,Juntos por el Cambio San Lorenzo Salta,Facebook
+63351b42-9beb-4f94-a953-8097fbb88de3,Juntos por el Cambio. Arroyo Seco,2023-06-23T05:16:03.273Z,60bb52e6-3eef-4205-a030-ee9eced6a03a,JxC,Argentina,ar,111856034600416,Juntos por el Cambio. Arroyo Seco,Facebook
+c3ee51fb-93dd-4aab-8c37-72ec715d6597,Juntos por el Cambio Pérez,2023-07-07T13:15:38.342Z,203de508-9b7e-4cb9-9140-abb7f5556c3e,JxC,Argentina,ar,104864538573329,Juntos por el Cambio Pérez,Facebook
+7f15a2cb-3b87-4bc7-8fb9-ff848caae9fa,Jorge Macri,2023-02-21T10:52:22.432Z,d6732df6-0e71-4989-b4bd-2c7dcc719660,JxC,Argentina,ar,57718951374,Jorge Macri,Facebook
+1ddeef4b-c367-4639-9139-758b409f43fa,Partido Obrero Salta,2023-10-11T05:06:16.768Z,ada41d2e-26ae-48ea-82cc-527ee3b55109,FIT,Argentina,ar,459406557452037,Partido Obrero Salta,Facebook
+5fce94c4-0ba3-4da6-bd80-7b492fe5d241,Izquierda Socialista Santiago del Estero,2023-10-14T05:06:12.462Z,51fbade5-9226-420a-ac42-f0da9528e77e,FIT,Argentina,ar,967326436634432,Izquierda Socialista Santiago del Estero,Facebook
+48adcb31-99b7-4416-8e33-88e35f986329,Sebastián Copello,2023-04-16T15:04:32.720Z,226d5dd9-adb0-416a-a048-f6760b10047f,FIT,Argentina,ar,113807484660246,Sebastián Copello,Facebook
+b3b4f6b3-cb75-47b6-950e-91a8f4215855,Partido Obrero Chaco,2023-06-06T06:52:09.909Z,231fe85d-b64e-46c4-9a78-1e3bb17b9298,FIT,Argentina,ar,506043322795826,Partido Obrero Chaco,Facebook
+da38014c-659c-4a51-b5bb-91a56e1368f0,Sergio Casas,2023-08-05T05:07:07.823Z,09dc20f9-851f-48d7-b147-4f429caef7a9,UP,Argentina,ar,330566160483024,Sergio Casas,Facebook
+51dfb496-511a-476a-8035-a1a21737b214,Unión por la Patria Sta María,2023-08-11T05:08:32.849Z,2f3acb35-2a0a-4bb3-8a5b-c1c54d3f83e3,UP,Argentina,ar,105427895985300,Unión por la Patria Sta María,Facebook
+ca028701-1a26-4bdd-8155-e221ebd1124b,Guemes Juntos por el Cambio,2023-04-23T06:51:53.868Z,a43cb17f-9dce-4e00-8263-57959db1d4b4,JxC,Argentina,ar,114234778298466,Guemes Juntos por el Cambio,Facebook
+556daeda-18d1-45c1-abf8-a6553dff8c36,Juntos por el Cambio Santa Fe,2023-07-07T13:15:37.629Z,2e5d16cf-5c14-4e47-9cc0-9adb058d06f9,JxC,Argentina,ar,112062620412027,Juntos por el Cambio Santa Fe,Facebook
+308c6b3a-7e26-4bb5-8f31-01b68725b3f7,,2023-05-13T06:52:30.406Z,97901e51-1436-47bd-b7ef-4e05d166fd5b,UP,Argentina,ar,109104915512477,,Facebook
+8935540b-4aa4-4df1-ae20-8f801eb9de92,Natalia Morales,2023-04-19T06:52:14.406Z,6f17baa5-05db-4b33-906d-c74cad5acd33,FIT,Argentina,ar,924072727651543,Natalia Morales,Facebook
+928bfe90-5504-4f21-8ce4-983bce0cfaff,Liliana Olivero,2023-05-23T06:52:23.195Z,01d27a73-c828-4b77-9d9b-9710e1f02740,FIT,Argentina,ar,257679404318059,Liliana Olivero,Facebook
+a29948f3-b9a1-4dd2-9574-f0af4149a16f,Unión por la Patria / Río Negro,2023-08-03T05:06:51.922Z,222646fb-dafc-42d8-8337-f975ea0244ea,UP,Argentina,ar,102784632748876,Unión por la Patria / Río Negro,Facebook
+539f603e-daaa-4119-b0ce-76677cab56f3,Unión por la Patria Morón,2023-08-11T05:08:31.585Z,4b6448b5-d435-4f48-9b0e-6890ae7e35ae,UP,Argentina,ar,478718439129680,Unión por la Patria Morón,Facebook
+738f61d3-9f3a-4b42-aaa8-654525177b93,Unión por la Patria,2023-08-13T05:07:15.998Z,3a3640c9-ee54-43ba-b4ce-02d440826555,UP,Argentina,ar,1556352184484351,Unión por la Patria,Facebook
+d699205a-3d11-4682-b76d-f04ab68c23fb,,2023-04-22T06:02:40.923Z,fa3e66db-59e0-40f7-8a4a-a0710a5a4ee2,JxC,Argentina,ar,104193005897251,,Facebook
+b7fb2deb-6858-41da-9ae2-cb62a120219b,NotiBaires,2023-02-07T15:06:02.568Z,c3b02101-9f66-4ca8-8ac6-e4f417c96542,UP,Argentina,ar,610065179346397,NotiBaires,Facebook
 1b942ee4-8555-4909-8d49-63286cfcbe4c,Miguel López PTS- FIT  Ledesma,2023-04-24T06:52:16.906Z,fee0454f-cbd6-4981-8162-34541257c2ee,FIT,Argentina,ar,1782535692054580,Miguel López PTS- FIT  Ledesma,Facebook
 1db68371-c1cd-48eb-8fd9-4a917b87c70a,Luana Simioni,2023-10-23T05:06:07.158Z,16749257-ad44-4fa3-9c05-08e89cb8b398,FIT,Argentina,ar,537536616282308,Luana Simioni,Facebook
-1ddeef4b-c367-4639-9139-758b409f43fa,Partido Obrero Salta,2023-10-11T05:06:16.768Z,ada41d2e-26ae-48ea-82cc-527ee3b55109,FIT,Argentina,ar,459406557452037,Partido Obrero Salta,Facebook
-218a0037-d39b-4bdd-ab4f-0569668130d0,Nicolás del Caño,2023-02-07T15:06:01.567Z,680f7843-3b8d-41be-8b1d-4d68be50e356,FIT,Argentina,ar,452525851510103,Nicolás del Caño,Facebook
-21f16ed9-c5c8-4402-9339-5a0c8f8406c1,Andrés Blanco,2023-02-07T15:06:01.855Z,b84afa7e-301e-4ad6-acfc-8b0af4ef5b1a,FIT,Argentina,ar,1196044817194724,Andrés Blanco,Facebook
-29e29457-5192-45ef-b3ce-7e6570e30749,Juventud Izquierda Socialista Rosario - FITU,2023-07-01T05:07:12.065Z,8fae751a-3e10-4559-be78-2957b42b3b01,FIT,Argentina,ar,891505944325300,Juventud Izquierda Socialista Rosario - FITU,Facebook
-2e826a39-a629-46ea-9a7a-9eafaddcab16,Frente de Izquierda,2023-06-20T05:29:06.886Z,22a2ef74-8e2c-4eee-9ce6-89de201f6217,FIT,Argentina,ar,139780689504552,Frente de Izquierda,Facebook
-3218c743-db4c-46de-be80-22c0a8142fed,Partido Obrero Entre Ríos,2023-07-25T05:07:06.118Z,19bac4c7-9cb8-4166-a5d9-1acf5f978c70,FIT,Argentina,ar,1610937359149950,Partido Obrero Entre Ríos,Facebook
-3a10d43e-bba1-4b89-8c70-4555d414c0b1,PartidoObrero Santa Cruz,2023-07-31T12:50:23.976Z,8b418f90-7b46-41aa-9c86-ad686e1e51bd,FIT,Argentina,ar,759339330825563,PartidoObrero Santa Cruz,Facebook
-3f34394b-2151-418f-bc34-118a8c208d8e,Néstor Pitrola,2023-05-14T06:52:26.754Z,d79d77d0-5537-4de1-9158-51b45d770fc0,FIT,Argentina,ar,185797824928708,Néstor Pitrola,Facebook
-42f19175-8a71-4b86-8684-0acc2ed556e7,Irene Gamboa,2023-03-08T15:39:53.485Z,a8587960-69f4-400e-9bcb-d285c58ca897,FIT,Argentina,ar,176980972975177,Irene Gamboa,Facebook
-4827dcce-50c5-45e7-b72f-dba28956436f,Gabriel Musa,2023-02-20T10:52:26.835Z,648da50a-4994-41b4-9a55-539ca3935bae,FIT,Argentina,ar,1874261046125922,Gabriel Musa,Facebook
-48adcb31-99b7-4416-8e33-88e35f986329,Sebastián Copello,2023-04-16T15:04:32.720Z,226d5dd9-adb0-416a-a048-f6760b10047f,FIT,Argentina,ar,113807484660246,Sebastián Copello,Facebook
-4b940246-d7c3-4703-8754-adc2b3e46016,Alejandra Arreguez,2023-02-07T15:06:01.937Z,be670dbd-036d-4c2f-a2c5-0196c6cfbe4b,FIT,Argentina,ar,713889935401156,Alejandra Arreguez,Facebook
-5904eeaf-efc7-4a71-bbca-bcfe49143a92,PTS - Frente de Izquierda San Juan,2023-05-12T06:52:16.582Z,4fa31a5a-a70f-4c0b-b451-de901158a96f,FIT,Argentina,ar,699803473498897,PTS - Frente de Izquierda San Juan,Facebook
-5c32ad2c-ad40-4d4d-a5ae-5451ffde7d95,Fabricio Rodríguez,2023-06-26T05:07:33.020Z,da0c445d-7465-432a-b43b-a49b2cd5bfa5,FIT,Argentina,ar,308454536519426,Fabricio Rodríguez,Facebook
-5d617e3d-3bef-4569-a239-428ddf3dd1af,Izquierda Socialista La Rioja,2023-08-06T05:06:59.026Z,0bad77cc-16a6-4571-b6b9-6831dfc6cdea,FIT,Argentina,ar,640100309334908,Izquierda Socialista La Rioja,Facebook
-5fce94c4-0ba3-4da6-bd80-7b492fe5d241,Izquierda Socialista Santiago del Estero,2023-10-14T05:06:12.462Z,51fbade5-9226-420a-ac42-f0da9528e77e,FIT,Argentina,ar,967326436634432,Izquierda Socialista Santiago del Estero,Facebook
-60075d53-2730-474d-998d-76da8999aba5,Frente de Izquierda FIT,2023-04-30T06:51:53.735Z,ffefb7ef-7df5-4641-8342-1319df387d60,FIT,Argentina,ar,513899261972162,Frente de Izquierda FIT,Facebook
-63b60ba9-c495-4590-b198-76eb1867c3b1,Frente de Izquierda - Izquierda Socialista La Matanza,2023-08-07T05:07:19.459Z,10560a01-77e4-4288-aa1f-25f4b8d6fbaf,FIT,Argentina,ar,513379952062754,Frente de Izquierda - Izquierda Socialista La Matanza,Facebook
-64450980-c029-47dd-a019-6f1a21ad01f8,Alejandro Vilca,2023-02-07T15:06:01.813Z,414bfc74-8d9b-4104-aa7c-30232525b25f,FIT,Argentina,ar,1642712085944827,Alejandro Vilca,Facebook
-71822af3-9145-47cd-a12d-a8e315ded9a6,Lautaro Jimenez,2023-02-07T15:06:02.308Z,8a7d1266-142f-46b6-9533-84177ba944b2,FIT,Argentina,ar,836721716420200,Lautaro Jimenez,Facebook
-73c3e5ec-fe08-4c5f-b7c8-595ff3c5c716,Frente de Izquierda PTS Zona Oeste,2023-03-06T10:52:27.416Z,89ba18dd-c94f-48df-ad5c-87e09a5304fa,FIT,Argentina,ar,358854617653608,Frente de Izquierda PTS Zona Oeste,Facebook
-7a256553-7145-4f81-a2e5-5de1ee3458b9,Andrea D'Atri,2023-07-09T06:07:36.167Z,9c540981-f833-4fc2-ae4a-c7c0a07a06f7,FIT,Argentina,ar,97489906418,Andrea D'Atri,Facebook
-7edabd0d-6300-4637-94b8-cde95ece1578,Partido Obrero La Pampa,2023-04-04T10:52:24.589Z,cc51bb73-80c5-4dda-b4bb-519dca06bba3,FIT,Argentina,ar,837126866357906,Partido Obrero La Pampa,Facebook
-81fb119b-9dd3-4dd9-ba66-278e8009e03c,Partido Obrero Chubut,2023-06-30T05:06:55.219Z,4939a7d1-ccdc-4b1c-99ab-7fa4991136bd,FIT,Argentina,ar,878476878873871,Partido Obrero Chubut,Facebook
-82bc69ee-ebb8-4760-82ae-5f91b15603bb,Izquierda Socialista Tucumán,2023-08-06T05:06:59.705Z,4aba4013-b908-4a89-8f68-21ad2ce791ae,FIT,Argentina,ar,1191989057578870,Izquierda Socialista Tucumán,Facebook
-84abe25d-6bc6-4ae3-a894-1df4fc3de4cc,PTS  en el Frente de Izquierda-José C. Paz,2023-03-01T10:52:23.378Z,e41c6d08-ae64-40af-86e3-e504a1186b54,FIT,Argentina,ar,674901732643229,PTS  en el Frente de Izquierda-José C. Paz,Facebook
-858b5446-cd44-4ede-aa28-310692460514,Partido Obrero San Juan - en el Frente de Izquierda,2023-04-08T10:52:23.695Z,b6232a85-4b58-4274-aa28-c1201c8b0c7d,FIT,Argentina,ar,453252135056007,Partido Obrero San Juan - en el Frente de Izquierda,Facebook
-8935540b-4aa4-4df1-ae20-8f801eb9de92,Natalia Morales,2023-04-19T06:52:14.406Z,6f17baa5-05db-4b33-906d-c74cad5acd33,FIT,Argentina,ar,924072727651543,Natalia Morales,Facebook
-89ed0c59-543c-47db-b21e-ac7157795fe1,Gaston Remy,2023-03-07T10:52:24.363Z,7c6d2538-2d7d-4dff-b1ed-abb54cc292be,FIT,Argentina,ar,1355449444536526,Gaston Remy,Facebook
-8b2cb14a-8ab0-4398-8715-2db622e2c188,Partido Obrero- Frente de Izquierda Chilecito,2023-05-08T06:52:05.483Z,b041041c-6885-400f-8b34-6f126074fd48,FIT,Argentina,ar,349586035909937,Partido Obrero- Frente de Izquierda Chilecito,Facebook
-91c0f26d-1c8c-402c-8bfe-516bffb40812,Romina Del Plá,2023-05-16T06:52:24.486Z,afc65312-82c0-45c5-ad6b-07d4db27ccfd,FIT,Argentina,ar,417293091784162,Romina Del Plá,Facebook
-927ef1dd-39e6-4661-a2ee-9af812405d50,Soledad Díaz García,2023-02-07T15:06:01.756Z,cc39e8da-390b-426f-8880-f3a8620e81e2,FIT,Argentina,ar,1742025116063394,Soledad Díaz García,Facebook
-928bfe90-5504-4f21-8ce4-983bce0cfaff,Liliana Olivero,2023-05-23T06:52:23.195Z,01d27a73-c828-4b77-9d9b-9710e1f02740,FIT,Argentina,ar,257679404318059,Liliana Olivero,Facebook
-96e016e4-d283-4597-b517-b6224ec3145c,Pablo Sebastián López,2023-08-09T05:06:53.609Z,326fdd01-4c24-4884-8b7f-41c08cc38326,FIT,Argentina,ar,1627969434122671,Pablo Sebastián López,Facebook
-a0e50471-32a4-4bef-96e7-2615486f5204,Partido Obrero - Frente de Izquierda Río Negro,2023-04-04T10:52:23.756Z,893cd9cb-ae8b-4fa3-9b27-014d530a55df,FIT,Argentina,ar,751296878340462,Partido Obrero - Frente de Izquierda Río Negro,Facebook
-a31e6c46-7ff4-4098-9cd4-6a3c45e9dd16,Laura Vilches,2023-03-24T10:52:26.378Z,9996728c-ba5b-4eb4-b2f1-81c559c2bb02,FIT,Argentina,ar,1567551246808899,Laura Vilches,Facebook
-a92690b2-2cc2-4ba9-8eb9-6dcd137cab82,PTS - Frente de Izquierda - Bariloche,2023-03-26T10:52:07.922Z,4135582f-1024-41de-9093-2c3d699f90e8,FIT,Argentina,ar,328379894262424,PTS - Frente de Izquierda - Bariloche,Facebook
-ad1b45ff-0eb2-4224-9496-4adf7936b077,Pan y Rosas Argentina,2023-07-22T05:07:06.226Z,c7ed44cc-e4df-4fd2-99d9-1c10add07225,FIT,Argentina,ar,239083999551990,Pan y Rosas Argentina,Facebook
-afe8c290-a32b-4ff1-99c5-6cc0c2ca1293,PTS Chubut- Frente de Izquierda Unidad,2023-02-17T10:52:16.591Z,0c333f83-b990-4964-b133-ff3c7527ff13,FIT,Argentina,ar,463474643817662,PTS Chubut- Frente de Izquierda Unidad,Facebook
-b102ae81-5962-461a-ad87-1afd7d17b69a,Juventud del PTS - Frente de Izquierda en Naturales UNLP,2023-11-02T05:07:18.098Z,48dce38f-ff6c-4ac1-af72-ccdb7b5da5d6,FIT,Argentina,ar,1800853076858541,Juventud del PTS - Frente de Izquierda en Naturales UNLP,Facebook
-b18b2dcb-7cb8-466d-b971-969d5003267a,Vanina Biasi,2023-05-15T06:52:35.717Z,90e04f8f-f186-47b8-833e-d889e53e1cb0,FIT,Argentina,ar,1551213951808839,Vanina Biasi,Facebook
-b2f2a420-8084-4b00-b5e6-e5341b56bafb,Raúl Godoy,2023-08-04T05:06:58.351Z,f304a1cb-f914-42b7-a21e-77b6aef5f942,FIT,Argentina,ar,647127622087123,Raúl Godoy,Facebook
-b330cd8e-f517-4f74-9196-ea6d8fdad341,Selena Grimalt,2023-06-26T05:07:32.708Z,f634b2f9-49e6-43b6-8471-d4377d3251d2,FIT,Argentina,ar,1609668412400291,Selena Grimalt,Facebook
-b3b4f6b3-cb75-47b6-950e-91a8f4215855,Partido Obrero Chaco,2023-06-06T06:52:09.909Z,231fe85d-b64e-46c4-9a78-1e3bb17b9298,FIT,Argentina,ar,506043322795826,Partido Obrero Chaco,Facebook
+1f3fe812-946f-4d63-babd-ab9d7b60804b,Santiago Garcia Pinto Juntos por el Cambio,2023-04-25T06:52:01.743Z,47e9f0d1-f55c-41f9-bd9a-2f936623be99,JxC,Argentina,ar,601058213317020,Santiago Garcia Pinto Juntos por el Cambio,Facebook
+37e602d7-f343-487f-aacd-4857cc3c5a69,Juntos por el Cambio San Isidro,2023-07-09T06:07:35.404Z,bc32e975-2f50-4f7f-8081-8700c666e888,JxC,Argentina,ar,101665532218788,Juntos por el Cambio San Isidro,Facebook
+330b1465-3ac3-4979-a0f1-bd481f6a6667,Juntos por la Ciudad,2023-02-13T10:52:35.651Z,e52ccd8c-f213-424f-8197-e19cc5c3991c,JxC,Argentina,ar,540567215989768,Juntos por la Ciudad,Facebook
+464165b6-b3b8-494d-9be1-805ef8a38cbc,Juntos Tigre,2023-03-03T10:52:25.900Z,cd5560f1-7215-40f1-a816-aa6a8f02dda6,JxC,Argentina,ar,284302505110931,Juntos Tigre,Facebook
 b8877275-f12b-4259-88d1-b369b88c6a1a,Martin Correa,2023-04-25T06:52:01.685Z,c39ef207-3ba1-47d5-a000-c08132ee12c4,FIT,Argentina,ar,106372197511073,Martin Correa,Facebook
-ba01178e-d09d-435b-af18-94e61ae2afd9,Izquierdasocialista Bariloche,2023-07-31T10:53:52.306Z,6f41d50b-18fd-4cd2-9799-ef3956f5642c,FIT,Argentina,ar,675857835873190,Izquierdasocialista Bariloche,Facebook
-bb36a1a7-924f-4820-b34e-a874506b3e03,Patricio del Corro,2023-03-11T10:52:31.264Z,27e444f3-af21-4d50-b297-2104ee5f8b71,FIT,Argentina,ar,851050008340973,Patricio del Corro,Facebook
-bcc93829-719e-487b-9d42-e5d1636fa9b7,Myriam Bregman,2023-02-22T10:52:37.211Z,facea290-1a84-4068-aa8b-a5f626961eb7,FIT,Argentina,ar,185922194792026,Myriam Bregman,Facebook
-c36a6096-408b-4fc6-a747-2ce190c87536,Fabian Servin,2023-06-12T06:52:11.385Z,53ef4b1d-26f4-4801-8776-ab18cd6b6ad4,FIT,Argentina,ar,1106174902822083,Fabian Servin,Facebook
-c5dcfb81-f088-4d7a-aefb-5a67643c0d5f,Christian Castillo,2023-07-11T06:06:46.669Z,8e7eabe1-090b-4513-8daa-c07b5ed69f63,FIT,Argentina,ar,78792658315,Christian Castillo,Facebook
-d090e368-b9e6-4447-806a-006f437c8b07,Frente De Izquierda PTS San Fernando,2023-07-25T05:07:06.274Z,7fa5bd88-f3cb-4f6d-96c2-bf910581a463,FIT,Argentina,ar,1635697259977638,Frente De Izquierda PTS San Fernando,Facebook
-d1de492b-e37c-4b06-b643-07b204d4ac29,Juventud del PTS,2023-07-31T11:02:11.175Z,3171b29d-e129-4efc-b615-f7753efd01ec,FIT,Argentina,ar,233312550036244,Juventud del PTS,Facebook
-df191600-169e-460a-99b0-ea98eef1be2f,Frente de Izquierda - La Costa,2023-07-31T11:12:15.934Z,a6147ab0-c2c8-4bd7-b7bb-d9f2931888fc,FIT,Argentina,ar,317461781722394,Frente de Izquierda - La Costa,Facebook
 e1ee9e3c-9691-4435-b5bb-97b76159a574,Johana Gómez,2023-05-18T06:52:31.593Z,66d44039-f108-497e-8ab7-81bde4e914c8,FIT,Argentina,ar,1672118649761067,Johana Gómez,Facebook
-e623b858-05c6-47f6-b24f-fb0eecfe5bdf,Octavio Crivaro,2023-02-07T15:06:02.009Z,6eaf48c3-84b0-4e53-b4bc-ce29ab7fbb1f,FIT,Argentina,ar,304859109656812,Octavio Crivaro,Facebook
-e73388cb-35af-4128-9857-0af87ec62a9d,Partido Obrero,2023-03-18T10:52:15.451Z,66479d5b-cec3-4242-8a5a-fbe53d260777,FIT,Argentina,ar,181254295274398,Partido Obrero,Facebook
-e9d52a11-73c9-49c9-a86d-84b54fcc9efc,Julieta Katcoff,2023-07-31T12:50:24.456Z,3b9ead3a-a899-4c30-b230-6872975f5ae0,FIT,Argentina,ar,751396381700267,Julieta Katcoff,Facebook
-eccb77a9-b68d-40c4-8405-ea28a719eb1e,Frente de Izquierda Unidad - PTS - Zona Norte,2023-07-25T05:07:05.505Z,fd07f3b6-b87c-4bfa-8c4f-4dc0c04f9707,FIT,Argentina,ar,955717207781109,Frente de Izquierda Unidad - PTS - Zona Norte,Facebook
-fe4a394d-f04a-413a-9054-9d7cda221b64,Noelia Barbeito,2023-02-20T10:52:26.810Z,4a940bb9-5431-48d1-bcd6-45053a59fc9e,FIT,Argentina,ar,716395405117138,Noelia Barbeito,Facebook
-03cd4a10-bcd7-46fc-b779-dc1f2bff901a,La Libertad Avanza 9 de Julio,2023-08-10T05:07:06.423Z,13527174-85ce-4c5a-8dec-8475d00e9158,LA,Argentina,ar,117871744605429,La Libertad Avanza 9 de Julio,Facebook
-041d3221-91fe-4358-a1cc-3124b0f63313,José Peluc,2023-08-13T05:07:16.503Z,97d4bff2-8cca-4dfa-91c9-426d3384fb7e,LA,Argentina,ar,111476005318062,José Peluc,Facebook
-05bfce59-7fe1-4cc4-a555-d3531fbf2f5e,La Libertad Avanza en Formosa,2023-07-10T06:50:31.546Z,9b5b4804-e620-4021-96de-03cc58beb2a0,LA,Argentina,ar,102797629534330,La Libertad Avanza en Formosa,Facebook
-0b3025a4-0171-4e6b-a5a0-b14c51ed2324,La unica oposición,2023-07-31T12:50:25.455Z,729ba68b-8c2d-4a95-829c-abd0b09619b0,LA,Argentina,ar,111546275335134,La unica oposición,Facebook
-0e38c620-0960-4311-8c10-f5049ed9d060,La Libertad Avanza en Chubut,2023-07-10T06:50:31.413Z,374035e3-bb4b-4559-8a5f-bb047513c079,LA,Argentina,ar,101546996327920,La Libertad Avanza en Chubut,Facebook
-1459dc97-d6e1-4bda-ade8-9c9952230121,La Libertad Avanza Paso de los Libres Oficial,2023-07-27T05:06:53.850Z,eeadb459-c8eb-4dff-b6db-10ba2053d178,LA,Argentina,ar,112313425254951,La Libertad Avanza Paso de los Libres Oficial,Facebook
-1bba2293-2d80-4575-8be3-94b0569a9d8a,La Libertad Avanza San Juan-Oficial,2023-07-01T05:07:12.394Z,86612eb6-52c4-4c92-a010-f868cd8b38bc,LA,Argentina,ar,104336235470566,La Libertad Avanza San Juan-Oficial,Facebook
-1cb9ccae-1ad0-4b63-8930-24945ce9e4af,La Libertad Avanza en Buenos Aires,2023-06-19T18:24:16.831Z,8a2ed8a3-8c38-42e7-8a7d-4c395c610e07,LA,Argentina,ar,116285401477112,La Libertad Avanza en Buenos Aires,Facebook
-1d138912-ddaf-4e3c-8186-cb32813c8773,La Libertad Avanza en La Plata,2023-06-19T18:24:16.756Z,0204f921-37d1-45e5-866e-ea6fbe5be9e2,LA,Argentina,ar,120578057709956,La Libertad Avanza en La Plata,Facebook
-20843c0b-df01-4d39-b15f-f2def7878289,La Libertad Avanza en Salta,2023-07-07T13:15:37.709Z,78d76f70-c189-4ddd-9b16-260253838a8e,LA,Argentina,ar,101592066304184,La Libertad Avanza en Salta,Facebook
-20921936-14e2-472f-8358-1897f0596121,La Libertad Avanza en Pilar,2023-07-07T13:15:37.709Z,64bb5703-851f-4f26-a46f-5c1c6800d31b,LA,Argentina,ar,105755555850400,La Libertad Avanza en Pilar,Facebook
-21bba42b-9b92-4b9b-b4fa-a3fb24793225,La libertad Avanza. Gral. Juan Madariaga,2023-09-07T05:05:57.024Z,ba38c485-18f6-43ad-9ed6-4ffcfd598d27,LA,Argentina,ar,120532824474516,La libertad Avanza. Gral. Juan Madariaga,Facebook
-225ad5fd-70b6-4faa-ba22-32b89ccba8e6,La Libertad Avanza San Martín,2023-09-14T05:06:09.308Z,8ab0bb56-abf5-4c07-93b0-ff435ca07f93,LA,Argentina,ar,512510345914576,La Libertad Avanza San Martín,Facebook
-247e8bac-c29a-4127-81b9-aa7169a3c46a,La Libertad Avanza en Chaco,2023-07-08T06:06:46.388Z,ddde667b-4c10-48e6-bb77-fba0ceeb534c,LA,Argentina,ar,107731275682204,La Libertad Avanza en Chaco,Facebook
-2c5c1535-4d47-4da1-a260-92d1940fb215,La Libertad Avanza Chaco,2023-06-04T06:52:07.187Z,d3191175-ac49-481f-b911-c2d67db97a3a,LA,Argentina,ar,116075388079517,La Libertad Avanza Chaco,Facebook
-2e4acacb-7466-4c35-83b3-6beccb658561,La Libertad Avanza en Tierra del Fuego,2023-07-10T06:50:31.665Z,d523df4c-304b-4545-9bc1-4255fccf6793,LA,Argentina,ar,109010905572019,La Libertad Avanza en Tierra del Fuego,Facebook
-3ca3d2bf-1d23-4a9a-80b4-38029c69c859,La Libertad Avanza en Santiago del Estero,2023-07-09T06:07:35.844Z,20cb4289-8ad4-4a41-b831-b82a1c51ca9d,LA,Argentina,ar,108936422233553,La Libertad Avanza en Santiago del Estero,Facebook
-404d8a55-e1ef-4137-b90b-8e8f7705a7a2,La Libertad Avanza Azul,2023-07-17T06:31:27.735Z,02190f77-2f2c-4c75-91a3-50888278abcc,LA,Argentina,ar,110259988689626,La Libertad Avanza Azul,Facebook
-44047ac4-0de6-4cc6-89cf-69f43e1206cf,La Libertad Avanza 25 de Mayo,2023-10-17T05:06:29.194Z,1383fa94-0f21-41be-a568-e7342ce1ce2d,LA,Argentina,ar,394017851190857,La Libertad Avanza 25 de Mayo,Facebook
-46423e8d-fba7-4e1f-8bb2-def30f645298,La Libertad Avanza - Bandera,2023-08-18T05:06:37.548Z,d3e1c6fa-e335-4144-b7bb-381fec382367,LA,Argentina,ar,122095643966010614,La Libertad Avanza - Bandera,Facebook
-48ba5168-817c-4468-a9b0-940d3fe86758,La Libertad Avanza - San Martín,2023-08-10T05:07:06.021Z,e242ec46-d096-421c-8e68-f0e59f65e214,LA,Argentina,ar,144749386145908,La Libertad Avanza - San Martín,Facebook
-49fc7d7b-6b50-43fa-9d4a-0ca20d3bd549,La Libertad Avanza en Misiones,2023-07-09T06:07:35.807Z,6a857283-7c7f-428c-9daf-4833e18a25c0,LA,Argentina,ar,116505711465756,La Libertad Avanza en Misiones,Facebook
-4b21feec-0f7f-4f69-91b5-8163e361074e,La Libertad Avanza - La Cumbre,2023-05-27T06:52:09.526Z,10236d74-3245-4611-b883-dc20adb79545,LA,Argentina,ar,114559908306868,La Libertad Avanza - La Cumbre,Facebook
-4f549d78-0d75-4ed6-9959-4a1c45126e95,La Libertad Avanza Bolívar,2023-08-01T05:07:06.924Z,fc00c61e-8175-4c90-9f0b-05125bb4d8cb,LA,Argentina,ar,100710466408519,La Libertad Avanza Bolívar,Facebook
-51aaab3e-16ff-48d4-be87-8ae250b8313c,Bruno Olivera,2023-08-13T05:07:16.194Z,14924348-5e4a-4740-87c7-0056b8ee0a9f,LA,Argentina,ar,108242392328157,Bruno Olivera,Facebook
-567e8d17-51d5-4acf-af4a-0d8c26d5656c,La Libertad Avanza en Mar del Plata,2023-07-07T13:15:38.441Z,d36d555e-3d96-40e6-a937-ddef3e9e8631,LA,Argentina,ar,100342966421420,La Libertad Avanza en Mar del Plata,Facebook
-5800d4f6-752f-447f-81dc-5d22be7ab114,La Libertad Avanza en Jujuy,2023-07-04T06:15:38.251Z,a6aea8b8-6251-4b4b-89fc-6628395142c6,LA,Argentina,ar,115650124898595,La Libertad Avanza en Jujuy,Facebook
-5e3f911a-313a-4f4d-a22d-64c03d82996e,La Libertad Avanza en La Rioja,2023-07-10T06:50:31.571Z,9b95ab73-a95e-45f0-96dc-503955b254ff,LA,Argentina,ar,104758462655920,La Libertad Avanza en La Rioja,Facebook
-608ec314-ea41-4efb-a44c-da3ceea3e738,La Libertad Avanza FME Oficial,2023-08-15T05:06:40.595Z,b8e856a9-65d7-4f74-9a39-ad106be50b5b,LA,Argentina,ar,102507512914694,La Libertad Avanza FME Oficial,Facebook
-60f86ff1-b78d-4294-a9cb-c754cb17f20a,La Libertad Avanza Concordia,2023-10-17T05:06:28.885Z,d45f6a59-84c7-4501-9db0-6cca7cc8cbe9,LA,Argentina,ar,419649518096338,La Libertad Avanza Concordia,Facebook
-62099a0b-f271-43fd-a135-c768947ac15f,La Libertad Avanza en Santa Cruz,2023-07-10T06:50:31.407Z,99198e82-cefa-4309-a752-f110efc4915f,LA,Argentina,ar,105292379282066,La Libertad Avanza en Santa Cruz,Facebook
-62a0d6ad-0130-4b2a-a061-c712006dda8e,La Libertad Avanza en Río Negro,2023-07-10T06:50:31.513Z,0a9fdf84-3199-4b15-88c0-0286db0be4f3,LA,Argentina,ar,103700366109298,La Libertad Avanza en Río Negro,Facebook
-70270e55-b695-4569-b760-37911689c6a5,La Libertad Avanza en Corrientes,2023-07-09T06:07:35.864Z,83522a25-b28c-4699-9af7-46a7750c860b,LA,Argentina,ar,104905579306513,La Libertad Avanza en Corrientes,Facebook
-716fd133-9b99-4c0a-94bb-c58326979cdb,La Libertad Avanza - Cuarta Sección Electoral.,2023-07-24T05:06:49.723Z,c8091164-b798-46dd-9c4a-aff601c29a90,LA,Argentina,ar,104050791972117,La Libertad Avanza - Cuarta Sección Electoral.,Facebook
-784d5382-a440-4592-b220-54460e7ed3f6,La Libertad Avanza Maipú,2023-06-11T06:52:17.515Z,4c633d1b-7045-4ed7-b2bf-499c9c630623,LA,Argentina,ar,114626581591956,La Libertad Avanza Maipú,Facebook
-7a14a1eb-67bf-4f0f-adf3-4c664f3511cf,La Libertad Avanza en Santa Fe,2023-06-19T18:24:16.826Z,79afff37-3bc5-4bd0-9a68-3526fb2cc91b,LA,Argentina,ar,114633994980734,La Libertad Avanza en Santa Fe,Facebook
-8050423e-cfd4-4327-8ffb-b9dc4026be0f,La Libertad Avanza Caleta Olivia,2023-11-11T05:06:02.653Z,10aa50cb-fdaa-4d80-a29d-48f644048ed5,LA,Argentina,ar,138821885982054,La Libertad Avanza Caleta Olivia,Facebook
-824a258e-221c-4e74-aaf3-cec41e5e80af,La Libertad Avanza La Pampa,2023-03-29T10:52:21.938Z,e3d91b28-515e-4296-bcfd-19984bb8c8b4,LA,Argentina,ar,111051871572130,La Libertad Avanza La Pampa,Facebook
-889474b2-7018-4ac1-9174-6c6908149553,La Libertad Avanza en Tigre,2023-10-10T05:06:27.370Z,f694f6a0-87fa-48d7-b774-d67f8d4cdd7e,LA,Argentina,ar,108042268264916,La Libertad Avanza en Tigre,Facebook
-8a058c0f-ff05-4487-bd9e-70755e018c37,La Libertad Avanza San Cayetano,2023-07-04T06:15:38.242Z,2990a7f5-3bd6-4533-82a4-7e8e530772e7,LA,Argentina,ar,1681776608705280,La Libertad Avanza San Cayetano,Facebook
-8caf7272-9f8a-46c9-bffc-5f2203eb02ec,La Libertad Avanza - PBA,2023-02-07T15:06:02.295Z,b57ec85d-4c19-4740-8582-3e6a7ccaeb19,LA,Argentina,ar,100349546238384,La Libertad Avanza - PBA,Facebook
-8da5f051-89cc-4922-8852-f89197d4521d,La Libertad Avanza en Rosario,2023-06-19T18:24:16.814Z,50f8bf8e-8f76-4ec8-a526-fc785515449e,LA,Argentina,ar,119783024456548,La Libertad Avanza en Rosario,Facebook
-9602c778-7329-400b-8aaa-8267658c0fcb,La Libertad Avanza Lanus Milei 2023,2023-07-21T05:07:19.638Z,020fc8c7-8494-435a-adb6-2b71c9dcfe47,LA,Argentina,ar,101775159642878,La Libertad Avanza Lanus Milei 2023,Facebook
-97ff4fe3-613d-4a18-9dea-7520c94ea8aa,La Libertad Avanza Catamarca,2023-10-09T05:06:34.356Z,4039b511-5d1c-4d59-a013-4b090af80799,LA,Argentina,ar,102604129530729,La Libertad Avanza Catamarca,Facebook
-99148e78-78a2-48ea-90b8-66a07a6f3ec0,La Libertad Avanza en San Juan,2023-07-09T06:07:36.085Z,05a6675e-60c2-4dc4-b9e8-1fc58f87664c,LA,Argentina,ar,119077241220145,La Libertad Avanza en San Juan,Facebook
-9ab24b3f-1809-4267-84ab-a43f4a59ab4f,La Libertad Avanza en Córdoba,2023-07-07T13:15:37.670Z,cad1487c-9563-45e0-8ab2-5fe50cc023b0,LA,Argentina,ar,105360775914591,La Libertad Avanza en Córdoba,Facebook
-9da284c3-1a01-45a2-851e-a6f9555aaffc,,2023-05-17T06:51:49.523Z,e051da39-a70f-4810-8ff0-c3c2a372f7c8,LA,Argentina,ar,116376728115545,,Facebook
-9e6ccc42-2f2c-4a74-86f4-ba022ab95de8,La Libertad Avanza Colón,2023-09-18T05:06:14.443Z,86c941ba-e6bf-4738-9f3e-498eb45c5de1,LA,Argentina,ar,103586122802644,La Libertad Avanza Colón,Facebook
-a241055d-7121-45b2-9a4e-eab0e823025c,La Libertad Avanza,2023-10-14T05:06:12.756Z,3f3c0af7-0697-4129-b2a1-97019a5e976c,LA,Argentina,ar,154398604413217,La Libertad Avanza,Facebook
-a34d9893-a096-459f-a9ee-a3225a4269f9,La libertad avanza Necochea,2023-07-17T06:31:27.259Z,cfe5e105-b7dc-44ce-a928-9d02de7fd843,LA,Argentina,ar,106417142387363,La libertad avanza Necochea,Facebook
-a3e7f8f3-0959-432a-83ac-3f8997e7a842,La Libertad Avanza Capilla del Monte,2023-02-17T10:52:16.396Z,733333a5-22a4-498b-98b7-3d9fb241ba16,LA,Argentina,ar,775357269485593,La Libertad Avanza Capilla del Monte,Facebook
-a9f39656-eebb-43ed-ac49-d2b231fc8b62,Argentinos por un cambio,2023-11-03T05:06:26.976Z,7b6f5efe-a24e-40c2-b91f-ee227c602d3a,LA,Argentina,ar,157837240745269,Argentinos por un cambio,Facebook
-aa24f239-ad98-4fb2-a50b-05beb1a38b39,La Libertad Avanza Fdz,2023-11-01T05:06:24.103Z,df6ca631-046b-48a4-901b-b3db95964771,LA,Argentina,ar,167278346459000,La Libertad Avanza Fdz,Facebook
-ab8c6c88-dd75-459d-89c2-965b7280acf0,La Libertad Avanza en Mendoza,2023-07-07T13:15:37.709Z,eac86f8b-3732-4dcf-93a8-bba3dd92c8cf,LA,Argentina,ar,100697336394643,La Libertad Avanza en Mendoza,Facebook
-abe173bd-49d0-4a32-824d-7d413a33ad47,La Libertad Avanza Balcarce,2023-07-17T10:09:08.049Z,1de7c1ff-782e-4934-bec2-523318374145,LA,Argentina,ar,108062165679764,La Libertad Avanza Balcarce,Facebook
-ac88bd72-a45a-46df-a4c0-36454c6ae1e9,La Libertad Avanza en Neuquén,2023-07-04T06:15:38.176Z,89e4751c-e574-4b0d-b9a7-ece91fdcc35d,LA,Argentina,ar,106483849161370,La Libertad Avanza en Neuquén,Facebook
-b65fd005-1954-47fa-84dc-a89fa83e9d00,La Libertad Avanza Córdoba,2023-10-07T05:06:21.140Z,d0e6b324-8f59-4b27-85c8-195ed121f601,LA,Argentina,ar,156265344225773,La Libertad Avanza Córdoba,Facebook
-ba0eb6a3-8012-422f-b17b-d3589330e9eb,La Libertad Avanza en San Luis,2023-07-10T06:50:31.522Z,4d43c9e8-42e7-4bf5-ba6d-0615a38e1b6c,LA,Argentina,ar,104940809317631,La Libertad Avanza en San Luis,Facebook
-bb638aab-4ac4-4e78-8b92-2724757d3069,La Libertad Avanza en CABA,2023-06-19T18:24:16.762Z,383f2518-8a5e-4f4b-8021-088b7dd8ea27,LA,Argentina,ar,123194144112533,La Libertad Avanza en CABA,Facebook
-c2fe5dbe-3608-44a6-96dd-1064ce28e11e,La Libertad Avanza en La Pampa,2023-07-10T06:50:31.407Z,ec13b352-aead-452a-8a58-a0a5e13793bf,LA,Argentina,ar,110568238747610,La Libertad Avanza en La Pampa,Facebook
-c3fd4879-a5c0-439a-8cbf-a43c62b064ea,La Libertad Avanza Chivilcoy,2023-10-20T05:06:31.232Z,afe2a3f2-6758-4dd2-b5ba-5320d8fc1505,LA,Argentina,ar,101413722932501,La Libertad Avanza Chivilcoy,Facebook
-c4dc4e09-e41a-4b8d-8c9d-8da9e1038254,La Libertad Avanza San Fernando,2023-10-08T05:06:39.955Z,3ac0d6d7-4036-4431-abcc-bba86040a1b4,LA,Argentina,ar,102110042977041,La Libertad Avanza San Fernando,Facebook
-c636ff54-628b-48fe-8ed5-2436329ac8de,La Libertad Avanza - La Plata,2023-11-10T06:22:51.559Z,3aaf31d9-9043-4c7e-90e0-d59a7d31801f,LA,Argentina,ar,157112934152620,La Libertad Avanza - La Plata,Facebook
-ccd4806c-36fe-4a7c-a2df-136f86cd203e,Carlos Mondino - la libertad avanza,2023-10-08T05:06:39.927Z,4be86934-c3a0-40d3-94e7-d33f571ccb9a,LA,Argentina,ar,119688827891978,Carlos Mondino - la libertad avanza,Facebook
-cd6bdc13-84cf-4da4-ba9f-5cb7c440cd81,La Libertad Avanza - Alte. Brown,2023-04-22T06:02:41.274Z,866acd46-e1a6-4dfe-a110-b145e95cbd6d,LA,Argentina,ar,103808238992799,La Libertad Avanza - Alte. Brown,Facebook
-d0db401b-b30c-42be-a5f3-ab3d2d47e60b,La Libertad Avanza en San Juan,2023-04-17T08:19:04.180Z,26771def-25e1-4bd8-851b-8ff84be0a8e2,LA,Argentina,ar,100975902971250,La Libertad Avanza en San Juan,Facebook
-dd915e5c-88a3-41e9-b6f5-be260c659ab8,La Libertad Avanza San Martín,2023-09-09T05:06:18.551Z,84a2612d-97fd-42df-b540-0836367d0192,LA,Argentina,ar,482031668653674,La Libertad Avanza San Martín,Facebook
-def72171-bc17-4773-9a2b-3cad013ce9ab,La Libertad Avanza en Catamarca,2023-07-10T06:50:31.731Z,0152046e-104b-4c23-8046-665532b1dcc7,LA,Argentina,ar,116178214845702,La Libertad Avanza en Catamarca,Facebook
-e03d7364-35ab-457c-ac97-0f2137e25dcf,La Libertad Avanza Azul,2023-07-17T06:31:27.617Z,05e3ca76-8f2d-4d14-a115-86fcae0fada4,LA,Argentina,ar,100368139721473,La Libertad Avanza Azul,Facebook
-ec1dbd0b-b3e4-4cd1-b008-cddc6f63299f,La Libertad Avanza en Tucumán,2023-07-07T13:15:37.700Z,3fae0422-0d76-4a91-86fd-37af404f21d5,LA,Argentina,ar,107167869058837,La Libertad Avanza en Tucumán,Facebook
-f06c9bc1-aead-4a35-ad96-e87f95ec9351,La Libertad Avanza en La Matanza,2023-06-19T18:24:16.854Z,24bd55d9-151d-4483-b796-e23c9d639401,LA,Argentina,ar,111257615320262,La Libertad Avanza en La Matanza,Facebook
-f2c77420-9145-4ca2-bab0-0ddb71b1c91b,La Libertad Avanza en Entre Ríos,2023-07-11T06:06:46.281Z,dda4d38f-e835-4c35-b98c-5fcc65ff951e,LA,Argentina,ar,113390845115282,La Libertad Avanza en Entre Ríos,Facebook
-f99ca7f6-7bd7-4f44-91c2-984397e9487f,La libertad avanza San Fernando,2023-09-17T05:06:13.202Z,7cd7bffd-2f5b-47f7-83ec-3419c77a5a9b,LA,Argentina,ar,100375075931285,La libertad avanza San Fernando,Facebook
-fbbc9439-95e4-4247-a30f-2e2b0776f899,La Libertad Avanza La Rioja Capital,2023-04-16T15:04:33.797Z,b0b5b3f3-2cea-489a-a267-a376adc044e7,LA,Argentina,ar,101525192240036,La Libertad Avanza La Rioja Capital,Facebook
-fe3046ea-9de9-4807-ba4f-ed3e1d13d2ff,Lucía Gonzalez,2023-08-05T05:07:08.110Z,8bfe36de-034b-4939-80b2-2dbb0a393112,LA,Argentina,ar,101210333074513,Lucía Gonzalez,Facebook
-fe74a75a-43b5-4570-a8cd-f7d3137e524c,La Libertad Avanza Pehuajó,2023-06-13T06:52:28.414Z,4629dc1c-0af8-4d78-8020-ae428f8549db,LA,Argentina,ar,101914529563773,La Libertad Avanza Pehuajó,Facebook
-01165a4f-1c16-45f0-9a87-2c350b490720,Hacemos Por Córdoba Oncativo,2023-06-16T09:32:29.544Z,30411346-8989-42bd-80db-00ae2fea81f4,HNP,Argentina,ar,104324915156941,Hacemos Por Córdoba Oncativo,Facebook
+5d617e3d-3bef-4569-a239-428ddf3dd1af,Izquierda Socialista La Rioja,2023-08-06T05:06:59.026Z,0bad77cc-16a6-4571-b6b9-6831dfc6cdea,FIT,Argentina,ar,640100309334908,Izquierda Socialista La Rioja,Facebook
+2906d684-1e2d-4051-ab32-c84437557683,Juntos por el Cambio - Catriló,2023-04-26T06:52:28.542Z,d335e41b-381a-4b80-a524-14790e4bc34f,JxC,Argentina,ar,320692405216198,Juntos por el Cambio - Catriló,Facebook
+250ba134-24f8-40c4-8330-bcf29e14238e,Chubut por el Cambio,2023-02-07T15:06:01.392Z,eaf9b893-24f6-405c-b2d9-b24f95753ac4,JxC,Argentina,ar,102436695787908,Chubut por el Cambio,Facebook
+290f0321-dc94-4863-bf9e-7c594e62b0cb,Juntos Avancemos Chabás,2023-06-30T05:06:55.527Z,da516774-b62c-4328-9014-57e46532a2e5,JxC,Argentina,ar,108059551562015,Juntos Avancemos Chabás,Facebook
+e4e92174-3b54-4ec5-973d-21b65a68685c,Juntos x TDF,2023-03-03T10:52:26.442Z,36156eb7-30ab-4f1c-be3e-d262c478d414,JxC,Argentina,ar,102912456022922,Juntos x TDF,Facebook
+5904eeaf-efc7-4a71-bbca-bcfe49143a92,PTS - Frente de Izquierda San Juan,2023-05-12T06:52:16.582Z,4fa31a5a-a70f-4c0b-b451-de901158a96f,FIT,Argentina,ar,699803473498897,PTS - Frente de Izquierda San Juan,Facebook
+3f34394b-2151-418f-bc34-118a8c208d8e,Néstor Pitrola,2023-05-14T06:52:26.754Z,d79d77d0-5537-4de1-9158-51b45d770fc0,FIT,Argentina,ar,185797824928708,Néstor Pitrola,Facebook
+8d5b57d2-1005-4f79-b24a-d5f75fd7e330,Renata Ghilotti,2023-06-19T18:24:15.774Z,a1bf3ed2-aba5-4776-8870-76a8d6106b82,JxC,Argentina,ar,1509101616087339,Renata Ghilotti,Facebook
+3a2d164d-6471-432c-8a99-172d60db5077,Juntos Hurlingham,2023-02-27T10:52:27.740Z,dd418a09-df88-44a0-af72-ba3252b9ae3e,JxC,Argentina,ar,855722177907090,Juntos Hurlingham,Facebook
+60075d53-2730-474d-998d-76da8999aba5,Frente de Izquierda FIT,2023-04-30T06:51:53.735Z,ffefb7ef-7df5-4641-8342-1319df387d60,FIT,Argentina,ar,513899261972162,Frente de Izquierda FIT,Facebook
+8b2cb14a-8ab0-4398-8715-2db622e2c188,Partido Obrero- Frente de Izquierda Chilecito,2023-05-08T06:52:05.483Z,b041041c-6885-400f-8b34-6f126074fd48,FIT,Argentina,ar,349586035909937,Partido Obrero- Frente de Izquierda Chilecito,Facebook
+df191600-169e-460a-99b0-ea98eef1be2f,Frente de Izquierda - La Costa,2023-07-31T11:12:15.934Z,a6147ab0-c2c8-4bd7-b7bb-d9f2931888fc,FIT,Argentina,ar,317461781722394,Frente de Izquierda - La Costa,Facebook
+cf3b7e70-77fc-4497-b295-7574486eb024,Gato Fernández,2023-03-24T10:52:26.008Z,5f65b239-819d-4739-b36f-bba4930f1c1c,UP,Argentina,ar,104856199182046,Gato Fernández,Facebook
 117f99b8-c51b-4969-8339-be457ed86d82,Levantemos Argentina,2023-07-17T06:31:24.845Z,b2f49d2b-331d-4025-a162-1fbd8e722157,HNP,Argentina,ar,110767322072387,Levantemos Argentina,Facebook
-1425c839-449c-4c28-b786-dc260dbe924c,Hacemos,2023-07-17T06:31:24.779Z,5de191a7-d95d-414b-a76b-21a09e4182ad,HNP,Argentina,ar,102086362955693,Hacemos,Facebook
-1f8c5d71-e125-40b4-bd48-2f0c51998fa8,,2023-09-06T05:06:09.983Z,550b70d8-f90e-4a91-bc3b-f3cbb3ff61af,HNP,Argentina,ar,119344291259729,,Facebook
-4c06d0d0-8dc3-4bd9-8441-152ffe0d0947,Hacemos por Córdoba - Alta Gracia,2023-08-29T05:06:05.427Z,201f9470-7a64-44d3-b86e-5134e7267a0b,HNP,Argentina,ar,100736392343626,Hacemos por Córdoba - Alta Gracia,Facebook
-555cc586-79a7-4b5c-9241-5bbbb289540b,Hacemos por Misiones,2023-08-04T05:06:59.111Z,b48fd30f-7cdc-47d8-be60-b0713b293d5a,HNP,Argentina,ar,102335449607924,Hacemos por Misiones,Facebook
-5894d30f-64fc-4936-90f4-9f008b32e15e,Hacemos por Córdoba,2023-02-07T15:06:01.400Z,2df1002a-089e-45e9-af58-f9b0f653d90d,HNP,Argentina,ar,2339859699626643,Hacemos por Córdoba,Facebook
+15fe655d-045a-4a3b-bb79-694169b4f759,Gabriel Solano,2023-05-16T06:52:24.445Z,eb2d3499-4c7e-43aa-90e4-323594178be9,FIT,Argentina,ar,231169830377923,Gabriel Solano,Facebook
 6fd0808f-66aa-4ff8-8569-13baede02bc4,Hacemos por Nuestro País,2023-07-12T14:59:11.577Z,14b12c12-7bc8-41f5-8dbb-6885e828bcd8,HNP,Argentina,ar,108401558977853,Hacemos por Nuestro País,Facebook
-709b5694-cdda-41b3-b6a7-1b2669023575,Hacemos por Toledo,2023-06-15T06:52:19.754Z,217fb499-f06c-4846-99c0-2f01753287eb,HNP,Argentina,ar,100842739713475,Hacemos por Toledo,Facebook
-a184162f-d1df-428c-b05e-8f3e9405d8ca,Gustavo Leone,2023-10-16T05:06:27.124Z,82ffbb0d-25ad-4cfd-946c-03d2c95a4aa8,HNP,Argentina,ar,771789629527490,Gustavo Leone,Facebook
-dd53b08f-0b9c-4adb-9b3c-88c55b8e71b5,Hacemos por Córdoba Pilar,2023-02-08T05:54:37.275Z,cb516c3c-2fd4-466d-b64d-eaa7d065a4b2,HNP,Argentina,ar,102584952016197,Hacemos por Córdoba Pilar,Facebook
-ebe4912e-a688-42a0-9c20-e174281a3c35,Hacemos por Córdoba -  Rio Segundo,2023-04-16T15:04:32.859Z,9db05524-0e05-4afd-8dba-e673d7a5cdb1,HNP,Argentina,ar,370362983318107,Hacemos por Córdoba -  Rio Segundo,Facebook
-f15e8f43-5caf-4c3b-a092-4bee1a6d75ab,Hacemos por La Para,2023-05-13T06:52:29.504Z,eb9be1d6-4e74-4566-b133-709b5589f40e,HNP,Argentina,ar,113529161736658,Hacemos por La Para,Facebook
+1425c839-449c-4c28-b786-dc260dbe924c,Hacemos,2023-07-17T06:31:24.779Z,5de191a7-d95d-414b-a76b-21a09e4182ad,HNP,Argentina,ar,102086362955693,Hacemos,Facebook
+91c0f26d-1c8c-402c-8bfe-516bffb40812,Romina Del Plá,2023-05-16T06:52:24.486Z,afc65312-82c0-45c5-ad6b-07d4db27ccfd,FIT,Argentina,ar,417293091784162,Romina Del Plá,Facebook
+59f4e863-a878-4627-a2cb-7cb2074e1519,Patricia Bullrich,2023-02-10T10:52:32.372Z,3209d9d5-d89f-4bd8-bd9a-684431498931,JxC,Argentina,ar,90148244993,Patricia Bullrich,Facebook
+b18b2dcb-7cb8-466d-b971-969d5003267a,Vanina Biasi,2023-05-15T06:52:35.717Z,90e04f8f-f186-47b8-833e-d889e53e1cb0,FIT,Argentina,ar,1551213951808839,Vanina Biasi,Facebook
+eed706b6-699a-4cd3-ba28-119c551d9873,Gerardo Morales,2023-03-08T14:41:08.750Z,9494fe1d-6370-4454-93ae-07942069b256,JxC,Argentina,ar,61279025897,Gerardo Morales,Facebook
+165590df-92b2-4276-bded-64c93ca76c4a,Javier Monzon,2023-06-26T05:07:32.800Z,396b4463-b9de-42ae-b5fb-adfcd63a9dba,FIT,Argentina,ar,301092113635082,Javier Monzon,Facebook
+b330cd8e-f517-4f74-9196-ea6d8fdad341,Selena Grimalt,2023-06-26T05:07:32.708Z,f634b2f9-49e6-43b6-8471-d4377d3251d2,FIT,Argentina,ar,1609668412400291,Selena Grimalt,Facebook
+c36a6096-408b-4fc6-a747-2ce190c87536,Fabian Servin,2023-06-12T06:52:11.385Z,53ef4b1d-26f4-4801-8776-ab18cd6b6ad4,FIT,Argentina,ar,1106174902822083,Fabian Servin,Facebook
+2e826a39-a629-46ea-9a7a-9eafaddcab16,Frente de Izquierda,2023-06-20T05:29:06.886Z,22a2ef74-8e2c-4eee-9ce6-89de201f6217,FIT,Argentina,ar,139780689504552,Frente de Izquierda,Facebook
+eccb77a9-b68d-40c4-8405-ea28a719eb1e,Frente de Izquierda Unidad - PTS - Zona Norte,2023-07-25T05:07:05.505Z,fd07f3b6-b87c-4bfa-8c4f-4dc0c04f9707,FIT,Argentina,ar,955717207781109,Frente de Izquierda Unidad - PTS - Zona Norte,Facebook
+aefd4421-61c4-42ae-a1de-c06783f91a89,Alejo Sarna,2023-05-25T06:52:19.808Z,6cf23721-e4a0-4053-a51d-af846c1d9268,UP,Argentina,ar,317026248674145,Alejo Sarna,Facebook
+82a6d405-1886-473b-918a-a27aafa0fd59,Frente de Todos La Cruz,2023-05-20T06:52:25.274Z,662a667f-4060-4db5-89fb-4207db433531,UP,Argentina,ar,283594182520057,Frente de Todos La Cruz,Facebook
+5c32ad2c-ad40-4d4d-a5ae-5451ffde7d95,Fabricio Rodríguez,2023-06-26T05:07:33.020Z,da0c445d-7465-432a-b43b-a49b2cd5bfa5,FIT,Argentina,ar,308454536519426,Fabricio Rodríguez,Facebook
+3218c743-db4c-46de-be80-22c0a8142fed,Partido Obrero Entre Ríos,2023-07-25T05:07:06.118Z,19bac4c7-9cb8-4166-a5d9-1acf5f978c70,FIT,Argentina,ar,1610937359149950,Partido Obrero Entre Ríos,Facebook
+7a7e5e7b-d541-4dce-b2b9-178064881000,Sol Fernández,2023-05-23T06:52:23.153Z,c63cb1e9-5f97-4076-ad49-100195dd8486,UP,Argentina,ar,1467041676908836,Sol Fernández,Facebook
+6503a8da-de73-43b6-816e-01f1cd0879fb,Senadores Frente De Todos Salta,2023-04-12T10:51:54.547Z,6b0cb364-4b2e-4de1-abf6-b2f0cf3b5227,UP,Argentina,ar,111367011480466,Senadores Frente De Todos Salta,Facebook
+ce7b99f3-9468-4dbe-abca-12aeccafb8be,Unión por la Patria Quilmes,2023-06-19T18:24:16.914Z,c98a038b-e795-4808-9755-05b046c14077,UP,Argentina,ar,103054299496218,Unión por la Patria Quilmes,Facebook
+b8eb92c7-d27b-4891-9e43-ac6acdfa8a7d,Unión por la Patria - Azul,2023-07-13T06:24:37.293Z,d4d97964-4957-48c7-87dc-6f2439ccf6ce,UP,Argentina,ar,2345317912397528,Unión por la Patria - Azul,Facebook
+e42ba054-a9f7-429e-9cbb-2969f989dc04,Unión por la Patria Cnel. Dorrego,2023-07-26T05:08:08.930Z,db9c45f2-b7c3-4efe-9cc1-3f717af4d153,UP,Argentina,ar,106541782476432,Unión por la Patria Cnel. Dorrego,Facebook
+81fb119b-9dd3-4dd9-ba66-278e8009e03c,Partido Obrero Chubut,2023-06-30T05:06:55.219Z,4939a7d1-ccdc-4b1c-99ab-7fa4991136bd,FIT,Argentina,ar,878476878873871,Partido Obrero Chubut,Facebook
+ba01178e-d09d-435b-af18-94e61ae2afd9,Izquierdasocialista Bariloche,2023-07-31T10:53:52.306Z,6f41d50b-18fd-4cd2-9799-ef3956f5642c,FIT,Argentina,ar,675857835873190,Izquierdasocialista Bariloche,Facebook
+f3fcbe0d-f70c-4042-a9cb-7fbecf22b000,Frente De Todos Pilar,2023-05-31T06:52:20.087Z,4265ce0a-8551-4c0b-a9bb-1b55835c35a6,UP,Argentina,ar,316833772588597,Frente De Todos Pilar,Facebook
+8b93589a-4190-46bf-b152-7c99a5cddfdd,Frente de Todos - Entre Ríos,2023-08-06T05:06:59.423Z,f4d0ee83-4019-4dad-8f70-3bdec77fe7fd,UP,Argentina,ar,2029254300465548,Frente de Todos - Entre Ríos,Facebook
+29e29457-5192-45ef-b3ce-7e6570e30749,Juventud Izquierda Socialista Rosario - FITU,2023-07-01T05:07:12.065Z,8fae751a-3e10-4559-be78-2957b42b3b01,FIT,Argentina,ar,891505944325300,Juventud Izquierda Socialista Rosario - FITU,Facebook
+7a256553-7145-4f81-a2e5-5de1ee3458b9,Andrea D'Atri,2023-07-09T06:07:36.167Z,9c540981-f833-4fc2-ae4a-c7c0a07a06f7,FIT,Argentina,ar,97489906418,Andrea D'Atri,Facebook
+d1de492b-e37c-4b06-b643-07b204d4ac29,Juventud del PTS,2023-07-31T11:02:11.175Z,3171b29d-e129-4efc-b615-f7753efd01ec,FIT,Argentina,ar,233312550036244,Juventud del PTS,Facebook
+a0c3417b-f124-40a2-951c-f8793d0f6248,Marlen Gauna,2023-05-27T06:52:09.714Z,60017f68-04cd-4ba0-90a7-a9e1c068ee94,UP,Argentina,ar,109115998154043,Marlen Gauna,Facebook
+f74d6596-2d50-4371-b782-fb8ea887df87,Frente de Todos Monte Caseros,2023-05-27T06:52:09.128Z,35a1862b-ec23-40f9-bc82-452f355c7a97,UP,Argentina,ar,106902677317655,Frente de Todos Monte Caseros,Facebook
+0d3f0ab2-bd08-4263-a552-1ac9a3b091c5,Izquierda Socialista Rosario FIT-U,2023-07-03T06:15:08.681Z,2d5f5349-602c-4d2c-9fa3-e8b60091fbb6,FIT,Argentina,ar,710550705733601,Izquierda Socialista Rosario FIT-U,Facebook
+96e016e4-d283-4597-b517-b6224ec3145c,Pablo Sebastián López,2023-08-09T05:06:53.609Z,326fdd01-4c24-4884-8b7f-41c08cc38326,FIT,Argentina,ar,1627969434122671,Pablo Sebastián López,Facebook
+3a10d43e-bba1-4b89-8c70-4555d414c0b1,PartidoObrero Santa Cruz,2023-07-31T12:50:23.976Z,8b418f90-7b46-41aa-9c86-ad686e1e51bd,FIT,Argentina,ar,759339330825563,PartidoObrero Santa Cruz,Facebook
+48b30b47-8b00-4452-9ed7-cac20187472d,Todos Campana,2023-05-20T06:52:24.168Z,dd14487d-6020-4dc0-81fe-febaf68b52b3,UP,Argentina,ar,1656948991301244,Todos Campana,Facebook
+49162a8d-d1dd-477f-a07e-5c9b814a96cb,Unión por la Patria Exaltación de la Cruz,2023-07-17T06:31:27.440Z,43586e45-1f38-4f70-a374-6e4713fc9eee,UP,Argentina,ar,377502529777842,Unión por la Patria Exaltación de la Cruz,Facebook
+b2f2a420-8084-4b00-b5e6-e5341b56bafb,Raúl Godoy,2023-08-04T05:06:58.351Z,f304a1cb-f914-42b7-a21e-77b6aef5f942,FIT,Argentina,ar,647127622087123,Raúl Godoy,Facebook
+51e77d97-7aef-49e3-ae7c-480e5611a48c,César Lezcano,2023-05-20T06:52:24.579Z,ccec92e8-d410-462e-aa64-99d20885e1e9,UP,Argentina,ar,918158378274332,César Lezcano,Facebook
+63b60ba9-c495-4590-b198-76eb1867c3b1,Frente de Izquierda - Izquierda Socialista La Matanza,2023-08-07T05:07:19.459Z,10560a01-77e4-4288-aa1f-25f4b8d6fbaf,FIT,Argentina,ar,513379952062754,Frente de Izquierda - Izquierda Socialista La Matanza,Facebook
+bd5b31ee-add7-4f25-b7cd-14270903be64,Frente de Todos Corrientes,2023-05-20T06:52:24.247Z,777f2d4b-d13f-4675-aca6-f2acaafc2cc7,UP,Argentina,ar,380587129254638,Frente de Todos Corrientes,Facebook
+82bc69ee-ebb8-4760-82ae-5f91b15603bb,Izquierda Socialista Tucumán,2023-08-06T05:06:59.705Z,4aba4013-b908-4a89-8f68-21ad2ce791ae,FIT,Argentina,ar,1191989057578870,Izquierda Socialista Tucumán,Facebook
+e9d52a11-73c9-49c9-a86d-84b54fcc9efc,Julieta Katcoff,2023-07-31T12:50:24.456Z,3b9ead3a-a899-4c30-b230-6872975f5ae0,FIT,Argentina,ar,751396381700267,Julieta Katcoff,Facebook
+8bd53860-63a8-4c47-9bd2-bdeb5464631f,Martín Tincho Ascúa,2023-05-08T06:52:05.887Z,c583d057-06a1-4f15-8973-9d84d6d75ad8,UP,Argentina,ar,381280145568609,Martín Tincho Ascúa,Facebook
+033159f0-3e07-499f-93c8-121169eed5a8,Partido Justicialista - Frente de Todos Coronel Pringles,2023-07-06T06:06:44.352Z,e4166eed-8d8b-4b25-9653-dc468185d54c,UP,Argentina,ar,1565394790369832,Partido Justicialista - Frente de Todos Coronel Pringles,Facebook
+c5dcfb81-f088-4d7a-aefb-5a67643c0d5f,Christian Castillo,2023-07-11T06:06:46.669Z,8e7eabe1-090b-4513-8daa-c07b5ed69f63,FIT,Argentina,ar,78792658315,Christian Castillo,Facebook
+f650c084-2783-470b-9655-97fabe99ca66,Frente de Todos Dina Huapi,2023-05-12T06:52:18.459Z,f0058d4b-a212-411e-a259-678ca1418a4c,UP,Argentina,ar,104469187618214,Frente de Todos Dina Huapi,Facebook
+f82a7629-52f5-4f6e-a485-c975617c5798,Unión por la Patria Guaminí,2023-08-15T05:06:40.836Z,afb41384-4c59-4f30-b30d-752dfb124e36,UP,Argentina,ar,287643811702652,Unión por la Patria Guaminí,Facebook
+ad1b45ff-0eb2-4224-9496-4adf7936b077,Pan y Rosas Argentina,2023-07-22T05:07:06.226Z,c7ed44cc-e4df-4fd2-99d9-1c10add07225,FIT,Argentina,ar,239083999551990,Pan y Rosas Argentina,Facebook
+4d3046f0-0a2e-4d0d-858e-82388518ecad,Celeste Ascúa,2023-05-08T06:52:05.837Z,e9d900b5-82a1-4a76-9831-a555f76b5cae,UP,Argentina,ar,121558597580863,Celeste Ascúa,Facebook
+ea8ce96a-dbd5-4555-863d-6fb3f356dae2,Bloque  PJ -Frente de Todos Tornquist,2023-07-04T06:15:37.953Z,2d30675c-bc49-4af5-bdd5-03caaca07265,UP,Argentina,ar,101708869075555,Bloque  PJ -Frente de Todos Tornquist,Facebook
+d9abfa02-da95-461f-9ced-9a00f7275bfc,Unión por la Patria Coronel Pringles,2023-06-26T05:07:33.771Z,8c88a869-e054-4eb7-b83c-a735a324c651,UP,Argentina,ar,1773588766230474,Unión por la Patria Coronel Pringles,Facebook
+451547ca-494a-45aa-a3b1-8f6cc019d9cb,Unión por la Patria Zárate-Lima,2023-07-31T11:12:15.219Z,a4b86669-4884-4cb1-b5f3-dfb680d6112f,UP,Argentina,ar,114537658365854,Unión por la Patria Zárate-Lima,Facebook
+ae85ada8-33b7-442e-b781-aba296571da8,Unión por la Patria Hurlingham,2023-06-30T05:06:54.303Z,abbdeaec-f22a-4e34-a52f-4ca5cdbd7ec1,UP,Argentina,ar,103222639479535,Unión por la Patria Hurlingham,Facebook
+d2f24ff6-c5ac-4759-a7e8-f323add19377,Unión por la Patria Olavarría,2023-07-24T05:06:49.763Z,493d815a-dbde-48e5-a294-1034d0514652,UP,Argentina,ar,527970623935447,Unión por la Patria Olavarría,Facebook
+436c75a9-6c6b-45d2-a5c2-c8ae21995f2c,Unión por la Patria Berazategui,2023-07-31T11:12:16.412Z,fa666477-354b-4c66-94ca-f2f54269e54a,UP,Argentina,ar,143389762885535,Unión por la Patria Berazategui,Facebook
+dcab2292-93c2-430f-8358-7f3503943122,Unión por la Patria Villa Gesell,2023-07-04T06:15:37.299Z,184cd614-3f88-497e-80ea-5220ac1756b9,UP,Argentina,ar,328473294743737,Unión por la Patria Villa Gesell,Facebook
+29c2d60d-6dcf-45a9-b0a0-08cdb6af6305,Unión por la Patria San Fernando,2023-07-17T06:31:24.998Z,4a64a97a-1708-46bc-aaaf-01146fc8db73,UP,Argentina,ar,2321348041462779,Unión por la Patria San Fernando,Facebook
+b2a501a8-eb52-48da-8e2f-6dc4c0f17801,Unión por la Patria Rauch,2023-07-31T10:53:53.378Z,7abb93e3-adf9-41ab-8359-b9eb6670b8e2,UP,Argentina,ar,2397497630575167,Unión por la Patria Rauch,Facebook
+49139369-f9d2-4090-807f-7be646aee7d6,Todos Roque Pérez,2023-07-05T06:06:34.116Z,05a1d6b5-2507-43df-8a63-f3ad528aea44,UP,Argentina,ar,130897680800368,Todos Roque Pérez,Facebook
+a39f2299-5eaa-4cc6-9ae5-cb57c210e036,Unión por la Patria Darregueira,2023-07-24T05:06:49.762Z,819f7cbb-da95-46d3-ba2e-9a463279df4e,UP,Argentina,ar,105970538063184,Unión por la Patria Darregueira,Facebook
+439cec72-a052-4691-baad-62c257a30b6a,Unión por la Patria JG - Agua de Oro,2023-07-31T11:12:16.437Z,ccf8aead-8f72-493b-ae64-6b3847e0c6f6,UP,Argentina,ar,112502018588731,Unión por la Patria JG - Agua de Oro,Facebook
+4a8b45d2-fd7c-4d52-a40f-e14cabbdb880,Unión por la Patria JG,2023-08-05T05:07:06.167Z,56b436c4-7c91-465b-aa50-fe5d2a3cca07,UP,Argentina,ar,113732213839062,Unión por la Patria JG,Facebook
+b2f5460a-ad40-437f-9e60-fa5d5d9d7061,Union por la Patria Trenque Lauquen,2023-08-07T05:07:18.565Z,16b7110e-d259-430f-be38-a3bd72a17d86,UP,Argentina,ar,471719063033128,Union por la Patria Trenque Lauquen,Facebook
+82224993-6eed-41e1-a1a1-2a456edc99eb,Unión por la Patria - Chaco,2023-08-11T05:08:32.435Z,6bc0a8db-a5c0-45ab-b1a7-a1be24ff2a50,UP,Argentina,ar,114897618354974,Unión por la Patria - Chaco,Facebook
+5eb5317a-c6c4-4e2c-8854-ad3882ffd9d1,Unión por la Patria Balcarce,2023-08-01T05:07:06.206Z,3bac8f0a-d736-4982-87a2-eacc269ac124,UP,Argentina,ar,1713828825585616,Unión por la Patria Balcarce,Facebook
+7c1e5a25-7457-4adf-865c-a843ae3bc2b1,Unión por la Patria Lanús,2023-08-10T05:07:04.287Z,8fd1361e-d4e6-4227-befb-7afdc06bc5a7,UP,Argentina,ar,107448593924080,Unión por la Patria Lanús,Facebook
+265caa2d-ca7d-4174-bf2d-42e5a4575321,Unión por La Patria Bragado,2023-08-03T05:06:52.682Z,f6c98966-60eb-4470-a500-54e864f79b8b,UP,Argentina,ar,114122685043195,Unión por La Patria Bragado,Facebook
+c52967e2-3d75-49e6-9351-a550747b20b3,Unión por la Patria San Cayetano,2023-08-11T05:08:31.987Z,7fdda7e7-e146-4ee5-9e89-903dca039918,UP,Argentina,ar,287089731852353,Unión por la Patria San Cayetano,Facebook
+f8268853-d0a1-49c0-aec3-4521c6f03072,Unión por la Patria Patagones,2023-07-03T06:15:09.117Z,57687f44-f3e3-44d8-85fb-001abf6aa5a4,UP,Argentina,ar,1876988282626478,Unión por la Patria Patagones,Facebook
+4102aeb5-8e55-4e0e-8c90-a6d7dd5e3b12,Unión por la Patria - Movimiento para la Victoria,2023-07-23T05:07:18.434Z,ffd55e98-1f23-4a0f-bfca-90d5335255da,UP,Argentina,ar,320797736269,Unión por la Patria - Movimiento para la Victoria,Facebook
+1ed2b8f8-0de0-4d72-b2d6-78d27fbd0a34,Unión por la Patria La Plata,2023-08-05T05:07:06.524Z,430e738b-c353-4162-931c-ad699c0a2bc1,UP,Argentina,ar,106702349126879,Unión por la Patria La Plata,Facebook
+a31eb0da-f948-4cc5-bffa-450be8bb5a9f,Unión por la Patria Chascomús,2023-08-09T05:06:54.156Z,808a70f0-f6cc-4a45-8732-46ff27912e8d,UP,Argentina,ar,104213006070005,Unión por la Patria Chascomús,Facebook
+e9884e35-a1c7-4236-8900-ba0e100c1e86,Unión por la Patria Dpto Santa María,2023-08-12T05:07:06.907Z,993b5545-c2d5-4cc4-993a-1d91bf9eded4,UP,Argentina,ar,130088413407536,Unión por la Patria Dpto Santa María,Facebook
+e839de15-be72-4c36-9109-f39c826a9982,Unión por la Patria Marcos Paz,2023-07-17T06:31:27.735Z,f81147d7-a3b2-411c-8d9f-c11410c20787,UP,Argentina,ar,331718930289611,Unión por la Patria Marcos Paz,Facebook
+19691ad6-4c27-4b5f-8416-5ebde1694327,Unión por la Patria Navarro,2023-08-05T05:07:07.965Z,2c0a4bdf-68f0-4185-b018-8fe4bab93f44,UP,Argentina,ar,110801602060212,Unión por la Patria Navarro,Facebook
+d6067b5a-7a7c-449c-bfa7-7d9bdbcfd0f3,Union Por La Patria Chapu,2023-08-05T05:07:08.054Z,90b222d5-3b6d-40fa-9613-86d2f5d8b959,UP,Argentina,ar,100976133064304,Union Por La Patria Chapu,Facebook
+2b572668-d39c-4f3f-ac02-f0a87995fe2c,,2023-08-08T05:06:27.240Z,13a4d6aa-1fab-40d2-86aa-9cf39a2642b8,UP,Argentina,ar,115467818266230,,Facebook
+57c16b5a-9959-4621-a1aa-95f86f24fa89,Unión por la Patria Trenque Lauquen,2023-08-13T05:07:15.788Z,16f5687a-0923-4473-820e-35cf81645a3b,UP,Argentina,ar,321266771640180,Unión por la Patria Trenque Lauquen,Facebook
+ddb49d68-10aa-4174-b59a-a80c42da96b1,Unión Por la Patria Tierra del Fuego,2023-07-19T06:06:39.875Z,654c1670-2837-4a65-bf2c-657fab2a38e3,UP,Argentina,ar,116262491494249,Unión Por la Patria Tierra del Fuego,Facebook
+d6c02006-cdac-46a9-9198-69ae9eca9958,Unión por la Patria,2023-07-19T06:06:37.966Z,a3f11e4a-dde2-4169-b715-643f1495cc9a,UP,Argentina,ar,364916637463104,Unión por la Patria,Facebook
+c860e90d-3aa2-4cde-87ab-0742365b44b0,Axel Kicillof,2023-07-21T05:07:17.855Z,dce9038e-9dbd-44cf-9156-cfd575141368,UP,Argentina,ar,116053261893854,Axel Kicillof,Facebook
+618238ef-47ff-4414-b436-b40a36c3c836,Todos Villarino,2023-08-08T05:06:26.838Z,118816d8-504e-4ad8-83c1-b3e7ef07263b,UP,Argentina,ar,603002336531778,Todos Villarino,Facebook
+5bcd5f62-5fcc-4ee0-a531-7e1b278ee4b0,Unión por la Patria,2023-10-19T05:06:25.380Z,428e993d-32bc-42ef-b425-fff5a29dab04,UP,Argentina,ar,1987003524912488,Unión por la Patria,Facebook
+a7211807-1822-43ff-ab43-5908fce1ca52,Mario Raúl Negri,2023-02-07T15:06:01.988Z,8b63b1f6-7991-41cf-b7ba-0d169a889191,JxC,Argentina,ar,227469003952751,Mario Raúl Negri,Facebook
+370664f9-3e99-4736-a3f6-ce09d62687ce,Unión por la Patria Gral Madariaga,2023-10-24T05:06:21.515Z,914e4bd3-f9ec-40e5-8d46-0c007c854dd7,UP,Argentina,ar,224528761654512,Unión por la Patria Gral Madariaga,Facebook
+20843c0b-df01-4d39-b15f-f2def7878289,La Libertad Avanza en Salta,2023-07-07T13:15:37.709Z,78d76f70-c189-4ddd-9b16-260253838a8e,LA,Argentina,ar,101592066304184,La Libertad Avanza en Salta,Facebook
+567e8d17-51d5-4acf-af4a-0d8c26d5656c,La Libertad Avanza en Mar del Plata,2023-07-07T13:15:38.441Z,d36d555e-3d96-40e6-a937-ddef3e9e8631,LA,Argentina,ar,100342966421420,La Libertad Avanza en Mar del Plata,Facebook
+247e8bac-c29a-4127-81b9-aa7169a3c46a,La Libertad Avanza en Chaco,2023-07-08T06:06:46.388Z,ddde667b-4c10-48e6-bb77-fba0ceeb534c,LA,Argentina,ar,107731275682204,La Libertad Avanza en Chaco,Facebook
+62a0d6ad-0130-4b2a-a061-c712006dda8e,La Libertad Avanza en Río Negro,2023-07-10T06:50:31.513Z,0a9fdf84-3199-4b15-88c0-0286db0be4f3,LA,Argentina,ar,103700366109298,La Libertad Avanza en Río Negro,Facebook
+f2c77420-9145-4ca2-bab0-0ddb71b1c91b,La Libertad Avanza en Entre Ríos,2023-07-11T06:06:46.281Z,dda4d38f-e835-4c35-b98c-5fcc65ff951e,LA,Argentina,ar,113390845115282,La Libertad Avanza en Entre Ríos,Facebook
+3a5a3fcf-ad1c-46ca-9460-4769e10f0283,Unión por la Patria Jacobacci,2023-10-25T05:06:55.679Z,7efa10c8-5942-4035-a969-441911cec27d,UP,Argentina,ar,353280385377545,Unión por la Patria Jacobacci,Facebook
+ab8c6c88-dd75-459d-89c2-965b7280acf0,La Libertad Avanza en Mendoza,2023-07-07T13:15:37.709Z,eac86f8b-3732-4dcf-93a8-bba3dd92c8cf,LA,Argentina,ar,100697336394643,La Libertad Avanza en Mendoza,Facebook
+20921936-14e2-472f-8358-1897f0596121,La Libertad Avanza en Pilar,2023-07-07T13:15:37.709Z,64bb5703-851f-4f26-a46f-5c1c6800d31b,LA,Argentina,ar,105755555850400,La Libertad Avanza en Pilar,Facebook
+0e38c620-0960-4311-8c10-f5049ed9d060,La Libertad Avanza en Chubut,2023-07-10T06:50:31.413Z,374035e3-bb4b-4559-8a5f-bb047513c079,LA,Argentina,ar,101546996327920,La Libertad Avanza en Chubut,Facebook
+05bfce59-7fe1-4cc4-a555-d3531fbf2f5e,La Libertad Avanza en Formosa,2023-07-10T06:50:31.546Z,9b5b4804-e620-4021-96de-03cc58beb2a0,LA,Argentina,ar,102797629534330,La Libertad Avanza en Formosa,Facebook
+2e4acacb-7466-4c35-83b3-6beccb658561,La Libertad Avanza en Tierra del Fuego,2023-07-10T06:50:31.665Z,d523df4c-304b-4545-9bc1-4255fccf6793,LA,Argentina,ar,109010905572019,La Libertad Avanza en Tierra del Fuego,Facebook
+ccd4806c-36fe-4a7c-a2df-136f86cd203e,Carlos Mondino - la libertad avanza,2023-10-08T05:06:39.927Z,4be86934-c3a0-40d3-94e7-d33f571ccb9a,LA,Argentina,ar,119688827891978,Carlos Mondino - la libertad avanza,Facebook
+889474b2-7018-4ac1-9174-6c6908149553,La Libertad Avanza en Tigre,2023-10-10T05:06:27.370Z,f694f6a0-87fa-48d7-b774-d67f8d4cdd7e,LA,Argentina,ar,108042268264916,La Libertad Avanza en Tigre,Facebook
+60f86ff1-b78d-4294-a9cb-c754cb17f20a,La Libertad Avanza Concordia,2023-10-17T05:06:28.885Z,d45f6a59-84c7-4501-9db0-6cca7cc8cbe9,LA,Argentina,ar,419649518096338,La Libertad Avanza Concordia,Facebook
+c4dc4e09-e41a-4b8d-8c9d-8da9e1038254,La Libertad Avanza San Fernando,2023-10-08T05:06:39.955Z,3ac0d6d7-4036-4431-abcc-bba86040a1b4,LA,Argentina,ar,102110042977041,La Libertad Avanza San Fernando,Facebook
+97ff4fe3-613d-4a18-9dea-7520c94ea8aa,La Libertad Avanza Catamarca,2023-10-09T05:06:34.356Z,4039b511-5d1c-4d59-a013-4b090af80799,LA,Argentina,ar,102604129530729,La Libertad Avanza Catamarca,Facebook
+a241055d-7121-45b2-9a4e-eab0e823025c,La Libertad Avanza,2023-10-14T05:06:12.756Z,3f3c0af7-0697-4129-b2a1-97019a5e976c,LA,Argentina,ar,154398604413217,La Libertad Avanza,Facebook
+404d8a55-e1ef-4137-b90b-8e8f7705a7a2,La Libertad Avanza Azul,2023-07-17T06:31:27.735Z,02190f77-2f2c-4c75-91a3-50888278abcc,LA,Argentina,ar,110259988689626,La Libertad Avanza Azul,Facebook
+f99ca7f6-7bd7-4f44-91c2-984397e9487f,La libertad avanza San Fernando,2023-09-17T05:06:13.202Z,7cd7bffd-2f5b-47f7-83ec-3419c77a5a9b,LA,Argentina,ar,100375075931285,La libertad avanza San Fernando,Facebook
+e03d7364-35ab-457c-ac97-0f2137e25dcf,La Libertad Avanza Azul,2023-07-17T06:31:27.617Z,05e3ca76-8f2d-4d14-a115-86fcae0fada4,LA,Argentina,ar,100368139721473,La Libertad Avanza Azul,Facebook
+4f549d78-0d75-4ed6-9959-4a1c45126e95,La Libertad Avanza Bolívar,2023-08-01T05:07:06.924Z,fc00c61e-8175-4c90-9f0b-05125bb4d8cb,LA,Argentina,ar,100710466408519,La Libertad Avanza Bolívar,Facebook
+041d3221-91fe-4358-a1cc-3124b0f63313,José Peluc,2023-08-13T05:07:16.503Z,97d4bff2-8cca-4dfa-91c9-426d3384fb7e,LA,Argentina,ar,111476005318062,José Peluc,Facebook
+46423e8d-fba7-4e1f-8bb2-def30f645298,La Libertad Avanza - Bandera,2023-08-18T05:06:37.548Z,d3e1c6fa-e335-4144-b7bb-381fec382367,LA,Argentina,ar,122095643966010614,La Libertad Avanza - Bandera,Facebook
+abe173bd-49d0-4a32-824d-7d413a33ad47,La Libertad Avanza Balcarce,2023-07-17T10:09:08.049Z,1de7c1ff-782e-4934-bec2-523318374145,LA,Argentina,ar,108062165679764,La Libertad Avanza Balcarce,Facebook
+48ba5168-817c-4468-a9b0-940d3fe86758,La Libertad Avanza - San Martín,2023-08-10T05:07:06.021Z,e242ec46-d096-421c-8e68-f0e59f65e214,LA,Argentina,ar,144749386145908,La Libertad Avanza - San Martín,Facebook
+225ad5fd-70b6-4faa-ba22-32b89ccba8e6,La Libertad Avanza San Martín,2023-09-14T05:06:09.308Z,8ab0bb56-abf5-4c07-93b0-ff435ca07f93,LA,Argentina,ar,512510345914576,La Libertad Avanza San Martín,Facebook
+9602c778-7329-400b-8aaa-8267658c0fcb,La Libertad Avanza Lanus Milei 2023,2023-07-21T05:07:19.638Z,020fc8c7-8494-435a-adb6-2b71c9dcfe47,LA,Argentina,ar,101775159642878,La Libertad Avanza Lanus Milei 2023,Facebook
+51aaab3e-16ff-48d4-be87-8ae250b8313c,Bruno Olivera,2023-08-13T05:07:16.194Z,14924348-5e4a-4740-87c7-0056b8ee0a9f,LA,Argentina,ar,108242392328157,Bruno Olivera,Facebook
+21bba42b-9b92-4b9b-b4fa-a3fb24793225,La libertad Avanza. Gral. Juan Madariaga,2023-09-07T05:05:57.024Z,ba38c485-18f6-43ad-9ed6-4ffcfd598d27,LA,Argentina,ar,120532824474516,La libertad Avanza. Gral. Juan Madariaga,Facebook
+716fd133-9b99-4c0a-94bb-c58326979cdb,La Libertad Avanza - Cuarta Sección Electoral.,2023-07-24T05:06:49.723Z,c8091164-b798-46dd-9c4a-aff601c29a90,LA,Argentina,ar,104050791972117,La Libertad Avanza - Cuarta Sección Electoral.,Facebook
+03cd4a10-bcd7-46fc-b779-dc1f2bff901a,La Libertad Avanza 9 de Julio,2023-08-10T05:07:06.423Z,13527174-85ce-4c5a-8dec-8475d00e9158,LA,Argentina,ar,117871744605429,La Libertad Avanza 9 de Julio,Facebook
+dd915e5c-88a3-41e9-b6f5-be260c659ab8,La Libertad Avanza San Martín,2023-09-09T05:06:18.551Z,84a2612d-97fd-42df-b540-0836367d0192,LA,Argentina,ar,482031668653674,La Libertad Avanza San Martín,Facebook
+1459dc97-d6e1-4bda-ade8-9c9952230121,La Libertad Avanza Paso de los Libres Oficial,2023-07-27T05:06:53.850Z,eeadb459-c8eb-4dff-b6db-10ba2053d178,LA,Argentina,ar,112313425254951,La Libertad Avanza Paso de los Libres Oficial,Facebook
+fe3046ea-9de9-4807-ba4f-ed3e1d13d2ff,Lucía Gonzalez,2023-08-05T05:07:08.110Z,8bfe36de-034b-4939-80b2-2dbb0a393112,LA,Argentina,ar,101210333074513,Lucía Gonzalez,Facebook
+9e6ccc42-2f2c-4a74-86f4-ba022ab95de8,La Libertad Avanza Colón,2023-09-18T05:06:14.443Z,86c941ba-e6bf-4738-9f3e-498eb45c5de1,LA,Argentina,ar,103586122802644,La Libertad Avanza Colón,Facebook
+49fc7d7b-6b50-43fa-9d4a-0ca20d3bd549,La Libertad Avanza en Misiones,2023-07-09T06:07:35.807Z,6a857283-7c7f-428c-9daf-4833e18a25c0,LA,Argentina,ar,116505711465756,La Libertad Avanza en Misiones,Facebook
+a34d9893-a096-459f-a9ee-a3225a4269f9,La libertad avanza Necochea,2023-07-17T06:31:27.259Z,cfe5e105-b7dc-44ce-a928-9d02de7fd843,LA,Argentina,ar,106417142387363,La libertad avanza Necochea,Facebook
+c2fe5dbe-3608-44a6-96dd-1064ce28e11e,La Libertad Avanza en La Pampa,2023-07-10T06:50:31.407Z,ec13b352-aead-452a-8a58-a0a5e13793bf,LA,Argentina,ar,110568238747610,La Libertad Avanza en La Pampa,Facebook
+99148e78-78a2-48ea-90b8-66a07a6f3ec0,La Libertad Avanza en San Juan,2023-07-09T06:07:36.085Z,05a6675e-60c2-4dc4-b9e8-1fc58f87664c,LA,Argentina,ar,119077241220145,La Libertad Avanza en San Juan,Facebook
+62099a0b-f271-43fd-a135-c768947ac15f,La Libertad Avanza en Santa Cruz,2023-07-10T06:50:31.407Z,99198e82-cefa-4309-a752-f110efc4915f,LA,Argentina,ar,105292379282066,La Libertad Avanza en Santa Cruz,Facebook
+3ca3d2bf-1d23-4a9a-80b4-38029c69c859,La Libertad Avanza en Santiago del Estero,2023-07-09T06:07:35.844Z,20cb4289-8ad4-4a41-b831-b82a1c51ca9d,LA,Argentina,ar,108936422233553,La Libertad Avanza en Santiago del Estero,Facebook
+70270e55-b695-4569-b760-37911689c6a5,La Libertad Avanza en Corrientes,2023-07-09T06:07:35.864Z,83522a25-b28c-4699-9af7-46a7750c860b,LA,Argentina,ar,104905579306513,La Libertad Avanza en Corrientes,Facebook
+def72171-bc17-4773-9a2b-3cad013ce9ab,La Libertad Avanza en Catamarca,2023-07-10T06:50:31.731Z,0152046e-104b-4c23-8046-665532b1dcc7,LA,Argentina,ar,116178214845702,La Libertad Avanza en Catamarca,Facebook
+ba0eb6a3-8012-422f-b17b-d3589330e9eb,La Libertad Avanza en San Luis,2023-07-10T06:50:31.522Z,4d43c9e8-42e7-4bf5-ba6d-0615a38e1b6c,LA,Argentina,ar,104940809317631,La Libertad Avanza en San Luis,Facebook
+c3fd4879-a5c0-439a-8cbf-a43c62b064ea,La Libertad Avanza Chivilcoy,2023-10-20T05:06:31.232Z,afe2a3f2-6758-4dd2-b5ba-5320d8fc1505,LA,Argentina,ar,101413722932501,La Libertad Avanza Chivilcoy,Facebook
+44047ac4-0de6-4cc6-89cf-69f43e1206cf,La Libertad Avanza 25 de Mayo,2023-10-17T05:06:29.194Z,1383fa94-0f21-41be-a568-e7342ce1ce2d,LA,Argentina,ar,394017851190857,La Libertad Avanza 25 de Mayo,Facebook
+5e3f911a-313a-4f4d-a22d-64c03d82996e,La Libertad Avanza en La Rioja,2023-07-10T06:50:31.571Z,9b95ab73-a95e-45f0-96dc-503955b254ff,LA,Argentina,ar,104758462655920,La Libertad Avanza en La Rioja,Facebook
+8050423e-cfd4-4327-8ffb-b9dc4026be0f,La Libertad Avanza Caleta Olivia,2023-11-11T05:06:02.653Z,10aa50cb-fdaa-4d80-a29d-48f644048ed5,LA,Argentina,ar,138821885982054,La Libertad Avanza Caleta Olivia,Facebook
+aa24f239-ad98-4fb2-a50b-05beb1a38b39,La Libertad Avanza Fdz,2023-11-01T05:06:24.103Z,df6ca631-046b-48a4-901b-b3db95964771,LA,Argentina,ar,167278346459000,La Libertad Avanza Fdz,Facebook
+608ec314-ea41-4efb-a44c-da3ceea3e738,La Libertad Avanza FME Oficial,2023-08-15T05:06:40.595Z,b8e856a9-65d7-4f74-9a39-ad106be50b5b,LA,Argentina,ar,102507512914694,La Libertad Avanza FME Oficial,Facebook
+c636ff54-628b-48fe-8ed5-2436329ac8de,La Libertad Avanza - La Plata,2023-11-10T06:22:51.559Z,3aaf31d9-9043-4c7e-90e0-d59a7d31801f,LA,Argentina,ar,157112934152620,La Libertad Avanza - La Plata,Facebook
+b65fd005-1954-47fa-84dc-a89fa83e9d00,La Libertad Avanza Córdoba,2023-10-07T05:06:21.140Z,d0e6b324-8f59-4b27-85c8-195ed121f601,LA,Argentina,ar,156265344225773,La Libertad Avanza Córdoba,Facebook
+d0db401b-b30c-42be-a5f3-ab3d2d47e60b,La Libertad Avanza en San Juan,2023-04-17T08:19:04.180Z,26771def-25e1-4bd8-851b-8ff84be0a8e2,LA,Argentina,ar,100975902971250,La Libertad Avanza en San Juan,Facebook
+bb638aab-4ac4-4e78-8b92-2724757d3069,La Libertad Avanza en CABA,2023-06-19T18:24:16.762Z,383f2518-8a5e-4f4b-8021-088b7dd8ea27,LA,Argentina,ar,123194144112533,La Libertad Avanza en CABA,Facebook
+8a058c0f-ff05-4487-bd9e-70755e018c37,La Libertad Avanza San Cayetano,2023-07-04T06:15:38.242Z,2990a7f5-3bd6-4533-82a4-7e8e530772e7,LA,Argentina,ar,1681776608705280,La Libertad Avanza San Cayetano,Facebook
+fbbc9439-95e4-4247-a30f-2e2b0776f899,La Libertad Avanza La Rioja Capital,2023-04-16T15:04:33.797Z,b0b5b3f3-2cea-489a-a267-a376adc044e7,LA,Argentina,ar,101525192240036,La Libertad Avanza La Rioja Capital,Facebook
+784d5382-a440-4592-b220-54460e7ed3f6,La Libertad Avanza Maipú,2023-06-11T06:52:17.515Z,4c633d1b-7045-4ed7-b2bf-499c9c630623,LA,Argentina,ar,114626581591956,La Libertad Avanza Maipú,Facebook
+1cb9ccae-1ad0-4b63-8930-24945ce9e4af,La Libertad Avanza en Buenos Aires,2023-06-19T18:24:16.831Z,8a2ed8a3-8c38-42e7-8a7d-4c395c610e07,LA,Argentina,ar,116285401477112,La Libertad Avanza en Buenos Aires,Facebook
+9da284c3-1a01-45a2-851e-a6f9555aaffc,,2023-05-17T06:51:49.523Z,e051da39-a70f-4810-8ff0-c3c2a372f7c8,LA,Argentina,ar,116376728115545,,Facebook
+fe74a75a-43b5-4570-a8cd-f7d3137e524c,La Libertad Avanza Pehuajó,2023-06-13T06:52:28.414Z,4629dc1c-0af8-4d78-8020-ae428f8549db,LA,Argentina,ar,101914529563773,La Libertad Avanza Pehuajó,Facebook
+f06c9bc1-aead-4a35-ad96-e87f95ec9351,La Libertad Avanza en La Matanza,2023-06-19T18:24:16.854Z,24bd55d9-151d-4483-b796-e23c9d639401,LA,Argentina,ar,111257615320262,La Libertad Avanza en La Matanza,Facebook
+cd6bdc13-84cf-4da4-ba9f-5cb7c440cd81,La Libertad Avanza - Alte. Brown,2023-04-22T06:02:41.274Z,866acd46-e1a6-4dfe-a110-b145e95cbd6d,LA,Argentina,ar,103808238992799,La Libertad Avanza - Alte. Brown,Facebook
+7a14a1eb-67bf-4f0f-adf3-4c664f3511cf,La Libertad Avanza en Santa Fe,2023-06-19T18:24:16.826Z,79afff37-3bc5-4bd0-9a68-3526fb2cc91b,LA,Argentina,ar,114633994980734,La Libertad Avanza en Santa Fe,Facebook
+2c5c1535-4d47-4da1-a260-92d1940fb215,La Libertad Avanza Chaco,2023-06-04T06:52:07.187Z,d3191175-ac49-481f-b911-c2d67db97a3a,LA,Argentina,ar,116075388079517,La Libertad Avanza Chaco,Facebook
+1d138912-ddaf-4e3c-8186-cb32813c8773,La Libertad Avanza en La Plata,2023-06-19T18:24:16.756Z,0204f921-37d1-45e5-866e-ea6fbe5be9e2,LA,Argentina,ar,120578057709956,La Libertad Avanza en La Plata,Facebook
+1bba2293-2d80-4575-8be3-94b0569a9d8a,La Libertad Avanza San Juan-Oficial,2023-07-01T05:07:12.394Z,86612eb6-52c4-4c92-a010-f868cd8b38bc,LA,Argentina,ar,104336235470566,La Libertad Avanza San Juan-Oficial,Facebook
+4b21feec-0f7f-4f69-91b5-8163e361074e,La Libertad Avanza - La Cumbre,2023-05-27T06:52:09.526Z,10236d74-3245-4611-b883-dc20adb79545,LA,Argentina,ar,114559908306868,La Libertad Avanza - La Cumbre,Facebook
+8da5f051-89cc-4922-8852-f89197d4521d,La Libertad Avanza en Rosario,2023-06-19T18:24:16.814Z,50f8bf8e-8f76-4ec8-a526-fc785515449e,LA,Argentina,ar,119783024456548,La Libertad Avanza en Rosario,Facebook
+ec1dbd0b-b3e4-4cd1-b008-cddc6f63299f,La Libertad Avanza en Tucumán,2023-07-07T13:15:37.700Z,3fae0422-0d76-4a91-86fd-37af404f21d5,LA,Argentina,ar,107167869058837,La Libertad Avanza en Tucumán,Facebook
+ac88bd72-a45a-46df-a4c0-36454c6ae1e9,La Libertad Avanza en Neuquén,2023-07-04T06:15:38.176Z,89e4751c-e574-4b0d-b9a7-ece91fdcc35d,LA,Argentina,ar,106483849161370,La Libertad Avanza en Neuquén,Facebook
+9ab24b3f-1809-4267-84ab-a43f4a59ab4f,La Libertad Avanza en Córdoba,2023-07-07T13:15:37.670Z,cad1487c-9563-45e0-8ab2-5fe50cc023b0,LA,Argentina,ar,105360775914591,La Libertad Avanza en Córdoba,Facebook
+5800d4f6-752f-447f-81dc-5d22be7ab114,La Libertad Avanza en Jujuy,2023-07-04T06:15:38.251Z,a6aea8b8-6251-4b4b-89fc-6628395142c6,LA,Argentina,ar,115650124898595,La Libertad Avanza en Jujuy,Facebook
+38197553-ec10-4416-a3fe-97bcf96b75e8,Compro Autos y Camionetas.,2023-02-09T06:26:54.454Z,36288579-2827-484d-aa4b-19aa78319ae3,ZZZ,Argentina,ar,103275022533430,Compro Autos y Camionetas.,Facebook
+c36435e1-68ec-4790-a1fb-6e2f6b185250,Córdoba Ciudad Global,2023-02-11T10:52:12.097Z,2103d428-6353-4c01-890e-4671507fddc6,ZZZ,Argentina,ar,585115654866282,Córdoba Ciudad Global,Facebook
+d46b41da-c105-4a17-b329-014fe23e2e73,luis_collio,2023-02-12T10:52:17.469Z,3b83fc56-cc0e-4200-b996-f60ce4c19dca,ZZZ,Argentina,ar,110100518420931,luis_collio,Facebook
+c87bdc99-1d5a-4ba8-9409-a2f0c6ecddb6,Gandhi Galerna Libros,2023-02-14T10:52:27.192Z,372c670b-3a4e-42a6-99e6-f186abb13916,ZZZ,Argentina,ar,171171882959156,Gandhi Galerna Libros,Facebook
+7473ba07-10c8-41f8-8001-e1ec8b4ddbe2,Abogados  Del  Fin Del  Mundo  Dra. Griselda Engelhard.-,2023-02-17T10:52:15.933Z,b37041ae-a384-4cd7-bc20-b7d59c147895,ZZZ,Argentina,ar,174918936189137,Abogados  Del  Fin Del  Mundo  Dra. Griselda Engelhard.-,Facebook
+a60d1327-94c0-4ec9-b11e-c5636ad2bbb1,Cambia RIO NEGRO - Seccional Campo Grande,2023-02-20T10:52:26.971Z,9c3f4357-538d-41c9-b450-a99709870414,ZZZ,Argentina,ar,792945171087760,Cambia RIO NEGRO - Seccional Campo Grande,Facebook
+082853ac-69b9-4232-ba30-9137f9e42f7f,Díaz de Pedro,2023-02-23T10:52:27.786Z,da77cf1a-9e10-453f-b39f-3ce7692dac50,ZZZ,Argentina,ar,271884189662289,Díaz de Pedro,Facebook
+03d5bef6-aad7-4eb4-b51c-a1e96dcdbc60,nexos+1,2023-02-26T10:52:33.862Z,2c7df57c-38c1-4b56-a82a-fbc6345781db,ZZZ,Argentina,ar,1484031468591827,nexos+1,Facebook
+fd665644-59cb-4663-b6a6-96618ea82357,oliveaddams,2023-02-28T10:52:36.422Z,19e2031b-1e40-47aa-9382-cd88ed55826b,ZZZ,Argentina,ar,102081512386234,oliveaddams,Facebook
+42277df8-7a4a-4805-8da0-6e0d90cc3a08,Página/12,2023-03-03T10:52:26.455Z,3f049220-7afb-4c1c-858f-dd6a4b15f9ed,ZZZ,Argentina,ar,1541638399393436,Página/12,Facebook
+affa93de-d15f-454c-afd6-cadd04163999,Dra. Cynthia Castro,2023-03-05T10:52:35.530Z,05e80c9b-2dc8-451b-a09f-25c1effb9621,ZZZ,Argentina,ar,509582802546016,Dra. Cynthia Castro,Facebook
+0ff49a46-f3df-40a2-83af-825557d5e92f,Js_m3,2023-03-08T10:52:26.626Z,ba3e1195-e887-464d-8c4f-f0b9d21f8684,ZZZ,Argentina,ar,112746555000094,Js_m3,Facebook
+c1feb3d2-5bd5-40b9-aa71-8b395b93b729,Eppendorf do Brasil,2023-02-08T05:54:38.833Z,021d3b0c-f611-4c9a-bcf7-a4e5006791a8,ZZZ,Argentina,ar,1623035814584075,Eppendorf do Brasil,Facebook
+682aef85-b4b0-4c7d-b6fd-e1443dc52999,N3F Noticias,2023-02-10T10:52:33.043Z,cdae9e36-7b85-4c2f-ab38-8e912ad79450,ZZZ,Argentina,ar,147925635284755,N3F Noticias,Facebook
+b1a6c5b5-7543-4875-bf46-eb7fb013d4f0,Corrida de la Confluencia,2023-02-12T10:52:17.484Z,2412b34d-4f67-49c2-b1e7-85b1433189cf,ZZZ,Argentina,ar,222472961977193,Corrida de la Confluencia,Facebook
+d1d8ae68-1c52-46a7-9467-0ec420c2158d,Club San Jorge S.A. de Capitalización y Ahorro,2023-02-15T10:52:16.939Z,82d0ab11-6b58-48c1-a5a5-6e697ab2b043,ZZZ,Argentina,ar,162504377639286,Club San Jorge S.A. de Capitalización y Ahorro,Facebook
+06cf595f-c634-4b1f-881c-bb9a83e0e6f1,teresitaessen,2023-02-17T10:52:16.658Z,89f6d831-9034-49d6-8a3c-3de3c63feafa,ZZZ,Argentina,ar,108751481993637,teresitaessen,Facebook
+6bc84fe3-9187-47c2-91f7-cb4e577e2967,Golden Haus,2023-02-20T10:52:27.006Z,f3df1a0d-cc20-4fda-8ba7-6dba3f3b8570,ZZZ,Argentina,ar,103669171490043,Golden Haus,Facebook
+dcfed5e4-8b75-44ef-bbc2-65b14c40a68c,387 Salta,2023-02-23T10:52:27.021Z,fe3d7e28-ef6c-458a-b457-a3a1f5411c31,ZZZ,Argentina,ar,236866663333273,387 Salta,Facebook
+de5042fb-e148-4b54-831a-ebafc004ea4b,vaccottifer,2023-02-26T10:52:33.815Z,0a8e1677-dff7-45e9-aff0-cd453d74b252,ZZZ,Argentina,ar,108562965017764,vaccottifer,Facebook
+c412dfe0-b540-4df0-b94d-358dc90ca992,MILEI 2023 SM,2023-03-01T10:52:23.702Z,6e8369d0-94a9-436f-8ca6-3d6aff6bc371,ZZZ,Argentina,ar,103736169182951,MILEI 2023 SM,Facebook
+20b82da7-e999-4705-924e-fba9b8668d34,CIEEN,2023-03-04T10:52:33.010Z,40681300-4f44-4160-bd32-e99116ac8395,ZZZ,Argentina,ar,104979284820672,CIEEN,Facebook
+b37f063c-a49e-4c04-a4c0-23b026d2557d,Elaniin,2023-03-06T10:52:28.579Z,047cfff9-d2d6-4fa9-87e1-2ce4bb3ff391,ZZZ,Argentina,ar,406077009499689,Elaniin,Facebook
+bd3c731a-5b9b-48b7-93b3-bb87c4d761fd,roblobosv,2023-03-08T10:52:26.398Z,428a4064-dbe4-4996-9d8c-f557fad66cb7,ZZZ,Argentina,ar,112008308379154,roblobosv,Facebook
+1643c2d6-1ac5-4ea0-be13-17eed31d4141,Hexa Link - Booster&Game Fun,2023-03-08T15:20:31.478Z,adbcad12-0fa9-483f-8e9b-d512d622f5f8,ZZZ,Argentina,ar,103731349278744,Hexa Link - Booster&Game Fun,Facebook
+3e6d2b02-f9b3-4fd3-8c47-1b45e9892fa4,casadepraia_gcr,2023-11-12T05:06:26.776Z,e743f0b0-1a56-4242-af14-375da27fa1fe,ZZZ,Argentina,ar,166143079913965,casadepraia_gcr,Facebook
+7e2651c9-75d1-48cc-bcf0-724bc28c5ac2,cocconigustavo,2023-03-08T17:01:48.826Z,965cd945-3943-4155-b9b9-62ab141d681d,ZZZ,Argentina,ar,106634014626549,cocconigustavo,Facebook
+9bff8b3a-0ac5-4484-9882-a2800c13a84e,"Alacero, Asociación Latinoamericana del Acero",2023-03-08T17:43:51.312Z,00e4dbad-f8b9-4b59-91eb-ee63c17bc8be,ZZZ,Argentina,ar,154439464641434,"Alacero, Asociación Latinoamericana del Acero",Facebook
+bc134ef3-81cd-45a3-8ed4-263f91b71169,Canal Abierto,2023-03-08T19:09:32.826Z,d8c1297a-3211-47a6-92c1-c18692ec05ae,ZZZ,Argentina,ar,1803501116641352,Canal Abierto,Facebook
+82028ea4-a334-4531-8fff-22dc15daf899,alexchainski,2023-03-08T20:02:53.029Z,a033668b-456e-46db-bdd1-3f1fd85effe8,ZZZ,Argentina,ar,106590212163210,alexchainski,Facebook
+5d00a1d1-6d14-4b88-9db5-d78a5cf8f3cb,Inspenet,2023-03-09T10:52:32.822Z,df94d466-1c10-40dc-aad1-eb178f8be83e,ZZZ,Argentina,ar,102382772020688,Inspenet,Facebook
+96608e2a-bcc5-405a-80b9-04362f59c562,In Cucina con Teresa,2023-03-12T10:52:23.732Z,8aef76a8-b981-4574-8d8f-236283c7be56,ZZZ,Argentina,ar,106655617971001,In Cucina con Teresa,Facebook
+db107302-6905-4007-9fcf-c7b44eb6addb,anavictoriahein,2023-03-12T10:52:23.611Z,cb43ec6a-5a81-4da5-acb6-d034a07e8648,ZZZ,Argentina,ar,107020062312979,anavictoriahein,Facebook
+91dc6a72-5733-4e78-8326-02d96f792c4f,karla.durand.9827,2023-03-13T10:52:15.614Z,14519e46-8c45-4d68-954d-8475921ee40b,ZZZ,Argentina,ar,102440975850733,karla.durand.9827,Facebook
+c9806645-004c-48e6-87aa-282b63a768a4,oneplacetravel_ar,2023-03-17T10:52:34.328Z,b85e09d0-8b94-49b7-b034-a5c7167c8641,ZZZ,Argentina,ar,116223144712972,oneplacetravel_ar,Facebook
+0480e60f-87d8-44d2-ad35-f8e1b1c219c1,Cosas Imposibles SA,2023-03-18T10:52:15.888Z,274020b1-44ce-44b2-b3c0-6394762984cc,ZZZ,Argentina,ar,102869205556387,Cosas Imposibles SA,Facebook
+7f86feba-1b1b-41a1-b1cb-eec5d79f5709,revisitandoclasicos,2023-02-08T05:54:38.630Z,76840ecb-2897-4896-9c51-cc7e7ab20f21,ZZZ,Argentina,ar,107838112155723,revisitandoclasicos,Facebook
+0f822cf3-11e9-4131-bbb0-2cbae5824f7a,CasaVila Dsyn,2023-02-10T10:52:33.204Z,736af463-a3ca-4d8c-a27e-10038fd84b33,ZZZ,Argentina,ar,100605798541404,CasaVila Dsyn,Facebook
+f02a9179-9117-4d17-842d-0a5f179019b3,ceciliaperezllana,2023-02-11T10:52:12.126Z,d715779f-9dbc-4ad7-bfed-ed1457a02c02,ZZZ,Argentina,ar,102345932043594,ceciliaperezllana,Facebook
+ac4ce414-62c8-45dc-9637-c0c63ac37389,waduinversiones,2023-02-13T10:52:35.912Z,0edd03fe-95c9-47b6-afec-138f366f4e47,ZZZ,Argentina,ar,103947179263455,waduinversiones,Facebook
+a393ef60-582b-4f58-bafb-485de69760cf,athenascience,2023-02-16T10:52:25.582Z,00bb711c-346b-4817-9cb2-52c17a4a0d40,ZZZ,Argentina,ar,101109772609055,athenascience,Facebook
+58f44dac-c734-49ab-b00d-c8dfc675dbf3,Tissue Online Latinoamérica,2023-02-19T10:52:40.448Z,af268368-9a55-4da3-9770-0dccbe87639c,ZZZ,Argentina,ar,116780567115083,Tissue Online Latinoamérica,Facebook
+18244605-82b2-4cb3-88c1-b0fc5bc1db6d,Formacion Ejecutiva. Consultores en Capacitación & Desarrollo,2023-02-21T10:52:22.743Z,15395fa2-3c8f-462c-b407-923cd532fa00,ZZZ,Argentina,ar,335393163491,Formacion Ejecutiva. Consultores en Capacitación & Desarrollo,Facebook
+5043aadb-d98c-4b55-a684-fef239703411,Hidro-Mak,2023-02-25T10:52:32.064Z,acdfcb8b-b9da-41df-b652-f20b951ae5ac,ZZZ,Argentina,ar,358860617498679,Hidro-Mak,Facebook
+ee239311-e4d3-41f5-aca2-f5c393440fba,Elecciones2023,2023-02-27T10:52:27.749Z,3a2b2154-2b2d-43b6-94fc-c85868229a0d,ZZZ,Argentina,ar,104373201921527,Elecciones2023,Facebook
+26fbfcdf-1eec-4ea8-931c-ae72a139254b,Revista El Sur,2023-03-01T10:52:23.661Z,9c6cb572-be67-47a5-8016-0df43a1b1d33,ZZZ,Argentina,ar,125710027467948,Revista El Sur,Facebook
+1f4d11de-7d54-4f5f-aa6a-fb830487d3b7,lajuanacatalina_,2023-03-04T10:52:33.034Z,f909df02-3593-4c81-8072-1abaab373c28,ZZZ,Argentina,ar,101688269535470,lajuanacatalina_,Facebook
+4fb7ed09-9b53-4172-aa85-c6d91487697f,PrimiciasYa.com,2023-03-07T10:52:25.241Z,79561f31-54e6-4145-a949-6c5c7a3e63a7,ZZZ,Argentina,ar,106416299392381,PrimiciasYa.com,Facebook
+b29db009-e031-471a-bfbb-b1534718522b,wearecrazyenough,2023-03-08T10:52:26.225Z,3d6f7c43-5654-4808-a37f-d16044abd329,ZZZ,Argentina,ar,116101581368158,wearecrazyenough,Facebook
+7b0a8ce4-39b5-4049-a57e-d9a4a0f0884b,priscilabeomalvinas,2023-03-08T15:59:58.240Z,0aac3d8d-5280-4fc4-9eac-c15506620253,ZZZ,Argentina,ar,102185329436870,priscilabeomalvinas,Facebook
+e7e05f16-40ef-4e9a-b939-b865683e5e20,Consejo de la Magistratura Chubut,2023-03-08T16:20:24.371Z,45fcd7c3-cb45-4505-9c4b-5faf97a56f46,ZZZ,Argentina,ar,102317435966848,Consejo de la Magistratura Chubut,Facebook
+41b6f08b-a84b-48a1-9435-0fcde54b0043,Teatro y Música Mina Clavero y Traslasierra,2023-03-08T17:01:48.862Z,ad813d21-7004-4e59-bee5-4ce704cd5597,ZZZ,Argentina,ar,1735231813396913,Teatro y Música Mina Clavero y Traslasierra,Facebook
+3429480f-592a-410f-942a-8275d2e0db7b,unaraizfina,2023-03-08T17:54:25.630Z,2e2e0c99-b097-4ec9-a44d-c1ca5b09de10,ZZZ,Argentina,ar,111199608456370,unaraizfina,Facebook
+d3aef332-8483-48ce-8dc5-d265c49b9b98,Acuamanía Salto,2023-03-08T19:09:32.868Z,06f7f487-4259-4ce4-9f05-3f7d1456914e,ZZZ,Argentina,ar,237433903326560,Acuamanía Salto,Facebook
+b18b1a54-6891-4e82-894b-9232c3176ba0,Suministros Técnicos,2023-03-08T19:52:08.559Z,27d27a17-a539-4880-aa1e-075cfb9b2856,ZZZ,Argentina,ar,581392802368487,Suministros Técnicos,Facebook
+86c75763-bce9-4bed-936a-0efe5a7616b9,magaluzyoga,2023-03-09T10:52:32.810Z,4b4c8ef0-c629-4f7f-9a60-57293286d522,ZZZ,Argentina,ar,106413277925131,magaluzyoga,Facebook
+3a5dbe0a-1c02-405c-9534-115a70c46424,encuentromujeresporlalibertad,2023-03-11T10:52:31.950Z,6cbaea61-d712-4b86-b120-376823ad357e,ZZZ,Argentina,ar,106561889050797,encuentromujeresporlalibertad,Facebook
+641accf3-fc2f-4f55-a03e-b574b77281d3,gemma_danbi,2023-03-12T10:52:23.740Z,2875d432-3319-4f0a-b3a3-2d88ce277dd4,ZZZ,Argentina,ar,105394975236863,gemma_danbi,Facebook
+c90b7f5a-ac89-4d39-bfde-538672d5098a,Evil Ideas,2023-03-13T10:52:15.694Z,63582cc0-39a4-43cc-ab16-eccbb206ff9c,ZZZ,Argentina,ar,632384963608270,Evil Ideas,Facebook
+1c36cdc5-2959-4825-a587-f1d22198d911,Canal 4 - FM Líder 99.3 Mhz. La Quiaca,2023-03-16T10:52:32.162Z,768099fb-d521-42a9-81b0-2389de772358,ZZZ,Argentina,ar,106534558920290,Canal 4 - FM Líder 99.3 Mhz. La Quiaca,Facebook
+be2e2e54-6ae2-4e31-9084-fe6f978c528b,zurt.ds3,2023-03-18T10:52:15.630Z,4379a555-30de-4d62-9563-3e8849d89b84,ZZZ,Argentina,ar,113169840153497,zurt.ds3,Facebook
+1c3628b7-d213-4b18-8ac0-94107d072b6a,BeAnimals,2023-03-20T10:52:15.612Z,ba131054-59c1-46ed-bbef-0cbc45913eb9,ZZZ,Argentina,ar,111912265149886,BeAnimals,Facebook
+80c477ed-500d-43ef-bf0c-6e1e508640d3,Quemú Noticias,2023-03-24T10:52:27.095Z,8ea3448b-0b76-487b-9208-3b3f31bbaef0,ZZZ,Argentina,ar,105250499128638,Quemú Noticias,Facebook
+7ac85d8d-2466-49ba-ba9f-9c690074e55e,"Club para niños ""De protones y de letras""",2023-03-25T10:52:03.865Z,ab87b72c-ac23-43c2-ba54-0148f8282930,ZZZ,Argentina,ar,102740922103987,"Club para niños ""De protones y de letras""",Facebook
+ba6d98e3-76b4-4f69-8dbb-b2d02ea17076,AR Casas y Campos,2023-03-26T10:52:08.325Z,7f245a39-bb9b-4d8c-9cd4-1509c20d03ef,ZZZ,Argentina,ar,107278137896833,AR Casas y Campos,Facebook
+d017e988-0d10-40d2-b7fe-3db250fc5f8a,Agrupación 26 de Mayo,2023-03-28T10:52:17.831Z,fcc6ceaf-aef2-4455-a7ab-b95444e11745,ZZZ,Argentina,ar,101385665938782,Agrupación 26 de Mayo,Facebook
+93905c0f-0408-431d-b837-4977877072d8,alien_arttist,2023-04-01T10:52:06.075Z,8210fafd-67be-4d73-b32e-9127d2da5626,ZZZ,Argentina,ar,736032740464459,alien_arttist,Facebook
+d4f17a1c-63ae-47ed-bb07-e6f11ef5a0b1,demoabierta,2023-02-08T05:54:38.594Z,8ec59f4f-9b39-488d-9a04-7768c9b87cd3,ZZZ,Argentina,ar,106261285598374,demoabierta,Facebook
+078c033a-660c-4dbd-858e-5a6362441573,Municipalidad de San Carlos de Bariloche,2023-02-10T10:52:32.764Z,604396c0-e76d-4c00-9333-1a519c20135e,ZZZ,Argentina,ar,489017237810864,Municipalidad de San Carlos de Bariloche,Facebook
+7b97f27a-8322-42e8-b522-ecbb7d790ce6,Kudos: Science needs Stories,2023-02-11T10:52:12.139Z,96fbd192-7321-4c77-9427-d1beb7acd7cc,ZZZ,Argentina,ar,144858089034875,Kudos: Science needs Stories,Facebook
+c19af8f0-a871-4cf2-9004-7afdec30d038,MundoSur,2023-02-14T10:52:27.100Z,5aff42fe-6aa6-413b-a0fe-2f188e7a4571,ZZZ,Argentina,ar,104885924524421,MundoSur,Facebook
+33f55858-9bea-4ac2-a858-1826aa258947,NOS- Salta,2023-02-16T10:52:25.598Z,3d5def6f-c60e-4884-9051-af19b521c896,ZZZ,Argentina,ar,670286313428033,NOS- Salta,Facebook
+354f0e2b-f74b-424f-9ca5-cdd495a0be8b,Belgrapno City,2023-02-20T10:52:26.986Z,4d084f36-fef9-4559-badb-8cb60a934fab,ZZZ,Argentina,ar,142539563028651,Belgrapno City,Facebook
+1b436070-b8a5-48b0-8f46-917e89117b9f,Philosophyofgoodnews,2023-02-22T10:52:38.164Z,7cab468b-cc86-4178-9b50-974a19745b37,ZZZ,Argentina,ar,1231268420292112,Philosophyofgoodnews,Facebook
+8d18ce3f-6071-45a7-9086-31167f832e85,Escucharte Santa Fe,2023-02-26T10:52:33.810Z,70cb236a-8eb4-4fcc-82a4-afbffda821c9,ZZZ,Argentina,ar,110890318187982,Escucharte Santa Fe,Facebook
+db9ce3aa-7e40-4728-b51c-16b3ab8c45e4,Comuna de Gastona y Belicha,2023-02-28T10:52:36.425Z,a9e369c7-b92d-438a-b9d2-268b1e16c873,ZZZ,Argentina,ar,674125012760043,Comuna de Gastona y Belicha,Facebook
+df25b4fe-ff62-4bbb-ba26-03cc5abe4a77,Broda Indumentaria,2023-03-02T10:52:25.802Z,201a4bb2-13bc-4cd3-a2d7-82b4251370f2,ZZZ,Argentina,ar,2191662384264595,Broda Indumentaria,Facebook
+007b59e7-0031-4178-8a21-c616eaa3cddb,Punto de encuentro,2023-03-05T10:52:35.468Z,e72ba4ce-3b6b-4405-8909-91542e4a963a,ZZZ,Argentina,ar,713383308871680,Punto de encuentro,Facebook
+71746dd5-5e91-43b9-ad4c-910bc020a36c,joaquinnapolillo,2023-03-07T10:52:25.257Z,2399a413-8309-41aa-916a-adb06e2592c3,ZZZ,Argentina,ar,114677391552140,joaquinnapolillo,Facebook
+7b8d2539-81b4-4e69-b202-71ba89c9f2d4,Muy.Cande,2023-03-08T15:01:01.359Z,757dd38b-03e8-4bdf-b55f-5cd73a663c27,ZZZ,Argentina,ar,103154478977046,Muy.Cande,Facebook
+3a33c271-1f8b-4c0d-8190-4b0787f52323,Espacio Fotográfico Marcelo Gurruchaga,2023-03-08T16:10:00.481Z,1b410157-d66e-40b7-84d1-6d9c3190f05c,ZZZ,Argentina,ar,123637341048202,Espacio Fotográfico Marcelo Gurruchaga,Facebook
+4f8217cc-1dcc-4f7d-91d8-3ba42058412a,"Yen Gálvez Creative, Coaching & Technology",2023-03-08T16:40:48.147Z,3c47dfcf-58f7-4c9e-8466-789185ecb6ef,ZZZ,Argentina,ar,415438408602972,"Yen Gálvez Creative, Coaching & Technology",Facebook
+99a3786a-d3ae-4f12-ad59-6f4150efe7bb,Latindadd,2023-03-08T17:33:18.724Z,b0fa1d29-7811-4f74-bd7b-90f6034775cc,ZZZ,Argentina,ar,563065237146155,Latindadd,Facebook
+82efdcff-e3e0-4ee8-a847-bf1e08ef5ffe,gdcstudio,2023-03-08T18:37:31.282Z,a30aecaf-8416-4646-9763-83c9a570ee87,ZZZ,Argentina,ar,101307041779921,gdcstudio,Facebook
+2ead34b9-f015-4477-a2f2-5c64d51a314f,psiquiatra.valeriaberlin,2023-03-08T20:13:14.660Z,85557be7-7aa6-4b5d-b35f-b419b2212236,ZZZ,Argentina,ar,110002498256325,psiquiatra.valeriaberlin,Facebook
+45e9403a-3300-4b81-b4c2-84785ef0aa4f,,2023-03-08T20:34:41.800Z,22920b07-ee82-4cee-a2f8-69e43f0d04b7,ZZZ,Argentina,ar,103351532453605,,Facebook
+9542b237-1616-460b-b3d0-67f461aaaf16,Casa Alejandrina - Escuela Herbolaria,2023-03-10T10:52:19.597Z,cc84ee3f-860e-494f-8419-a316d283e785,ZZZ,Argentina,ar,106003165363879,Casa Alejandrina - Escuela Herbolaria,Facebook
+15f7f481-c2ad-467c-b607-f777dba8a4bc,Evolución Manantial,2023-03-12T10:52:23.667Z,8efd73a4-5a3a-4ad8-86b2-6d4f6564a412,ZZZ,Argentina,ar,102437712527925,Evolución Manantial,Facebook
+ee72d63c-88ee-47a6-901c-ea7925ddf7c7,abogadacarmelia,2023-03-12T10:52:22.581Z,9c380cb0-148e-426c-b825-6c53ba05851b,ZZZ,Argentina,ar,107045435541723,abogadacarmelia,Facebook
+d8daba62-1069-48e0-a5d9-b26ab225a83d,Tecnologiasallimite,2023-03-13T10:52:15.408Z,c985faf4-cbb7-4927-9baa-ca647110c1ce,ZZZ,Argentina,ar,920229121366062,Tecnologiasallimite,Facebook
+b2a5bc6b-92e6-44e6-8fc6-50f16181ae04,Lords Mobile,2023-03-17T10:52:35.327Z,d7dfab06-7ff6-4d6c-839b-0b09387659c9,ZZZ,Argentina,ar,939696726123330,Lords Mobile,Facebook
+45c38fe1-beaa-42a9-87bb-9e13a3f6a49a,Collegia Cad,2023-03-19T10:52:15.477Z,ddf66a4d-5981-4a1c-99a7-a3d1543a4e5f,ZZZ,Argentina,ar,1355495211192075,Collegia Cad,Facebook
+370e026a-100d-4972-9c63-fd9b40c6efef,1 Millón De Hogares Ecológicos,2023-03-23T10:52:24.409Z,431df744-4393-44ba-8298-2dc6c1a43406,ZZZ,Argentina,ar,115023984843100,1 Millón De Hogares Ecológicos,Facebook
+925065d0-eb3e-4233-ba72-d54b3cd5d06d,Rock x la Memoria,2023-03-24T10:52:27.096Z,d647fe12-666d-41d7-b126-417cca41655b,ZZZ,Argentina,ar,641125302679233,Rock x la Memoria,Facebook
+130d6049-d46e-4ec2-848b-40e41c830df9,The Mystery Jewel,2023-03-26T10:52:08.601Z,a4047bd9-0b48-4ec4-9977-edc6f65668f9,ZZZ,Argentina,ar,527304757409618,The Mystery Jewel,Facebook
+33d9683f-1fae-4b76-9fed-d4a0bca7aa0c,nahuelall,2023-03-27T10:52:28.113Z,b97895d6-7bd3-47b1-9f43-296255fe4331,ZZZ,Argentina,ar,100241779319552,nahuelall,Facebook
+4d666cbf-c70d-470a-ae51-233ac3619a0d,Ecstasy Cine,2023-04-01T10:52:06.019Z,3cf1afa3-9b44-4408-b84c-29d20996f59f,ZZZ,Argentina,ar,1720447884927375,Ecstasy Cine,Facebook
+e51c0a3c-a6ce-49ad-931f-0afffcac250e,Democracia y Libertad,2023-04-04T10:52:24.817Z,5a5a9106-1e6c-4b4a-a1ba-5f8b07d7147a,ZZZ,Argentina,ar,112482018447160,Democracia y Libertad,Facebook
+a17a18c9-9adc-49e0-9049-dfd1d7444661,"Agrupación ""MILITANTES DEL SUR""",2023-04-05T10:52:17.582Z,a2ab19ac-a9a6-42ce-972c-c3799528abec,ZZZ,Argentina,ar,1957587141025423,"Agrupación ""MILITANTES DEL SUR""",Facebook
+70c98068-34c3-47ce-a25f-aabc72571b13,Oscar Hurtado,2023-04-08T10:52:23.558Z,e34033f3-d571-4d39-af49-9b05e4ca3815,ZZZ,Argentina,ar,430415430643986,Oscar Hurtado,Facebook
+8b81506f-1dd9-4070-be8c-ccc57aa63969,EZIO Intendente 2023,2023-04-08T10:52:24.112Z,ce5a1862-bd4d-442d-a3bb-bda35413c67e,ZZZ,Argentina,ar,100714332978147,EZIO Intendente 2023,Facebook
+1e1c4286-ed61-49b0-96ec-963f2815aa4c,Danilo Petroni,2023-04-06T10:52:46.331Z,546ae417-3d46-4d62-ae47-79514ae2219e,ZZZ,Argentina,ar,107814108793472,Danilo Petroni,Facebook
+f568d79e-0089-4b74-90e9-77ebeb214c6b,Roche Costa Rica,2023-03-27T10:52:28.517Z,f3730c2c-04e2-4d0e-8ca4-79c4fda72acc,ZZZ,Argentina,ar,1853157721481969,Roche Costa Rica,Facebook
+628c574d-e15b-49c5-852c-398380d02c12,Hábitat para la Humanidad,2023-02-10T10:52:33.273Z,7d0a1aba-e72c-4b38-ae50-31532ac835bc,ZZZ,Argentina,ar,94199711897,Hábitat para la Humanidad,Facebook
+9eb8c906-03d0-4208-82e8-340cbeb18e0e,Keezer Beer Rosario,2023-02-10T10:52:33.242Z,375bfb64-e403-471b-a6a5-d35341c16425,ZZZ,Argentina,ar,217267575590432,Keezer Beer Rosario,Facebook
+9c9ac38b-5c34-4465-8b13-afb82e0fa1c5,Commission on Human Rights Region 02,2023-02-11T10:52:12.138Z,6b86fc8e-f7ff-42fb-8784-21fa273369a7,ZZZ,Argentina,ar,107329544831360,Commission on Human Rights Region 02,Facebook
+b5bb93fa-bfe4-48ba-bbca-64e469f5b339,Sanjuaninadas,2023-02-14T10:52:27.148Z,b9edfd13-6bfa-407a-bf33-3c51b1589c10,ZZZ,Argentina,ar,106780082194942,Sanjuaninadas,Facebook
+9e12e5c6-2a87-4bb1-874f-9a04dd5d548f,Lipstickby,2023-02-16T10:52:25.582Z,9b204373-ed65-4da4-b9e3-ad6526819579,ZZZ,Argentina,ar,310932386258919,Lipstickby,Facebook
+14eee1ff-c8f0-41ed-8fac-ca00f142ad79,Vintage BsAs,2023-02-19T10:52:39.466Z,05731c8e-29cf-47ee-b642-66018570e023,ZZZ,Argentina,ar,861330707222688,Vintage BsAs,Facebook
+4ce2f2a5-e0d3-4880-8130-f6a44233e7db,Periodismo Gaby Gemolotto,2023-02-21T10:52:22.752Z,5151cc0c-c9e0-4bbc-a80d-3263cebb22cb,ZZZ,Argentina,ar,100877838973387,Periodismo Gaby Gemolotto,Facebook
+4ce03629-76dd-4e73-9fbd-489439dfd758,px7_profesional,2023-02-25T10:52:31.853Z,82b70d0d-7c59-4ed2-a863-5f6c9ee38dab,ZZZ,Argentina,ar,108550978774877,px7_profesional,Facebook
+cffecbdd-540d-44cc-85aa-564392cd806a,lafaldaenaccion,2023-02-27T10:52:27.729Z,b0892488-7da3-4c07-af59-faeb56ddc773,ZZZ,Argentina,ar,109458235410031,lafaldaenaccion,Facebook
+c44beb0f-6326-4c12-8a94-63e8cba646ab,Unabomber,2023-03-02T10:52:26.199Z,3d38a713-67f7-4f14-94f0-ba6bed267759,ZZZ,Argentina,ar,302870096514816,Unabomber,Facebook
+072c0b1e-4bb1-499e-b422-b40207cf8a66,Haroon Chaudhry MD,2023-03-04T10:52:33.039Z,c6de38ca-e910-402b-b075-6de42cb77934,ZZZ,Argentina,ar,162682437783400,Haroon Chaudhry MD,Facebook
+783baba9-1fbf-4876-8821-c7f2d15e7774,Krlirus,2023-03-07T10:52:25.124Z,81c3b9d8-ece1-4ed1-9dc3-45c9c85267f7,ZZZ,Argentina,ar,152281799964719,Krlirus,Facebook
+ac015e06-3cdf-4c59-ad96-0061017b7042,Ayuda a pueblos originarios.,2023-03-08T14:41:09.964Z,04ef727c-d2dc-48d8-88ad-badacddb729d,ZZZ,Argentina,ar,1668781303383418,Ayuda a pueblos originarios.,Facebook
+cdd229cf-db67-42b0-9262-d5a8b132e4f3,dra.ceciliarodriguez,2023-03-08T15:59:58.211Z,9351b896-7fe1-45e8-a71d-f16ab3c7f6fe,ZZZ,Argentina,ar,106134014199453,dra.ceciliarodriguez,Facebook
+8038d85c-3984-44d7-b1d9-123712300cc6,elpresto0k,2023-03-08T16:20:24.372Z,5d0ac99e-d1c6-40b8-b508-6046733e903a,ZZZ,Argentina,ar,109691694876697,elpresto0k,Facebook
+91e1952e-ab4d-4562-b7c2-bf9e252e1f6a,Giuliana Bs.As shoes,2023-03-08T17:12:19.652Z,71c80aa6-d323-4f69-8867-f77d98560473,ZZZ,Argentina,ar,407016539480071,Giuliana Bs.As shoes,Facebook
+4d7fa68a-225d-4cf6-a8bb-84179e607a0c,Guerra Civil Española en Buenos Aires,2023-03-08T17:54:25.902Z,b855d014-2a56-4547-a395-9081e0c83607,ZZZ,Argentina,ar,110458734839453,Guerra Civil Española en Buenos Aires,Facebook
+0606274a-a0a9-47db-88ff-7dec35d1932a,Estudio COZZI I Abogados,2023-03-08T19:20:08.669Z,8d6e7724-2c85-4345-aa33-dc93cea72647,ZZZ,Argentina,ar,102594885797188,Estudio COZZI I Abogados,Facebook
+8afe03e7-749a-4acc-aed0-5a84d918cf80,Mi Vecino De Alderetes,2023-03-08T20:13:14.700Z,0ff92151-00ad-40bf-a8f7-31aa551f801a,ZZZ,Argentina,ar,110672681869179,Mi Vecino De Alderetes,Facebook
+e141e4f2-7062-4fa9-84d6-bf6503f73e69,Ban Cat and Dog Meat in Vietnam,2023-03-09T10:52:32.810Z,df81ef3d-0b7f-4285-bbd0-d7e7203d70b0,ZZZ,Argentina,ar,109364317459414,Ban Cat and Dog Meat in Vietnam,Facebook
+2033bbbc-905e-4b14-83a6-daab68324fd6,MemoRights - Cultural Memory and LGBTQ Activism,2023-03-11T10:52:31.920Z,daac67b3-a006-477f-917d-2622af2e509d,ZZZ,Argentina,ar,107088664795750,MemoRights - Cultural Memory and LGBTQ Activism,Facebook
+de9beb2d-d086-49eb-9e01-67a1330a3aae,ALL WORKING,2023-03-12T10:52:23.224Z,d2598b4b-cb38-4bbc-a3c9-40156b14582b,ZZZ,Argentina,ar,1407265359500920,ALL WORKING,Facebook
+c4d16a96-bbd3-4077-a7fc-71828e3f8706,educandoengenero,2023-03-13T10:52:15.551Z,67776155-4cb2-4e3e-a06a-0e28c8777fd8,ZZZ,Argentina,ar,102980905168311,educandoengenero,Facebook
+56ceb5f6-9ed6-41c2-a3f4-52305e0b5add,Descubriendo China,2023-03-16T10:52:32.228Z,5c75af69-1f9a-473c-a0d6-2b4ed0d22234,ZZZ,Argentina,ar,100104028388916,Descubriendo China,Facebook
+c2ca4603-afe8-4e3d-81f0-63664b99c568,El León Milei,2023-03-18T10:52:15.842Z,f20337ce-0525-4ba3-a384-8d02c583fb3a,ZZZ,Argentina,ar,107688818931409,El León Milei,Facebook
+369bec1b-4491-4648-9306-3e455a013a87,Consultoría Online - Instituto CIEC Argentina,2023-03-22T10:52:06.227Z,39bd2550-02d2-4ce4-83ac-9c0fde509f50,ZZZ,Argentina,ar,101869372235586,Consultoría Online - Instituto CIEC Argentina,Facebook
+de8e1623-3e4c-430c-9bf3-0a45d9c5bf65,farm_nataliaszydlowski,2023-03-24T10:52:27.108Z,81b622f1-507d-45ec-9e7d-819e20b47bac,ZZZ,Argentina,ar,110211621910312,farm_nataliaszydlowski,Facebook
+2f1a449e-14dc-4a22-bb42-7d07136f695d,Inmobiliaria Gaccio,2023-03-25T10:52:03.440Z,900f700b-3a27-4159-834f-8eb998bd2082,ZZZ,Argentina,ar,349699171891134,Inmobiliaria Gaccio,Facebook
+c67d3187-a07d-4171-afdb-a1bc0ce9893e,mundonatural.r,2023-03-26T10:52:08.576Z,6a609a1e-2469-4e9f-8c24-c53bb03c0fda,ZZZ,Argentina,ar,102120974807065,mundonatural.r,Facebook
+593b5b7c-96ad-4790-81de-472e98cb9020,Christopher Abreu Photography,2023-03-28T10:52:17.659Z,a546ac59-c332-4512-a1a8-362984c6f568,ZZZ,Argentina,ar,1706380169686092,Christopher Abreu Photography,Facebook
+7f96ba5c-d309-4f81-8180-e1427057c5e8,Juan Monteiro,2023-04-04T10:52:24.788Z,9d7d3c85-71fd-4332-8710-12a9cf993cef,ZZZ,Argentina,ar,237812403317262,Juan Monteiro,Facebook
+e2b704cc-cc77-4665-b7b2-0b5ecd4a1505,ROLON LEANDRO MIGUEL,2023-04-04T10:52:24.856Z,494e1d60-7b7a-4b7e-a01e-a01a466ab51a,ZZZ,Argentina,ar,870308073057200,ROLON LEANDRO MIGUEL,Facebook
+cfcdbc91-64a6-4f9c-b93e-27e65b4ac176,Marcelo Meglioli por Iglesia,2023-04-05T10:52:17.425Z,ba00ed4e-21ec-466c-b27a-ee5d4f7b8542,ZZZ,Argentina,ar,111117365246532,Marcelo Meglioli por Iglesia,Facebook
+07785e22-c1fc-4bcc-9d82-1bfa6d5a8661,Comuna de Villa Eloísa,2023-04-06T10:52:46.318Z,58e15642-822f-48d1-b12a-22d826e1a54e,ZZZ,Argentina,ar,109436328633658,Comuna de Villa Eloísa,Facebook
+4d910e40-72b8-4cfe-9d0a-639367b8d968,Ramón Sebastián,2023-04-08T10:52:24.042Z,805af4f5-7afc-4a84-b0ed-64f81575fd23,ZZZ,Argentina,ar,117921824592879,Ramón Sebastián,Facebook
+c5808379-f200-4d92-895b-0b317f0ddf49,maximiliano_pot,2023-04-09T10:52:22.369Z,b4bf19b7-eb07-41d4-bcba-c181b74a3f73,ZZZ,Argentina,ar,102415935418559,maximiliano_pot,Facebook
+aa0b9ab6-37dd-4404-8acc-244522022aa5,Graciela Verón,2023-04-06T10:52:46.361Z,4177a9d5-6c32-4ec4-a8af-107b41a2d7cd,ZZZ,Argentina,ar,102406929433617,Graciela Verón,Facebook
+4990bd63-f49c-40af-befc-5f4aafcfdaa5,A&E Latinoamérica,2023-03-29T10:52:22.018Z,448d9947-a708-4dbc-ba15-3d49f7f63dfe,ZZZ,Argentina,ar,110963555607554,A&E Latinoamérica,Facebook
+f36ea607-5d97-48cd-ab84-afd85288c605,Red Católicas por el Derecho a Decidir de América Latina y el Caribe,2023-03-05T10:52:35.551Z,fd178950-8bd7-4773-9428-9c43cc17bcb7,ZZZ,Argentina,ar,1892960024315209,Red Católicas por el Derecho a Decidir de América Latina y el Caribe,Facebook
+30d88a2d-20be-4370-a63f-64fb9d5fc0c5,javierjiguacel,2023-03-08T15:30:08.615Z,b8596052-38da-48fd-95df-363db1750600,ZZZ,Argentina,ar,100755969418563,javierjiguacel,Facebook
+7d9d7444-63b1-4446-abe4-92938891c14c,Owl Pro Drones,2023-02-09T06:26:54.463Z,f38cf551-3a17-4043-b6b3-a9935d804767,ZZZ,Argentina,ar,443464592695498,Owl Pro Drones,Facebook
+5d32cd91-3624-4eee-bf72-9bb532f92f99,Televizion,2023-02-11T10:52:12.147Z,d78948b7-9e1a-45ab-b586-7b0e976ff344,ZZZ,Argentina,ar,1505375433090504,Televizion,Facebook
+001aee9e-ee2d-472a-ac50-cb656d3e829c,fud.mariaduffy,2023-02-13T10:52:35.614Z,bc8ed91d-b3fb-4f42-9436-2ccb9f1827f6,ZZZ,Argentina,ar,107916615027541,fud.mariaduffy,Facebook
+cb538546-95b3-42fb-81e9-f5417ac904d6,debbiereynaud,2023-02-15T10:52:17.094Z,3c5fd61e-0140-4ce5-be1e-2b140786b226,ZZZ,Argentina,ar,111407551778107,debbiereynaud,Facebook
+1a8b8ac1-2d18-414a-9339-5f413c3b9985,dlipovetzky,2023-02-17T10:52:15.988Z,466d7170-e46e-44fc-9f01-bfa33129691c,ZZZ,Argentina,ar,100568365204350,dlipovetzky,Facebook
+367e4fbc-5655-4f55-9788-ee2cdc84b160,cristinabritezok,2023-02-20T10:52:26.971Z,1ed6a798-25ef-4f61-9dad-8601aa157b42,ZZZ,Argentina,ar,110581854861148,cristinabritezok,Facebook
+11fb694d-f857-42b1-a099-9d0e6300aa77,MUNDO PODER,2023-02-24T10:52:28.540Z,960c94c0-7b1b-4912-abcd-97884b2098ec,ZZZ,Argentina,ar,325258384592137,MUNDO PODER,Facebook
+062ab31d-2d58-4fa0-9591-aa26799bde0a,jorgearce80,2023-02-26T10:52:33.746Z,7ffcc1ba-5af0-4cbb-903e-faea603d215a,ZZZ,Argentina,ar,107615668827131,jorgearce80,Facebook
+798aa367-e9f7-4b7b-9c27-dd3e70cb3b8a,Courage Osayamen,2023-03-01T10:52:23.727Z,b3447f67-414b-4740-82f2-848569db3fd5,ZZZ,Argentina,ar,136543823501310,Courage Osayamen,Facebook
+bfa6383a-02f4-4ca8-831d-dc9e5bd37503,ninoudumonde,2023-03-04T10:52:32.822Z,da053abd-c72d-49df-a0bb-de5e10aaef3b,ZZZ,Argentina,ar,101443872469002,ninoudumonde,Facebook
+fbdf27af-4d9d-45a9-a75b-3c41c857c73f,Secasfpi,2023-03-06T10:52:28.533Z,b9f4e166-1ad5-4b07-8e61-509c08431954,ZZZ,Argentina,ar,316129948545110,Secasfpi,Facebook
+1ae0e43d-111d-483b-bc53-d72772ee0551,ijeomandtheworld,2023-03-08T10:52:26.608Z,e70bfcd1-c075-4e40-ad1a-711cc6400d4d,ZZZ,Argentina,ar,112274385135623,ijeomandtheworld,Facebook
+362254d5-4b8b-4bd2-944a-35d1700bf009,Escobar 360º,2023-03-08T15:49:46.745Z,9a9f3c87-e903-4f05-8f19-ff844adf3a2f,ZZZ,Argentina,ar,105512035543014,Escobar 360º,Facebook
+e7a5b436-e0fe-4049-a5c3-f7ea7bdaadc0,Programa Ambiente - Fundabaires,2023-03-08T16:20:24.131Z,b39c60ca-8e4c-43f5-9c53-6c2b44e39275,ZZZ,Argentina,ar,585581241476048,Programa Ambiente - Fundabaires,Facebook
+187923f7-0913-4d24-b4b6-4b6c6ee54f60,Sustainable & Social Tourism Summit,2023-03-08T17:01:48.840Z,20271ac8-2f27-437a-b39f-7a416b3f0747,ZZZ,Argentina,ar,365493950497394,Sustainable & Social Tourism Summit,Facebook
+a05c1c55-c695-452c-b4b3-75d0f7e6f396,qcsf_rik_guitare,2023-03-08T17:43:51.409Z,fc804063-0169-4e8d-bfdc-b12a285c1717,ZZZ,Argentina,ar,106236511982693,qcsf_rik_guitare,Facebook
+1acb37f2-da7e-4c59-8867-24b7b8cdabfe,Syroco,2023-03-08T19:30:51.477Z,b1cb36f3-21ec-4a26-9e9e-103e7ffacf89,ZZZ,Argentina,ar,103618041090967,Syroco,Facebook
+95fa3c3a-fc3a-4ee7-8446-860b90e3d5f1,Urgente24.com,2023-03-08T19:52:08.469Z,ddbe0f71-d189-461e-84db-202c623814e0,ZZZ,Argentina,ar,261994114842,Urgente24.com,Facebook
+82735370-ad7a-4061-9abd-f077f1759a6f,Reserva Deja Vú,2023-03-09T10:52:32.601Z,7678e73b-f3b9-4d4a-a443-13547d29ff15,ZZZ,Argentina,ar,197959994150683,Reserva Deja Vú,Facebook
+22b5731f-ba20-4b42-ab5a-c3c7fcb55579,Leyna Bloom,2023-03-12T10:52:23.732Z,d8306b92-07b7-4c58-ba9d-98b74b5907c4,ZZZ,Argentina,ar,527150317808252,Leyna Bloom,Facebook
+aedfec38-4dde-4d2d-8a24-46c782a4df51,Lifetime Latinoamérica,2023-03-12T10:52:23.200Z,89ca12c2-9067-4c7e-ab6a-7335890d70ee,ZZZ,Argentina,ar,312051058942485,Lifetime Latinoamérica,Facebook
+96190c3a-b6cc-49cc-8b22-7054ad0aed56,Maria Marta Carullo- Coach Ontológico,2023-03-13T10:52:15.676Z,05e496e9-f9de-4be7-a265-f13a833f8ec6,ZZZ,Argentina,ar,114469253573803,Maria Marta Carullo- Coach Ontológico,Facebook
+874a67fd-2c6f-47fb-9c2d-6380b8352ea9,MedGestione S.A Py,2023-03-17T10:52:34.691Z,f61e7800-bd9a-4537-8653-2e150f2dfb91,ZZZ,Argentina,ar,103616824624889,MedGestione S.A Py,Facebook
+d1b84410-816b-4dff-8cf8-5f0ba5c19706,Confederacion Intercooperativa Coninagro,2023-03-19T10:52:16.053Z,203529d6-4562-4897-aaaa-145f1e106752,ZZZ,Argentina,ar,858677804173509,Confederacion Intercooperativa Coninagro,Facebook
+3ab65a71-1705-4a66-a675-636287a90413,Letual Ropa,2023-03-23T10:52:23.902Z,c0ed408e-89f6-42d6-b45b-1c1b51d8afd1,ZZZ,Argentina,ar,118167487886675,Letual Ropa,Facebook
+a31b7d3e-3ba1-439e-96b1-3cf6092e835c,Zibbá.ar,2023-03-24T10:52:27.090Z,7494ff23-40af-4007-8787-d7852bba4781,ZZZ,Argentina,ar,103619411573113,Zibbá.ar,Facebook
+db0a08ee-ba41-4a5e-9735-da35583a0a13,kelo_dip,2023-03-26T10:52:08.084Z,f23101ed-b0af-4a68-93a2-1bccf90bdb68,ZZZ,Argentina,ar,2286668401449336,kelo_dip,Facebook
+302d7217-a9a1-439f-9144-00194998052b,Camuzzi,2023-03-27T10:52:28.292Z,c4c94b66-9c43-44f4-a4d6-96309bd7ee9f,ZZZ,Argentina,ar,2007771016156009,Camuzzi,Facebook
+47a653d5-46d7-4c57-8bf8-64344de530a0,hectorgriffini,2023-03-31T10:52:26.706Z,01c1d5d2-73de-4269-91dc-78e6010a88ae,ZZZ,Argentina,ar,101033369488747,hectorgriffini,Facebook
+23c01991-5d27-4060-a3b3-0066a4733b97,Jimmerson Melvin,2023-04-04T10:52:24.919Z,ad4b14e1-3179-4399-af6a-be43161436c2,ZZZ,Argentina,ar,110211891821782,Jimmerson Melvin,Facebook
+c2e93aaa-f35b-44e9-bc86-6837a07fa5f3,Mingo Schiano Intendente,2023-04-04T10:52:24.886Z,7d3ed33b-9dc2-4064-a788-2abed0792936,ZZZ,Argentina,ar,103662766020500,Mingo Schiano Intendente,Facebook
+38ce2694-e23c-43eb-b6cf-2f97e6691d35,Raul Mendoza,2023-04-06T10:52:46.094Z,19cf45ee-26c6-4721-9eae-9d7d1cfa801d,ZZZ,Argentina,ar,102664359457250,Raul Mendoza,Facebook
+2330b914-19ab-4a26-82e3-1e4fed076d24,El Colegio de Morelos,2023-04-10T10:51:50.514Z,ec6bec8b-d835-4c13-ae26-ebc2aec45d58,ZZZ,Argentina,ar,451591788375786,El Colegio de Morelos,Facebook
+c90a9930-1968-46b5-a7a7-df5b48b78a5a,Matanza Integrada,2023-04-09T10:52:22.553Z,ea701e55-58fa-447d-9eea-806046d4c6eb,ZZZ,Argentina,ar,105766019039401,Matanza Integrada,Facebook
+eef1b066-ea15-4112-a445-393b26e2f490,Mariano Sangalli,2023-04-06T10:52:46.331Z,63bcbc66-d68a-4b23-b064-ab5f6adbfa5a,ZZZ,Argentina,ar,113084151709967,Mariano Sangalli,Facebook
+2e1e067b-6eec-40a0-bd76-dbb5cff03dc4,Berlín en Buenos Aires,2023-03-25T10:52:03.810Z,614e2574-2e60-43e8-810e-a40293d384d4,ZZZ,Argentina,ar,1942479999344761,Berlín en Buenos Aires,Facebook
+4c800178-287f-487f-9a64-3305e2459227,T_98_04,2023-03-08T19:52:08.629Z,58200600-6fac-45df-8010-410bbf0958d7,ZZZ,Argentina,ar,103289539198400,T_98_04,Facebook
+574ba311-4bd7-4531-b64f-e3930614a201,meismarcelo,2023-11-10T06:22:51.960Z,e9560db9-a8a5-4aca-a630-2545c6371038,ZZZ,Argentina,ar,103705936129225,meismarcelo,Facebook
+cdcedbdc-5a38-44cb-bd1c-e319aaa5cf53,gonzatracci,2023-02-07T15:06:02.632Z,5668379d-5cf5-4da2-8f77-744dd1f9c0e1,ZZZ,Argentina,ar,110161518364730,gonzatracci,Facebook
+8547049f-e8a2-4f50-9e34-40c56fbcf7cd,xioacevedo,2023-02-11T10:52:12.107Z,cb845151-1170-477e-a94d-f8b9f65b3a0e,ZZZ,Argentina,ar,103150501144126,xioacevedo,Facebook
+79be734a-ccd0-496b-ba3e-4ce10f73c98c,Municipalidad de Lavalle Mendoza,2023-02-13T10:52:35.692Z,480bd2f5-4a1c-4680-b937-2ba0ea014b78,ZZZ,Argentina,ar,749233235187149,Municipalidad de Lavalle Mendoza,Facebook
+0246eccc-c1e7-4ce2-a48c-1e72167b1479,Instituto Universitario ESEADE,2023-02-15T10:52:16.818Z,b1036844-f8c9-45b7-835d-43655e517794,ZZZ,Argentina,ar,243288191055,Instituto Universitario ESEADE,Facebook
+69cd3d09-6b9a-468b-97fd-2ffb5dd49714,Adrian Automotores,2023-02-19T10:52:40.367Z,06b6693f-49ef-42ee-95b4-ccec8b6838ec,ZZZ,Argentina,ar,104978788843087,Adrian Automotores,Facebook
+a071779e-fac8-437b-8c31-54dd8543dbc1,El Viaje de Penélope,2023-02-21T10:52:22.784Z,352c686b-10ac-4b69-a17a-011f092ce721,ZZZ,Argentina,ar,106956402181093,El Viaje de Penélope,Facebook
+4e13059d-c82e-4a32-b9ae-339d2c089bf7,pablofe70,2023-02-25T10:52:32.029Z,95712451-d5f1-4e13-9476-1adb91e1df62,ZZZ,Argentina,ar,103264588957089,pablofe70,Facebook
+3c429fce-f83c-4490-b2a5-335e42e1b82b,Secretaria de Ordenamiento Territorial,2023-02-27T10:52:27.739Z,75c1478a-a1aa-4e4d-9155-914f3d85b50b,ZZZ,Argentina,ar,103644138985262,Secretaria de Ordenamiento Territorial,Facebook
+be1579ea-3e2d-44c3-92f8-9c5cd4251c7a,economia.para.no.economistas,2023-03-01T10:52:23.286Z,d9ce6a2a-025a-48e1-b91a-e29646371dc5,ZZZ,Argentina,ar,105339661119369,economia.para.no.economistas,Facebook
+cc647bfd-47e5-4023-a505-185354740ddb,"Parteria,Ginecologia Natural & Reg.Akáshico",2023-03-04T10:52:33.009Z,33433ef0-5cc5-49bc-a5bc-bef14073ad00,ZZZ,Argentina,ar,104909819029969,"Parteria,Ginecologia Natural & Reg.Akáshico",Facebook
+57a821e5-cd86-4430-b725-0dd0666e91ce,Astrochamanismo Hacker,2023-03-07T10:52:24.338Z,602e9381-aaad-4af1-9937-4d5793be9559,ZZZ,Argentina,ar,107164948882961,Astrochamanismo Hacker,Facebook
+2bb3daed-7017-4c6f-9584-e560016d7cdb,gretapena,2023-03-08T14:50:58.421Z,9e46b1cf-ef1b-44c1-915e-edc190e964e3,ZZZ,Argentina,ar,107839638040275,gretapena,Facebook
+edffec84-ea02-45a4-8bf4-a0ac0b27e8b5,Yop05,2023-11-12T05:06:26.787Z,36e0dcf0-125d-4b44-a11e-f79f014249bd,ZZZ,Argentina,ar,123804574158849,Yop05,Facebook
+0e28e5ac-f672-4191-a2aa-be348ad9fda3,WINA Inversiones,2023-03-08T16:40:48.048Z,fc6cd6a4-428a-4241-8ad6-995167e1b1cb,ZZZ,Argentina,ar,755908687945616,WINA Inversiones,Facebook
+f7907f84-a96e-4f7d-a228-892ff837836f,Killin Road,2023-03-08T17:22:42.923Z,0c87d638-6dac-48c6-a879-3d1cb11e6415,ZZZ,Argentina,ar,103805125889848,Killin Road,Facebook
+1879e81b-2833-4644-931b-38379a77b29a,Diario Digital Sitio Andino,2023-03-08T18:05:40.556Z,99f3b391-6842-4e38-8f16-8bbe3d6d3b72,ZZZ,Argentina,ar,252316758144514,Diario Digital Sitio Andino,Facebook
+1a191486-b2fa-4f15-a8a2-887bed39b684,UOM-Villa Constitución,2023-03-08T19:30:51.452Z,3a05a383-d615-4e83-8efe-94860982e2c0,ZZZ,Argentina,ar,768211396614426,UOM-Villa Constitución,Facebook
+9ace4046-78f2-4666-a40c-3a68db690054,SUM communication&marketing,2023-03-08T20:24:05.770Z,4fc55f50-bda0-4423-879f-462659899c20,ZZZ,Argentina,ar,495848130573300,SUM communication&marketing,Facebook
+c8174d8b-be35-455c-9aeb-cfbcd906719b,francoisevenspaul,2023-03-10T10:52:19.748Z,dce4e966-f4bd-41b9-812e-597e73912ead,ZZZ,Argentina,ar,100678408925605,francoisevenspaul,Facebook
+5705f4e3-614f-4d7c-9dad-af892f0f9375,toyco,2023-03-12T10:52:23.081Z,bf0a72d9-e07b-4416-843b-135be111bcd4,ZZZ,Argentina,ar,1464132277020301,toyco,Facebook
+26a69c44-058c-4703-9f30-75a9073fe7b1,Live In Miami Real Estate Team,2023-03-12T10:52:23.460Z,2fdb625d-69a9-419d-a17b-01aa5a2ab29e,ZZZ,Argentina,ar,101675529133415,Live In Miami Real Estate Team,Facebook
+a0e900d4-8f1f-4c69-90b3-fb0e2dcf42d0,annabheatriz.ilustras,2023-03-13T10:52:15.589Z,5237bc32-8807-4893-9975-bb4d717a5ff7,ZZZ,Argentina,ar,100465908782350,annabheatriz.ilustras,Facebook
+ce0d38e4-bed2-43d9-8d55-fdef8ccb8634,globaltrading_pro,2023-03-18T10:52:15.701Z,4fef5a03-610a-489c-a25b-f77bf95e19a9,ZZZ,Argentina,ar,100891269592544,globaltrading_pro,Facebook
+3fdde4ad-fc68-480f-9bd1-f93932b84913,Showroom Piedra Buena,2023-03-19T10:52:15.852Z,10b39cce-b09c-4690-b2aa-c104b8a2d555,ZZZ,Argentina,ar,110700907525959,Showroom Piedra Buena,Facebook
+e36012fb-539f-48ff-bd2b-e98f28481c07,Banco Provincia,2023-03-24T10:52:26.421Z,b6995198-e02d-4e86-9372-40f3c1e99051,ZZZ,Argentina,ar,588210521248187,Banco Provincia,Facebook
+843be19c-aa52-48a0-9a86-c8a1a60b65a5,Phoenix Tarot,2023-03-26T10:52:07.925Z,b3c03bde-ed7e-4cf0-b3ea-a9cbbdd7023a,ZZZ,Argentina,ar,103227955782716,Phoenix Tarot,Facebook
+9be3e06f-e39b-4dc3-a796-d75c3ac412de,sesionespunch,2023-03-26T10:52:08.359Z,a9394eed-0f27-46e2-b6d6-cd2c9f84277c,ZZZ,Argentina,ar,106592230837608,sesionespunch,Facebook
+17fcdf72-9dde-4d97-b614-9b109709f161,RosarioPlus,2023-03-31T10:52:26.915Z,b8f32168-6433-43d7-946b-b24e1268bd9d,ZZZ,Argentina,ar,338511002986432,RosarioPlus,Facebook
+143ffd57-49f4-4af7-9d8f-f1407cd4da8f,Gabriela Ortiz,2023-04-04T10:52:24.834Z,a8bdf337-e4a6-49c6-b9b3-cdb995d376f7,ZZZ,Argentina,ar,108220741085434,Gabriela Ortiz,Facebook
+2e852ab6-b417-4d06-b816-a25b0bdeea05,Lisandro Bonelli,2023-04-04T10:52:24.828Z,aa55d764-68d4-497a-a170-d6c682167739,ZZZ,Argentina,ar,196552740363932,Lisandro Bonelli,Facebook
+ae7bd3b0-7e1b-4a74-9126-639c2fb61561,gustavoo.bustamante,2023-04-06T10:52:44.603Z,b6561394-496f-40da-befe-19e756d6da70,ZZZ,Argentina,ar,100628545674852,gustavoo.bustamante,Facebook
+ae163bee-0331-4751-8e22-f9cee8166036,Cacerola de la política,2023-04-07T10:52:22.123Z,32482752-bb78-474a-b746-b257dc6c6860,ZZZ,Argentina,ar,264821216984259,Cacerola de la política,Facebook
+49872938-da12-41fd-b2b7-f1e4aacb5ead,ART DEMOCRACY,2023-04-10T10:51:50.517Z,27f45f6e-464d-4577-a5fe-779e5d8bd723,ZZZ,Argentina,ar,300919407156,ART DEMOCRACY,Facebook
+bba69a1e-bc3b-46e5-ac34-873f9db64ec7,Betina Florito,2023-04-06T10:52:45.845Z,0c64fbeb-42a4-4ed2-a4fb-4aa58fc20504,ZZZ,Argentina,ar,104718121063902,Betina Florito,Facebook
+b8733b3f-31ff-45b7-bad1-04bd58f0319c,unauruguayaenturquia,2023-03-25T10:52:03.949Z,d7b74805-9e27-4d07-b841-6622806551e5,ZZZ,Argentina,ar,105093389093033,unauruguayaenturquia,Facebook
+9578aeee-1003-4f8c-8e60-d1113110bbd8,Ushuaia Municipalidad,2023-02-07T15:06:02.554Z,be8e6aff-75cb-4fcd-b942-71b39f925217,ZZZ,Argentina,ar,1547396068885036,Ushuaia Municipalidad,Facebook
+73966912-645a-484c-bc5b-6655ca2eba6a,nahuel_godoy_escritor,2023-11-10T06:22:51.842Z,24f5337f-f48d-4160-8cb0-d8d3f998eb53,ZZZ,Argentina,ar,107304135311028,nahuel_godoy_escritor,Facebook
+aeda80e2-d2a5-4f02-9e13-b93ce17ba674,"Igualar - Secretaria de Educación, Formación y Desarrollo Humano",2023-02-08T05:54:38.588Z,2bcb0a05-284d-46d2-a10d-ca8ca03f9959,ZZZ,Argentina,ar,106789872202567,"Igualar - Secretaria de Educación, Formación y Desarrollo Humano",Facebook
+4dbba211-e21a-4737-a931-60c79d8df2a5,Mar del Plata BOX,2023-02-10T10:52:33.273Z,2a67f959-247b-4f6c-9fa4-ed91ac8426c1,ZZZ,Argentina,ar,102555261752022,Mar del Plata BOX,Facebook
+66dc8db3-9685-4569-8ecf-c25d0778ec5b,Ed Laverde,2023-02-11T10:52:12.107Z,384c0ee8-a67c-4c23-9ea1-3ddab49c9cb1,ZZZ,Argentina,ar,100316992127349,Ed Laverde,Facebook
+c8a72ca1-4248-4e93-b6d4-5c3ce6e8e0d8,Goldwind,2023-02-14T10:52:27.221Z,7efabdd3-dab1-4fc9-b405-77d2f31a7897,ZZZ,Argentina,ar,111967013731903,Goldwind,Facebook
+755a45f0-5579-4c39-8b83-5c63c170c99d,Josefinas,2023-02-16T10:52:25.660Z,e20acc6f-3d38-43b5-bee8-a7cd3621a1ea,ZZZ,Argentina,ar,648867975320219,Josefinas,Facebook
+aa319f82-7ac5-4817-8d0a-03f652deb92a,Monique Queen's La Bambola Rotta,2023-02-19T10:52:40.553Z,17869632-f37b-4977-8dc4-4e1864d2b395,ZZZ,Argentina,ar,100923079187329,Monique Queen's La Bambola Rotta,Facebook
+4804d341-122a-4fd9-bff9-34491a921804,Gente Yold LAT. La música y los recuerdos de nuestra vida.,2023-02-22T10:52:38.147Z,bd8fcde7-0f48-4aa0-9c69-51b6798bd6a9,ZZZ,Argentina,ar,149501852436396,Gente Yold LAT. La música y los recuerdos de nuestra vida.,Facebook
+ca7caae0-d0d5-46c2-b148-0067ea0ef8e5,gabrielberrozpe,2023-02-26T10:52:33.786Z,6f59be23-d549-479c-9e23-75bcab0bbb1c,ZZZ,Argentina,ar,112028514946973,gabrielberrozpe,Facebook
+32e30f92-b848-4c84-ae39-a6a58628b2a5,VillaAllende24hs,2023-02-28T10:52:36.429Z,73f3c1f7-ea44-4160-a823-c4c0700cec05,ZZZ,Argentina,ar,100196218555627,VillaAllende24hs,Facebook
+47fa131c-b4bc-4f86-88a5-67f3f4fb241a,IOMAabandonoaGaby Ciuffarella,2023-03-02T10:52:25.918Z,83cac04a-b5a8-42cd-a837-b466a8a61992,ZZZ,Argentina,ar,190539991746036,IOMAabandonoaGaby Ciuffarella,Facebook
+f7bdbebc-d4ec-4b0d-81cb-c52725f024cc,Urgente Salta,2023-03-05T10:52:35.511Z,5ee7b072-579c-4309-a60f-90954330efd0,ZZZ,Argentina,ar,114831594859471,Urgente Salta,Facebook
+93ea69fc-297f-4520-8bd6-30df34d26c61,Js_m4,2023-03-08T10:52:26.650Z,94651891-f676-4c1c-bb99-a2d2e200400c,ZZZ,Argentina,ar,100100416284085,Js_m4,Facebook
+7b44f08a-0dc3-41fb-a7e2-6b4ec4f30e7d,wordporters.translations,2023-03-08T15:01:01.318Z,d7af9489-a783-4718-adf1-4cf3a2e9271e,ZZZ,Argentina,ar,114820274808673,wordporters.translations,Facebook
+2cf9f699-f4a2-4312-89f8-54a729bb6011,cortemoda_,2023-03-08T16:10:00.572Z,c083eea1-59a8-4ee3-af84-b4880465a3ee,ZZZ,Argentina,ar,103064115892057,cortemoda_,Facebook
+1abb3ab5-6e34-489e-a64e-cbb72236a09a,Acoplando,2023-03-08T16:51:14.846Z,e2357e2a-e2e6-4dad-95b4-c22e667e4f03,ZZZ,Argentina,ar,1427704554130629,Acoplando,Facebook
+4b40297a-77e4-4bea-b84a-dca3981b28c7,AV Estampados,2023-03-08T17:22:43.827Z,b98d037b-9fe1-45a1-8a88-8fec6acca8fe,ZZZ,Argentina,ar,207245819618110,AV Estampados,Facebook
+976c3c4a-b217-487d-ba87-08a657e69763,Viajero Bonaerense - Proyecto 135,2023-03-08T18:26:34.739Z,dbcb91ee-38e0-40a8-a061-e26381d025b8,ZZZ,Argentina,ar,110227198563072,Viajero Bonaerense - Proyecto 135,Facebook
+0c143873-63f6-4f1f-92a3-c32596552c24,T110-31,2023-03-08T20:13:14.738Z,e07d985a-0c31-45f2-94fd-cec4c7c9739e,ZZZ,Argentina,ar,100363736296175,T110-31,Facebook
+387628f1-74be-4f07-92b7-f0ad21492e6d,Danielbehler,2023-03-09T10:52:32.483Z,be0dd50b-6238-46a9-aad1-ef5847d06f5e,ZZZ,Argentina,ar,1006046006086441,Danielbehler,Facebook
+34817e5f-81e9-48ac-972d-9f5ebe7934ca,La Cocinera Plantada,2023-03-11T10:52:31.886Z,047684f4-bd04-4760-9ab3-a3d4a6abe203,ZZZ,Argentina,ar,103296058619391,La Cocinera Plantada,Facebook
+a0c9708b-cff6-4893-866f-beae8706b799,María Eugenia Donoso- PLUS SIZE Model & Entrepreneur,2023-03-12T10:52:23.500Z,dd5c4b2b-618a-4650-a360-5b89a272aa24,ZZZ,Argentina,ar,305313416178355,María Eugenia Donoso- PLUS SIZE Model & Entrepreneur,Facebook
+78fba5f9-4108-4095-af23-dbd35c94eebb,Danny Bøy,2023-03-12T10:52:23.705Z,961e97fc-a64b-4832-b425-b79dcad1c6aa,ZZZ,Argentina,ar,227380361162581,Danny Bøy,Facebook
+4ea843b1-4e30-4395-aeb4-e049048678c1,solmusicpr,2023-03-13T10:52:15.296Z,d54e9ab9-f08c-4dd2-bd54-4ceae897c64b,ZZZ,Argentina,ar,101995591998479,solmusicpr,Facebook
+b1efd9df-05fa-4701-8d6d-8faa7ae394b3,Yanis BP Photography,2023-03-17T10:52:35.277Z,48032c96-cd9d-4245-996e-fe177e66864e,ZZZ,Argentina,ar,984368588343061,Yanis BP Photography,Facebook
+fedebe80-b55d-4f07-aec0-96af8b85f332,Maga sin Varita,2023-03-19T10:52:15.819Z,c5c93ac1-1e9a-4293-8469-0b81b02e83ee,ZZZ,Argentina,ar,109694624666773,Maga sin Varita,Facebook
+3f531184-3b75-47bf-ab70-6ed102061266,U.C.Dadson Studios,2023-03-23T10:52:23.968Z,d2105057-4e81-4c0b-9f03-b291d803d90a,ZZZ,Argentina,ar,724912470907611,U.C.Dadson Studios,Facebook
+91c50422-793c-46d6-82d6-576d7315f338,vasahpilar,2023-03-24T10:52:26.930Z,1ee308c2-2e1a-4b45-88f7-c506a9fd500e,ZZZ,Argentina,ar,106414068267054,vasahpilar,Facebook
+52b4cb13-958c-464b-9490-38568f64f029,xCalebJonesx,2023-03-26T10:52:08.623Z,a63ffe5b-0789-4248-97e9-c8693096ef91,ZZZ,Argentina,ar,112577210181912,xCalebJonesx,Facebook
+81114d31-ca73-4080-8f46-58ff6a23dd8c,Radio Mujeres Marcos Juarez,2023-03-27T10:52:28.511Z,67469a2a-bb8c-4e11-bc87-49e4fcbc2890,ZZZ,Argentina,ar,185970778435108,Radio Mujeres Marcos Juarez,Facebook
+b6da9208-eea9-4c74-9c12-d0f804961e11,cotocomarcosgarcia,2023-04-01T10:52:04.839Z,661a7013-1860-40a8-8196-fc606282b4b8,ZZZ,Argentina,ar,109029331823241,cotocomarcosgarcia,Facebook
+d1df7bac-1e7d-4e46-8a52-e3cfba7d3d95,Natalia Ascheri,2023-04-04T10:52:24.792Z,3a80c545-b3cd-47da-9868-c049efae23a2,ZZZ,Argentina,ar,126464684637858,Natalia Ascheri,Facebook
+da53854a-027e-430b-beb5-682870641ca0,fernandoanibalmeza,2023-04-05T10:52:17.084Z,4ff96913-904c-499f-bdd1-8549f00773e9,ZZZ,Argentina,ar,106575105171935,fernandoanibalmeza,Facebook
+a1db8ad0-4278-476d-a582-51690dce0d07,No mas K,2023-04-07T10:52:22.107Z,72b77452-e388-4b2f-8cd2-2af168007469,ZZZ,Argentina,ar,100620821817764,No mas K,Facebook
+ac69c611-634a-4550-b875-e3b26201928d,lic.andradanatalia,2023-04-10T10:51:50.459Z,9884a711-325f-4cda-a39f-538edd2bab64,ZZZ,Argentina,ar,110144558504149,lic.andradanatalia,Facebook
+acf14108-c19c-4b8f-b722-a8228331287e,Sindicato Empleados de Comercio de Capital Federal,2023-04-09T10:52:22.637Z,e8b94d68-1982-4e5e-acca-5d5a713aa919,ZZZ,Argentina,ar,115376035685353,Sindicato Empleados de Comercio de Capital Federal,Facebook
+4401b682-3e71-438f-a6a3-beedccb5ec0b,César Daniel Araujo,2023-04-07T10:52:21.808Z,d79147b8-b3b3-4fdc-b5e3-86c5f2704807,ZZZ,Argentina,ar,486610398153729,César Daniel Araujo,Facebook
+043a412f-45ed-41c6-81e3-188930a73746,LEGIS ACTIO,2023-03-28T10:52:17.775Z,3ce4a218-72ca-458d-90da-87cce18cddd3,ZZZ,Argentina,ar,103799411271868,LEGIS ACTIO,Facebook
+1a573fa6-9b67-4915-a1de-fda903072e80,Knowledge Bucket,2023-02-15T10:52:17.219Z,c9f41976-6dcf-40f0-aa62-d99b474b977c,ZZZ,Argentina,ar,116981568944452,Knowledge Bucket,Facebook
+0f93eecf-e463-46e2-ae6e-02e59987dced,yoni_tolengook,2023-03-08T16:20:24.412Z,f5c9680a-3efa-4408-afee-1cfba5da2d34,ZZZ,Argentina,ar,106782284999615,yoni_tolengook,Facebook
+db14c7e9-91f0-4bc3-98dd-f41e75de3d54,mindsetoftherich,2023-02-08T05:54:38.885Z,18a15524-ea7a-4b55-83f2-d5108be7c3f1,ZZZ,Argentina,ar,106569218954378,mindsetoftherich,Facebook
+5684732d-e387-41ec-aa20-15b54b171570,OLACEFS,2023-02-11T10:52:11.386Z,59d008b1-9aa9-463d-b381-e265b6f5e0b8,ZZZ,Argentina,ar,2091152541182518,OLACEFS,Facebook
+9758c989-4bea-4f0c-bc4a-6518da31a468,Chacabuco Observa,2023-02-13T10:52:36.132Z,4247731b-bab6-4eb3-83cc-dea4a9889658,ZZZ,Argentina,ar,100523608972568,Chacabuco Observa,Facebook
+7c8fcf9e-232e-4923-a76e-60ecbcee5e60,Centro Universitario de Vicente López,2023-02-15T10:52:17.197Z,361a747a-7a95-4c8d-a83d-329253356cbf,ZZZ,Argentina,ar,262783313906616,Centro Universitario de Vicente López,Facebook
+648b2ba9-97d7-4ee6-91ca-22006c976e7e,lxclasificados,2023-02-17T10:52:16.639Z,016d5721-1947-4c42-a23b-e7bba9ac905f,ZZZ,Argentina,ar,103120879354735,lxclasificados,Facebook
+aae857d2-4093-42e3-844d-d9543877f716,comitia_consulting,2023-02-20T10:52:26.973Z,75215932-679c-43e7-929a-1bdd07b717ec,ZZZ,Argentina,ar,106579975328384,comitia_consulting,Facebook
+482fddbd-1035-46cf-8505-4f98056fc139,Exness LATAM,2023-02-24T10:52:29.023Z,9ca8e697-5892-4359-86a9-21750d6eeddb,ZZZ,Argentina,ar,106274344755680,Exness LATAM,Facebook
+791fce58-9bb6-4d35-add3-f063723bcb2c,Emilio Santisteban artista,2023-02-26T10:52:33.844Z,07234b3e-acb3-4cb7-b77c-b4946ad40716,ZZZ,Argentina,ar,2471583272867184,Emilio Santisteban artista,Facebook
+1bbe4d8a-8a0b-4a4c-abee-d774294ef684,rosariomoll,2023-03-01T10:52:23.383Z,9c64b639-344f-4ea3-8b93-eccdcc052881,ZZZ,Argentina,ar,100903358881604,rosariomoll,Facebook
+2d4850c0-ca38-4dc2-8221-6fe341dbc892,toma_lapalapolitico,2023-03-04T10:52:33.019Z,22bc0a93-6023-47cf-9e96-cdeb46790533,ZZZ,Argentina,ar,106487958962800,toma_lapalapolitico,Facebook
+f530ca18-4d64-4d09-a992-99c731ff0319,San Luis Informa,2023-03-07T10:52:25.154Z,268d3df8-e381-4445-9301-bfe3054eeb1a,ZZZ,Argentina,ar,159567030739714,San Luis Informa,Facebook
+b5f745d6-f49b-48a7-acee-e7a620aa6aca,entiendelacrisisclimatica,2023-03-08T14:41:10.593Z,d580adf2-ab2a-4e13-9a54-5a590c656038,ZZZ,Argentina,ar,105640072342606,entiendelacrisisclimatica,Facebook
+43cd2bdc-0ff2-4349-b158-f9f4d7fa76db,Cultura.Cba,2023-03-08T15:39:53.985Z,111f4320-7f81-4cef-9392-1de0e1552e2f,ZZZ,Argentina,ar,1435602116739536,Cultura.Cba,Facebook
+7767eb76-7fb4-4412-8c85-e20249df2d95,EnginZone,2023-03-08T16:30:37.157Z,4ad1adc3-e33d-4619-9f10-36a990f89a02,ZZZ,Argentina,ar,97410262628,EnginZone,Facebook
+ae1ae42b-ce41-4c87-a02b-6e86b64b5f4e,infoinsync,2023-03-08T17:22:43.852Z,ed767674-88cc-4dc9-a7b0-7e4b9cf1d33a,ZZZ,Argentina,ar,100294166223749,infoinsync,Facebook
+87d5c370-13f7-4fc7-8715-ef3dd42837ef,ICANA - Instituto Cultural Argentino Norteamericano,2023-03-08T18:05:40.291Z,f12f3d87-d0d2-42de-823b-5bf98b32417b,ZZZ,Argentina,ar,224725528731,ICANA - Instituto Cultural Argentino Norteamericano,Facebook
+1ba910bb-6d8f-4515-b1df-eae3078990cc,ZER0,2023-03-08T19:30:51.493Z,6d998682-ee90-4f5c-8579-dad12e567878,ZZZ,Argentina,ar,108665785399052,ZER0,Facebook
+8c62292e-3e3f-4900-b769-82f4cf83da35,estudiocapeceabogadas,2023-03-08T20:24:05.925Z,73f683b7-da36-41ca-98e7-7a2851550439,ZZZ,Argentina,ar,101994865472110,estudiocapeceabogadas,Facebook
+bb262a3a-9417-460a-bd2f-bb1b4c5d6a43,cin_villalon,2023-03-10T10:52:19.779Z,b6351542-43f7-4660-9ef0-7b16ee1a0f6e,ZZZ,Argentina,ar,103065522364282,cin_villalon,Facebook
+578d46cd-62b9-431f-b605-2514f28f3411,euromaidanpress.espanol,2023-03-12T10:52:23.611Z,9ed90cd6-33bd-41cb-bbc4-60eac0b7f23d,ZZZ,Argentina,ar,103752519287070,euromaidanpress.espanol,Facebook
+39f64661-4445-4e66-bae2-996739a32a67,"US UCIA Corporation, Inc.",2023-03-13T10:52:15.667Z,30c3367f-f8ac-483c-a93f-1aaf0904ca3d,ZZZ,Argentina,ar,439733729429081,"US UCIA Corporation, Inc.",Facebook
+49c5f647-b37a-4271-be34-6e7f85779aed,kellynutriaya,2023-03-15T10:52:35.598Z,9ebc73a0-c078-479a-a709-11201fdd8490,ZZZ,Argentina,ar,114181494951051,kellynutriaya,Facebook
+08e38e96-bc1e-4cd4-8b09-8567dea39320,ASSA ABLOY Global Solutions,2023-03-18T10:52:15.883Z,d44fbe8e-cac8-4252-8e84-f06570f10e85,ZZZ,Argentina,ar,123658210774,ASSA ABLOY Global Solutions,Facebook
+6bae6b15-c96b-41cb-9846-c0f83955dad4,Checkin Tv,2023-03-22T10:52:06.233Z,450fc1db-2e11-4976-a3e1-f7035b0a1b49,ZZZ,Argentina,ar,884159191679685,Checkin Tv,Facebook
+067d7dd3-0988-40d6-b135-7f50d6d8fd42,Infocampo,2023-03-24T10:52:26.765Z,2ec09585-e333-4ccb-83ff-f746c7a7491d,ZZZ,Argentina,ar,143715592310560,Infocampo,Facebook
+8932e378-433f-423c-8d83-6399fd4dff97,Ediciones Históricas,2023-03-25T10:52:03.744Z,7a9d7ae2-9de4-4b0a-ab8d-2777e4258b64,ZZZ,Argentina,ar,1709781619109308,Ediciones Históricas,Facebook
+cadb6ef6-9dbb-4eb6-97b3-a7701e5642f2,Netflix,2023-03-26T10:52:07.373Z,b29da0f0-22c0-4635-a9cd-219bc767560e,ZZZ,Argentina,ar,1787115997980033,Netflix,Facebook
+6652b12f-a3f8-480a-a5f4-f4086f28417c,Baga1402_04,2023-03-30T10:52:13.608Z,d16f8f8b-6aac-480b-819f-4216901b1ac6,ZZZ,Argentina,ar,100339112933404,Baga1402_04,Facebook
+5b88051c-afe6-478b-ade5-8c2270e93162,Frente Amplio Misiones,2023-04-04T10:52:24.867Z,51c3af79-31ea-46c3-8407-91c2197c4a48,ZZZ,Argentina,ar,100420992989565,Frente Amplio Misiones,Facebook
+6426dc5c-a51b-41be-ba40-c8c0224d788f,Jorge Nedela,2023-04-05T10:52:17.211Z,44174301-f7a2-41f0-bf96-ce2092b0573f,ZZZ,Argentina,ar,1009543812408975,Jorge Nedela,Facebook
+5f44d4bf-32e0-4062-8306-929f4119d67d,marceloballestersm,2023-04-06T10:52:45.984Z,8486df0b-c8e8-4e43-8e30-1ec51ca90fe7,ZZZ,Argentina,ar,111840551764068,marceloballestersm,Facebook
+fea8799b-7b74-45b8-8eab-6953a98a5bbd,Telas MxM,2023-04-08T10:52:24.135Z,f01e22d4-e696-44ed-97cf-50ef2335a22f,ZZZ,Argentina,ar,111376341917852,Telas MxM,Facebook
+1f12bfed-5def-4c1e-bf5e-b3a637694c59,Ofertón Concordia,2023-04-01T10:52:06.020Z,cb0ce9b4-0539-445a-a666-1e08ed956af2,ZZZ,Argentina,ar,104594592192181,Ofertón Concordia,Facebook
+39abe6f9-a714-4606-b852-4fa2cb1d10b2,Turismo Alagoas,2023-03-28T10:52:17.439Z,42a7782e-0fbb-4550-bac2-2ef43a725955,ZZZ,Argentina,ar,104332872591412,Turismo Alagoas,Facebook
+4416b8af-3986-40e8-ba01-d287664962dd,MFIX UAE,2023-03-12T10:52:23.710Z,8d2c7f9c-4afb-45fa-97ec-49e81af5df3d,ZZZ,Argentina,ar,102698589075063,MFIX UAE,Facebook
+a77b5cdf-5e47-46ee-87f3-f16f57420ddb,Estudio Fajardo,2023-02-08T05:54:36.817Z,239a2806-6d73-49ce-9770-823afa34260e,ZZZ,Argentina,ar,717840038349106,Estudio Fajardo,Facebook
+be8e1dec-e0d2-411f-8b81-3bb160b50065,Médicos Residentes Argentinos,2023-11-10T06:22:51.797Z,92f15005-1eed-43bd-8be2-e21c6e9157c8,ZZZ,Argentina,ar,987758041431633,Médicos Residentes Argentinos,Facebook
+fb355134-54fa-444f-99bb-2df9fc0b096d,Mia Cittadinanza Italiana,2023-02-09T06:26:54.440Z,c7085005-081d-488e-ab50-393e1a1eedbb,ZZZ,Argentina,ar,114128604816454,Mia Cittadinanza Italiana,Facebook
+7bd6722b-28f2-4e05-a5ec-05fd66a120cb,estanislaoeraso.ok,2023-02-11T10:52:11.995Z,d4a4020c-ff67-42c4-bc6e-367eded98a62,ZZZ,Argentina,ar,105962719075192,estanislaoeraso.ok,Facebook
+b3c24939-401c-4ae4-a194-88b6aca54229,Frente Integrador Provincial,2023-02-13T10:52:35.490Z,828ee0ba-21e5-4181-9222-b95df0b5fa0c,ZZZ,Argentina,ar,100668138377547,Frente Integrador Provincial,Facebook
+c459b0bc-e9c1-4d3e-9672-87226d11045e,Malvinas Despierta,2023-02-15T10:52:17.205Z,6cce6495-5c44-4c3a-85e9-e1e3f09f5414,ZZZ,Argentina,ar,367760476763796,Malvinas Despierta,Facebook
+0522fdde-15fb-4756-92a1-7fbe5b6fc808,kbro.22,2023-02-19T10:52:39.981Z,bf68f3a5-f44a-44fa-9bec-6f1d88fb0676,ZZZ,Argentina,ar,105437844216670,kbro.22,Facebook
+04f94c44-d6c4-4ac6-b299-a9389af7c42f,DIRECTV Argentina,2023-02-21T10:52:22.792Z,768d861e-d2ed-4884-8ddb-ceddfad347c5,ZZZ,Argentina,ar,107874224168338,DIRECTV Argentina,Facebook
+90c220ea-6a2b-4cc9-b954-9b1d637f271c,panoramaregistral,2023-02-25T10:52:31.984Z,6c7aa3fb-7fdb-4b88-b6fb-1e06761b04a3,ZZZ,Argentina,ar,100599156244851,panoramaregistral,Facebook
+066f3232-4445-4ae1-a450-3049573c44f1,Ivan Toth Depeña (Studio),2023-02-27T10:52:27.776Z,6b5f4fa1-f055-47ba-9c0f-08e879fae532,ZZZ,Argentina,ar,157035724407357,Ivan Toth Depeña (Studio),Facebook
+c31f6bb8-b3b6-4237-ab4f-8584e265eb69,ECLT Foundation,2023-03-01T10:52:23.724Z,ed538009-23ff-440e-86b8-79e3321c6d9b,ZZZ,Argentina,ar,133802223457730,ECLT Foundation,Facebook
+ec019408-5f43-4583-b637-008c5e5135de,STMSV Gestión 2020-2024 Pagina Oficial,2023-03-04T10:52:32.979Z,5ee9fc7e-5b20-476f-af5b-2d1cba9bef19,ZZZ,Argentina,ar,110113377240439,STMSV Gestión 2020-2024 Pagina Oficial,Facebook
+53e7f20b-3ef4-4b71-919e-d93c6ff4821b,anitaizaguirreiribarne,2023-03-07T10:52:24.799Z,ca5d2b2a-bd93-4e92-9351-65a2a5182e8b,ZZZ,Argentina,ar,106164408025462,anitaizaguirreiribarne,Facebook
+63af8896-4190-4069-a1d8-2bbed51c62bb,silcrisol,2023-03-08T14:50:58.466Z,bf7f8d0c-ae23-44d7-9850-fdeb479a7988,ZZZ,Argentina,ar,105152165006150,silcrisol,Facebook
+06c0caaa-b122-4a27-b9d4-5c294edf7a99,Télam Agencia Nacional de Noticias,2023-03-08T16:10:00.482Z,83fd8264-8ae3-4e0c-bec6-f52d2e96794e,ZZZ,Argentina,ar,161243707242002,Télam Agencia Nacional de Noticias,Facebook
+e2a77952-3e6d-4220-8dd7-41cadedd0916,euwanderleytodai,2023-03-08T16:30:37.202Z,5973bfda-b269-45d5-a60f-504fe3626d9c,ZZZ,Argentina,ar,101979072778859,euwanderleytodai,Facebook
+e829de34-a84f-409e-b3f7-84674e40d78b,Bixahuman,2023-03-08T17:22:43.862Z,7072708c-71c5-4d9c-ba4d-813ae75171c3,ZZZ,Argentina,ar,100532694723408,Bixahuman,Facebook
+d6a1aa3b-ffd1-46c2-bc33-f2b2a56a8567,Be Bloomers,2023-03-08T18:05:40.582Z,51cd7150-d243-4d6a-b0d6-6b2a51b2f78d,ZZZ,Argentina,ar,106924857780633,Be Bloomers,Facebook
+e8f31d6a-9988-40c9-9a78-9e16af48d8ef,Dra. Ceci Odontología y Estética,2023-03-08T20:13:14.675Z,1b30cdde-4452-4cf8-97ab-3b23d6c79d4f,ZZZ,Argentina,ar,147468938686375,Dra. Ceci Odontología y Estética,Facebook
+868bff8a-871e-4067-a964-146fd1bf192c,Libros Del Buen Leer,2023-03-08T20:24:06.145Z,473784a1-f743-438f-acff-273718f3f2da,ZZZ,Argentina,ar,130344357519486,Libros Del Buen Leer,Facebook
+724b5b61-21ac-4b32-87be-d08953e3c000,Celler Vinoteca,2023-03-11T10:52:31.973Z,ba22531a-fab5-4cfa-bff4-1b37336590f5,ZZZ,Argentina,ar,112745015092717,Celler Vinoteca,Facebook
+7a940397-ca5d-40e6-9cc8-31e3b8b54bf8,Teresa Galeano Psicóloga,2023-03-12T10:52:23.670Z,c05f35b7-8e3b-4cf9-b0d2-0a3c310e4800,ZZZ,Argentina,ar,861734543866515,Teresa Galeano Psicóloga,Facebook
+4b164f2e-c98d-4a0d-a7f5-4ba181041de0,Hacedoras de Políticas Públicas,2023-03-13T10:52:15.548Z,f0a14047-408b-4ba0-9fc4-dd43477aacfa,ZZZ,Argentina,ar,100494705758256,Hacedoras de Políticas Públicas,Facebook
+970bd096-b118-44f6-bfe7-5179a6da9c9e,Al Aire Neuquén,2023-03-16T10:52:32.158Z,849e921f-c6a7-4747-948c-04c7f31842a8,ZZZ,Argentina,ar,108921762128404,Al Aire Neuquén,Facebook
+4aab6887-0a9c-4db2-bf67-9e2ebd3e8275,Guillain-Barré Fundación Luz Argentina,2023-03-18T10:52:15.865Z,b3d1dd42-f289-4e13-977a-467cfdfd7546,ZZZ,Argentina,ar,111455498240332,Guillain-Barré Fundación Luz Argentina,Facebook
+aecf73f3-eed3-4e40-ad98-c0bf9e423c73,Fotocopias 2H,2023-03-22T10:52:06.235Z,cd9a34df-9392-432b-aa5a-be8c1c8acfd9,ZZZ,Argentina,ar,207206736311881,Fotocopias 2H,Facebook
+b18f54ee-d6d7-40a8-89c7-e23aa14ab090,Atlantic Fellows for Health Equity,2023-03-24T10:52:27.153Z,68f75fdc-c532-4ddf-b89a-66857cc26055,ZZZ,Argentina,ar,409215839877796,Atlantic Fellows for Health Equity,Facebook
+fe265b0f-ca64-46bf-a47d-d796224945f4,Universidad San Pablo Tucumán,2023-03-26T10:52:08.356Z,e70e8a47-03aa-45ed-a75e-2ce230e57faf,ZZZ,Argentina,ar,737219343022814,Universidad San Pablo Tucumán,Facebook
+cb10a6fa-3c4c-4bf7-9ffe-bdc05bac670f,Editions Agence Française de Développement,2023-03-27T10:52:28.140Z,6c5b2ad8-66c7-42a1-b47f-00be4e94696d,ZZZ,Argentina,ar,106639595369022,Editions Agence Française de Développement,Facebook
+f82c520f-071a-41f2-b235-b1c7df989f50,Tu Dupla a la Zumba - Zin,2023-03-31T10:52:27.755Z,1b33e43c-e55d-4556-9ec4-6a832a0f3daf,ZZZ,Argentina,ar,112319483656101,Tu Dupla a la Zumba - Zin,Facebook
+a3beecf7-13f7-4c34-a098-ba4e6647af96,Ahora_Juan,2023-04-04T10:52:24.702Z,e7e6f227-c867-41b9-b534-cf2773154d89,ZZZ,Argentina,ar,113527524987057,Ahora_Juan,Facebook
+3d3a8d05-1a90-4d7d-a4c9-b178af838862,Somos Villa Del Prado,2023-04-05T10:52:17.444Z,67d81462-1e38-4ecc-aaff-ea2a53b489a4,ZZZ,Argentina,ar,101216205919299,Somos Villa Del Prado,Facebook
+e7ee47b4-9997-47ff-a18e-a09d14b22ddb,Medios Riojanos,2023-04-06T10:52:45.577Z,25052149-6ddf-496c-8c76-a21a97f60bd0,ZZZ,Argentina,ar,1092877364217049,Medios Riojanos,Facebook
+d0dbd1d5-6bd9-48e7-bc1a-4b3dfd843961,magula mayorista,2023-04-08T10:52:24.039Z,ec732923-1331-43ed-a4f4-4388071b9d17,ZZZ,Argentina,ar,116658018048942,magula mayorista,Facebook
+11814bf3-dd12-4b0b-92a2-ba9fcf86abc7,fa_leguizamon10,2023-04-10T10:51:50.493Z,ddf4574e-bd88-49b6-a79f-0d4c6ede163d,ZZZ,Argentina,ar,113767226928231,fa_leguizamon10,Facebook
+62a4811d-00d9-41ba-92d3-c318d92977fa,Hcc Integral,2023-03-28T10:52:17.475Z,5eb9809f-9de8-4b9f-9960-c689a8e3196d,ZZZ,Argentina,ar,1060036710703499,Hcc Integral,Facebook
+a94e7a13-6945-4a32-9d2d-970ffe8879c5,Eclecticate_bymm,2023-03-05T10:52:35.530Z,18813f8d-128a-47a6-9715-52a2d90a7501,ZZZ,Argentina,ar,100147749368418,Eclecticate_bymm,Facebook
+ece2f077-4da8-4bd1-a2f1-f1ace312004d,Psicóloga Ana Carolina Areias,2023-02-08T05:54:38.329Z,f5dd4f4e-e896-4e51-b29d-e669e24e63f3,ZZZ,Argentina,ar,302047250145581,Psicóloga Ana Carolina Areias,Facebook
+1bc5314a-e801-40e3-9872-6a9fb533b696,Argentina Mining,2023-11-10T06:22:52.078Z,b34a7c3e-8753-4125-8377-6e7b4ecb2994,ZZZ,Argentina,ar,36630324089,Argentina Mining,Facebook
+733a0ee1-b882-4744-857a-a7d45f71b7c1,Yturielvalenciatallerdearte,2023-03-08T15:10:44.972Z,e80772c4-5831-4ddf-8282-1f306d23c9f5,ZZZ,Argentina,ar,126901709108132,Yturielvalenciatallerdearte,Facebook
+e91819ad-de92-4a47-a94d-e4d4ec9dbe61,economicjoe,2023-03-08T16:10:00.636Z,db3255f2-4c2d-4285-a58f-24f44574719a,ZZZ,Argentina,ar,107850988677035,economicjoe,Facebook
+b2a9bf5e-fcb0-447a-9625-28aa043712e0,Open City - Noticias Sierras Chicas,2023-03-08T16:51:14.846Z,cb04b659-298f-45bc-b44b-9d2f4eb6bbc4,ZZZ,Argentina,ar,657076581094618,Open City - Noticias Sierras Chicas,Facebook
+a6d428ae-e223-41c1-b066-473f126a6c2b,BUSINESS GROUP TRAVEL BROKERS®,2023-03-08T17:33:18.475Z,81ab1a0e-b819-49ea-b613-77fe4e539196,ZZZ,Argentina,ar,199008503461,BUSINESS GROUP TRAVEL BROKERS®,Facebook
+d0570a31-0670-47cb-ba74-d1d74d846e5b,lleca.oficial,2023-03-08T18:37:31.489Z,a2ddbf36-fd89-43b7-a766-efd11d3f164d,ZZZ,Argentina,ar,101877559476087,lleca.oficial,Facebook
+6238a987-a095-47b5-815d-4fda8433bd65,juanbelpiano,2023-03-08T20:13:14.668Z,c3d8094b-caa1-4517-99bc-78adcd873dba,ZZZ,Argentina,ar,105394915625751,juanbelpiano,Facebook
+5b431729-1f2f-465c-bd7f-66c11729f830,isowean.sa,2023-03-09T10:52:32.601Z,d2e1ae88-6f4d-4129-b759-5491c5c7cec0,ZZZ,Argentina,ar,102442072797548,isowean.sa,Facebook
+15ff5112-b8b3-4f2b-8c36-158998c13947,Binance,2023-03-11T10:52:29.645Z,600b5c39-3101-48c0-a072-92f560f7d1f6,ZZZ,Argentina,ar,469201610080869,Binance,Facebook
+4d8516e0-ead9-48d1-864e-358d5f233814,Meta,2023-03-12T10:52:23.662Z,19c69775-436c-4d51-b90d-f42388a14261,ZZZ,Argentina,ar,103429818226435,Meta,Facebook
+d23c5fa2-278a-4515-999d-17afbb395bb7,amoga_illustrator,2023-03-13T10:52:15.469Z,9e68d417-d01e-43c0-a4ea-6139e649b725,ZZZ,Argentina,ar,105357988925402,amoga_illustrator,Facebook
+b5e80aae-5613-4a41-992d-4b73901bbcc9,Amplivo / Ecovo - cómo convertir la contaminación en una solución,2023-03-15T10:52:35.179Z,789861c3-3015-4c16-828b-870169fb06c3,ZZZ,Argentina,ar,112058797386026,Amplivo / Ecovo - cómo convertir la contaminación en una solución,Facebook
+a87c3d10-8e98-44be-bcf8-8100a5a4f2cf,The i-Cademe,2023-03-17T10:52:35.312Z,fc3793ab-add2-41f3-87d2-09e6f25fe1a3,ZZZ,Argentina,ar,100281772883073,The i-Cademe,Facebook
+7d4c60da-a6bd-4f40-9168-8e0c46d4ec76,prosuardi,2023-03-19T10:52:15.897Z,4fd70a0c-d14c-434c-a76e-dbb5398eb563,ZZZ,Argentina,ar,105807795493531,prosuardi,Facebook
+3f8872da-dba3-4779-a523-5f31d9030af4,Thread Spun,2023-03-23T10:52:24.326Z,08669fac-e0e5-4e37-b71f-b7cc4290f499,ZZZ,Argentina,ar,130304667381337,Thread Spun,Facebook
+5f3dcff6-a55b-4466-b559-67bc6f20c8b5,Oferta del Dia,2023-03-25T10:52:03.700Z,223f99e5-8de7-41f8-9002-556405e81413,ZZZ,Argentina,ar,688505684590083,Oferta del Dia,Facebook
+d1a055b4-8dcd-485d-8369-8adb0a9e4feb,asis.c_gourmet,2023-03-26T10:52:08.638Z,4f9d2a93-3657-4bf5-8fc2-670ae2354c8b,ZZZ,Argentina,ar,110945744741084,asis.c_gourmet,Facebook
+c10540bf-771e-4f43-a0c9-6652bad406c8,Clasificados La Voz,2023-03-28T10:52:17.778Z,96a6a357-7755-4625-bff5-3c68c1de5dc7,ZZZ,Argentina,ar,192939344068078,Clasificados La Voz,Facebook
+c0916c0d-16ca-4aa5-80b9-e4c614e75fa0,Large Format Tips&Tricks,2023-04-01T10:52:06.081Z,acbcf36a-08fd-480c-876f-05fe8e56374d,ZZZ,Argentina,ar,104697661999169,Large Format Tips&Tricks,Facebook
+3db2414c-b4d7-4b15-a18a-50689c84213a,Santa María Con Vos,2023-04-04T10:52:24.827Z,630961ac-e458-4db6-a0a6-e90ca4552734,ZZZ,Argentina,ar,108347315324401,Santa María Con Vos,Facebook
+75a00f81-422b-45b0-9f1c-270586d0d320,Fabricio Cuaranta,2023-04-05T10:52:17.572Z,80b0e69b-1d80-4df5-b575-aa84e04c80fc,ZZZ,Argentina,ar,471758653030320,Fabricio Cuaranta,Facebook
+df0d8f2f-b16f-4e18-a334-675803d1742a,pablociejoviczok,2023-04-10T10:51:49.854Z,81e8e56a-fbb0-4aad-9f35-1d8adbbbc825,ZZZ,Argentina,ar,118222331228641,pablociejoviczok,Facebook
+74b048df-0c75-4fb2-9330-cc9965dde966,NuevoCulture,2023-04-08T10:52:24.180Z,3eb73fad-0c38-4afa-9bb4-e1b424d5a766,ZZZ,Argentina,ar,100863239189217,NuevoCulture,Facebook
+68db53c2-cdaf-4a79-81a5-425ebc3fcbdb,pabloarepetto,2023-04-06T10:52:46.352Z,4a736772-fbbc-41df-967e-77c4b42b081c,ZZZ,Argentina,ar,100174419537803,pabloarepetto,Facebook
+7c240f50-b691-4e8b-8339-00ac96e49544,Corriente Popular y Federal,2023-04-06T10:52:45.751Z,c909bce5-8fc5-4e06-8796-a15c64b518ff,ZZZ,Argentina,ar,1615687702028158,Corriente Popular y Federal,Facebook
+124d7f7e-1de0-4372-9e15-0a5462e32249,CBE International,2023-03-25T10:52:03.588Z,12629381-d19b-4feb-8553-87ca2a88f3d2,ZZZ,Argentina,ar,251630228879,CBE International,Facebook
+a453409a-9aa6-4fef-a149-8b0442147f9c,Córdoba Global,2023-02-07T15:06:02.517Z,4addbdcc-377c-44c1-8c6a-e3bf4ad5fffa,ZZZ,Argentina,ar,1839628172950951,Córdoba Global,Facebook
+ce90e40c-9279-440e-adbf-83275de86ad3,makeawishprod,2023-11-10T06:22:52.059Z,2556048e-3589-4f1e-9c8c-81a0755181c1,ZZZ,Argentina,ar,135930049605026,makeawishprod,Facebook
+6002c441-b803-4ad2-85b0-0c6442f8f835,Salta Conectada,2023-03-22T10:52:06.232Z,c9bc0303-1902-4907-8430-fd62338c4626,ZZZ,Argentina,ar,100598375795574,Salta Conectada,Facebook
+910f2ce1-87c3-4030-a2d7-f2470a1da7a5,mart25_6,2023-03-24T10:52:26.800Z,6f475667-084f-4e21-891f-d4b400eb525d,ZZZ,Argentina,ar,111023045264546,mart25_6,Facebook
+8fa9b639-5a9a-4304-8a2f-40719b38e532,Espacio Consciencia,2023-03-26T10:52:07.905Z,2d79242a-8460-406d-8e32-f0162ed2ff85,ZZZ,Argentina,ar,3263897533623965,Espacio Consciencia,Facebook
+b4a76cea-7f89-4927-882e-d6c9a17657d4,Eberth Vuelve.,2023-03-26T10:52:07.901Z,986707a0-8d27-4db3-9d0c-a5a358b53463,ZZZ,Argentina,ar,425070911604029,Eberth Vuelve.,Facebook
+dec025b6-6482-4a02-9ed8-c24a7d7710d7,Baga1402_03,2023-03-30T10:52:13.599Z,cd106fa0-3822-4172-bb46-4fae6ca597fb,ZZZ,Argentina,ar,102896729338425,Baga1402_03,Facebook
+6987a82c-b923-43fc-8b47-aa6bc72ced28,Alfredo Andión,2023-04-04T10:52:24.867Z,c985c930-fab3-4349-a297-1ac03ff114a0,ZZZ,Argentina,ar,111946098364218,Alfredo Andión,Facebook
+2d2e8cea-35a9-4a00-8d75-d1a5149aed8e,Walter Klix,2023-04-04T10:52:24.812Z,980743fd-d1d6-435f-bfeb-85d5ead7e051,ZZZ,Argentina,ar,948157968531032,Walter Klix,Facebook
+72de662d-6b47-4114-8e9f-d15ed5af9364,Lisandro Mársico,2023-04-06T10:52:46.302Z,f2f40f88-7f15-44b7-9c70-1c6a350410c4,ZZZ,Argentina,ar,136646489876452,Lisandro Mársico,Facebook
+3014796f-3c50-4945-a2fb-8433a26e7215,Nohemy,2023-04-10T10:51:50.520Z,59f0bbd3-9e18-4c70-9c47-2695a24a0b4a,ZZZ,Argentina,ar,683283585154265,Nohemy,Facebook
+a49b8fdc-fcb0-45d5-bec5-db1be82e878b,Médano 29,2023-04-09T10:52:22.560Z,de119bde-e971-4bc8-a84e-aa1bb8f56d6d,ZZZ,Argentina,ar,375610419198633,Médano 29,Facebook
+580bccbc-dee0-4296-99fe-460273b4b883,Roxana Garavento,2023-04-06T10:52:46.058Z,b87bad5c-0a3c-454f-9540-ce42fa2a2550,ZZZ,Argentina,ar,117892214540490,Roxana Garavento,Facebook
+d8a1d8c5-698f-4c7b-b5b1-e69a118b849e,O'Farrell S.R.L,2023-03-31T10:52:27.786Z,394dd370-36c8-4513-a8db-1da011b94cdd,ZZZ,Argentina,ar,896046427178402,O'Farrell S.R.L,Facebook
+37cc8444-590d-4857-977e-a17493c614d4,TotalProp,2023-03-08T19:52:08.598Z,a28a36f6-8f61-40f5-9a8f-91f5d7ca2b1d,ZZZ,Argentina,ar,112853353485103,TotalProp,Facebook
+8b1dbf44-1722-4b3d-b38c-f15f7d1dcbe9,Hasbarastudentop,2023-11-10T05:06:11.358Z,a7f7c518-f7de-4f38-8fd2-bb4243fa03c7,ZZZ,Argentina,ar,161485207047765,Hasbarastudentop,Facebook
+4693e9f1-6083-4c45-89c5-83bdcc84a2d6,Instituto óptico Analia Melo,2023-04-04T10:52:24.834Z,0c59aa0a-bdb4-4e2a-91e6-aaa6c8b2a9b9,ZZZ,Argentina,ar,155273538403502,Instituto óptico Analia Melo,Facebook
+cdfcd25d-0953-4a6b-94ad-a740c487d2a9,Angelo Cornaglia,2023-04-05T10:52:17.203Z,cc4ba0b6-a1be-476c-b65d-68c09ba6fa3f,ZZZ,Argentina,ar,428694170804146,Angelo Cornaglia,Facebook
+5fb5910d-0c1b-4e6f-ac9d-fe08bd71364f,Brigadas Comunitarias,2023-04-06T10:52:46.274Z,fc97f977-ee90-4fca-a5c2-00d0e7d6e7df,ZZZ,Argentina,ar,2641774812530908,Brigadas Comunitarias,Facebook
+22d6fe5a-3f43-4242-84ae-2710cae0148a,OnatrueStory.com,2023-04-08T10:52:24.174Z,ec138efd-27d9-42d0-bde6-becbccb7f53f,ZZZ,Argentina,ar,115168959027163,OnatrueStory.com,Facebook
+bd6669f0-3a6e-4394-b817-bc555b7e6e02,Estudio Jurídico Anibal A. Paz & Asoc.,2023-04-09T10:52:22.655Z,fda49451-0f53-4d9d-9ef7-84ff4648135e,ZZZ,Argentina,ar,380804349522827,Estudio Jurídico Anibal A. Paz & Asoc.,Facebook
+1882d517-0b90-488c-bbef-d6b63a22439e,Jorge Rosales,2023-04-07T10:52:21.840Z,a054cd83-6ad2-4327-bd9a-0bc98fcdd213,ZZZ,Argentina,ar,1709361816002397,Jorge Rosales,Facebook
+09ca94f2-bc8e-4a6f-b2c1-d3f23f3397b3,Colegios y Consejos Profesionales de la Zona Oeste,2023-03-29T10:52:21.890Z,01489466-d322-4bbc-85fb-0b7395a61d97,ZZZ,Argentina,ar,1194506427302680,Colegios y Consejos Profesionales de la Zona Oeste,Facebook
+060d6f99-d2dd-4fda-91a4-b96a09f4c3c1,nomademultimedio,2023-02-13T10:52:36.076Z,58fc216b-d85d-4020-8f90-a075abe49243,ZZZ,Argentina,ar,101775248763422,nomademultimedio,Facebook
+62321ba9-613f-4306-8411-42d83fe3a150,Revista Polígono Industrial,2023-03-08T15:59:58.198Z,707009a7-233b-4f7f-8845-a13a60de5588,ZZZ,Argentina,ar,351067645046600,Revista Polígono Industrial,Facebook
+43c64801-d773-41d4-b114-012240756d9e,unite_jursoc,2023-11-10T06:22:51.907Z,ada94fb9-bb1b-4825-895a-66252cc966f0,ZZZ,Argentina,ar,103109152633007,unite_jursoc,Facebook
+55a89cfc-a5e4-49f9-a3cd-2f2a24a9fc67,insaflor,2023-03-25T10:52:03.902Z,336530f3-9300-46a8-91c2-c73c46d097bb,ZZZ,Argentina,ar,114999983743874,insaflor,Facebook
+2d1238db-fbde-4855-85b3-c8f8bcfcb822,"SALTA ES AVENTURA""",2023-02-07T15:06:02.456Z,d39ac6f4-2175-44a5-ae54-7d367a843c6c,ZZZ,Argentina,ar,256681974503113,"SALTA ES AVENTURA""",Facebook
+1f7189b4-3655-434a-973a-f0b81e59d2a9,the.tritano.show,2023-02-12T10:52:17.251Z,63ae6b59-44ae-44f7-961e-915ff2487000,ZZZ,Argentina,ar,103802865518363,the.tritano.show,Facebook
